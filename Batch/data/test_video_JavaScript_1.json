@@ -1,0 +1,1634 @@
+{
+    "channels": [{
+        "title": "Chris DeLeon of HomeTeam GameDev",
+        "channelId": "UC15WSgcM_5tmN6JRbhA4UaQ",
+        "channelUrl": "https://youtube.com/channel/UC15WSgcM_5tmN6JRbhA4UaQ",
+        "desc": "Support on Patreon: https://www.patreon.com/gamkedo Try my free course: http://code-your-first-game.com (or full URL is ...",
+        "publishedAt": "2017-05-05T20:29:35.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/xGmXxpIj6vs/hqdefault.jpg"
+    }, {
+        "title": "LearnCode.academy",
+        "channelId": "UCVTlvUkGslCV_h-nSAId8Sw",
+        "channelUrl": "https://youtube.com/channel/UCVTlvUkGslCV_h-nSAId8Sw",
+        "desc": "Once you're done with this, checkout lesson #2 - introduction to CSS: https://www.youtube.com/watch?v=gBi8Obib0tw How to put your website online (with ...",
+        "publishedAt": "2013-10-21T23:21:08.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/3JluqTojuME/hqdefault.jpg"
+    }, {
+        "title": "Tony Alicea",
+        "channelId": "UCsFmLpSNJuFzpKqdEj5jeHw",
+        "channelUrl": "https://youtube.com/channel/UCsFmLpSNJuFzpKqdEj5jeHw",
+        "desc": "Full 12 hour course on sale for $19! https://www.udemy.com/course/understand-javascript/?couponCode=6118495DE2F1408C71A1 (normal price $149) This is ...",
+        "publishedAt": "2015-04-03T01:14:59.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/Bv_5Zv5c-Ts/hqdefault.jpg"
+    }, {
+        "title": "freeCodeCamp.org",
+        "channelId": "UC8butISFwT-Wl7EV0hUK0BQ",
+        "channelUrl": "https://youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
+        "desc": "This complete 134-part JavaScript tutorial for beginners will teach you everything you need to know to get started with the JavaScript programming language.",
+        "publishedAt": "2018-12-10T14:13:40.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/PkZNo7MFNFg/hqdefault.jpg"
+    }, {
+        "title": "Jake Wright",
+        "channelId": "UCc1Pn7FxieMohCZFPYEbs7w",
+        "channelUrl": "https://youtube.com/channel/UCc1Pn7FxieMohCZFPYEbs7w",
+        "desc": "Learn the fundamental features of JavaScript - the language used to add dynamic, interactive content to websites. I teach you how to get started with JavaScript, ...",
+        "publishedAt": "2014-08-05T14:30:15.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/Ukg_U3CnJWI/hqdefault.jpg"
+    }, {
+        "title": "thenewboston",
+        "channelId": "UCJbPGzawDH1njbqV-D5HqKw",
+        "channelUrl": "https://youtube.com/channel/UCJbPGzawDH1njbqV-D5HqKw",
+        "desc": "Facebook - https://www.facebook.com/TheNewBoston-464114846956315/ GitHub - https://github.com/buckyroberts Google+ ...",
+        "publishedAt": "2011-03-16T21:38:19.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/yQaAGmHNn9s/hqdefault.jpg"
+    }, {
+        "title": "Programming with Mosh",
+        "channelId": "UCWv7vMbMWH4-V0ZXdmDpPBA",
+        "channelUrl": "https://youtube.com/channel/UCWv7vMbMWH4-V0ZXdmDpPBA",
+        "desc": "Watch this JavaScript tutorial for beginners to learn JavaScript basics in one hour. Get my Complete JavaScript Course to master JavaScript (83% OFF ...",
+        "publishedAt": "2018-04-24T02:37:33.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/W6NZfCO5SIk/hqdefault.jpg"
+    }, {
+        "title": "Traversy Media",
+        "channelId": "UC29ju8bIPH5as8OGnQzwJyA",
+        "channelUrl": "https://youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA",
+        "desc": "UPDATED COURSE HERE - https://www.youtube.com/watch?v=hdI2bqOjy3c&t=4578s This is a mini-course on the fundamentals of not only JavaScript, but ...",
+        "publishedAt": "2016-03-24T16:18:08.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/vEROU2XtPR8/hqdefault.jpg"
+    }, {
+        "title": "Derek Banas",
+        "channelId": "UCwRXb5dUK4cvsHbx-rGzSgw",
+        "channelUrl": "https://youtube.com/channel/UCwRXb5dUK4cvsHbx-rGzSgw",
+        "desc": "Best JavaScript Book : http://goo.gl/zodRHD Here I teach you how to write JavaScript programs in just 30 minutes. I specifically cover : JavaScript Datatypes, ...",
+        "publishedAt": "2011-02-13T19:10:22.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/_cLvpJY2deo/hqdefault.jpg"
+    }, {
+        "title": "JSConf",
+        "channelId": "UCzoVCacndDCfGDf41P-z0iA",
+        "channelUrl": "https://youtube.com/channel/UCzoVCacndDCfGDf41P-z0iA",
+        "desc": "JavaScript programmers like to use words like, “event-loop”, “non-blocking”, “callback”, “asynchronous”, “single-threaded” and “concurrency”. We say things like ...",
+        "publishedAt": "2014-10-09T15:08:26.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/8aGhZQkoFbQ/hqdefault.jpg"
+    }, {
+        "title": "Хауди Хо™ - Просто о мире IT!",
+        "channelId": "UC7f5bVxWsm3jlZIPDzOMcAg",
+        "channelUrl": "https://youtube.com/channel/UC7f5bVxWsm3jlZIPDzOMcAg",
+        "desc": "Хотите выучить JavaScript и jQuery всего за 1 Час и при этом сделать это качественно? - Тогда смотрите от профессиона...",
+        "publishedAt": "2016-01-10T22:40:42.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/KmTK8kub_gw/hqdefault.jpg"
+    }, {
+        "title": "Fireship",
+        "channelId": "UCsBjURrPoezykLs9EqgamOA",
+        "channelUrl": "https://youtube.com/channel/UCsBjURrPoezykLs9EqgamOA",
+        "desc": "New Series! Code this , not that . Learn how to write solid modern JavaScript and avoid bad code from the olden days. https://angularfirebase.com - Source ...",
+        "publishedAt": "2018-09-27T18:56:49.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/Mus_vwhTCq0/hqdefault.jpg"
+    }, {
+        "title": "CS Dojo",
+        "channelId": "UCxX9wt5FWQUAAz4UrysqK9A",
+        "channelUrl": "https://youtube.com/channel/UCxX9wt5FWQUAAz4UrysqK9A",
+        "desc": "Watch me build a real startup using Python and JavaScript - and it's going to be open-sourced! Also, here are the links I mentioned in this video: - Our Slack ...",
+        "publishedAt": "2018-10-18T04:45:31.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/UyQn0BhVqNU/hqdefault.jpg"
+    }, {
+        "title": "FalconMasters",
+        "channelId": "UCJl1YajcPWTeJNsQhGyMIMg",
+        "channelUrl": "https://youtube.com/channel/UCJl1YajcPWTeJNsQhGyMIMg",
+        "desc": "En este primer capitulo veremos que es Javascript y lo que necesitamos para poder comenzar a programar en JS. Blog de diseño web: ...",
+        "publishedAt": "2015-08-03T21:48:29.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/xnWtGNiG2lg/hqdefault.jpg"
+    }, {
+        "title": "LearnWebCode",
+        "channelId": "UCHRp19HU7Y2LwfI0Ai6WAGQ",
+        "channelUrl": "https://youtube.com/channel/UCHRp19HU7Y2LwfI0Ai6WAGQ",
+        "desc": "My front-end course: https://www.udemy.com/git-a-web-developer-job-mastering-the-modern-workflow/?couponCode=YOUTUBEDEAL My new advanced ...",
+        "publishedAt": "2016-09-28T04:38:09.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/zPHerhks2Vg/hqdefault.jpg"
+    }, {
+        "title": "Sorax",
+        "channelId": "UCdnFX7mzgup9moXG2fULOog",
+        "channelUrl": "https://youtube.com/channel/UCdnFX7mzgup9moXG2fULOog",
+        "desc": "Парсер: http://esprima.org/demo/parse.html Группа ВК: http://vk.com/soraxcss Я ВК: http://vk.com/art.sorax Я на FB: http://www.fb.com/art.sorax Я на Formspring: ...",
+        "publishedAt": "2013-03-02T13:18:58.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/H6G63NKRSi8/hqdefault.jpg"
+    }, {
+        "title": "kudvenkat",
+        "channelId": "UCCTVrRB5KpIiK6V2GGVsR1Q",
+        "channelUrl": "https://youtube.com/channel/UCCTVrRB5KpIiK6V2GGVsR1Q",
+        "desc": "Link for all dot net and sql server video tutorial playlists http://www.youtube.com/user/kudvenkat/playlists Link for slides, code samples and text version of the ...",
+        "publishedAt": "2014-10-27T21:00:38.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/PMsVM7rjupU/hqdefault.jpg"
+    }, {
+        "title": "Гоша Дударь",
+        "channelId": "UCvuY904el7JvBlPbdqbfguw",
+        "channelUrl": "https://youtube.com/channel/UCvuY904el7JvBlPbdqbfguw",
+        "desc": "Мы приступаем к изучению одного из самых интересных и многофункциональных языков программирования, а имен...",
+        "publishedAt": "2015-03-22T11:55:17.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/JgIG6d3JsZs/hqdefault.jpg"
+    }, {
+        "title": "Chris Hawkes",
+        "channelId": "UCfV36TX5AejfAGIbtwTc7Zw",
+        "channelUrl": "https://youtube.com/channel/UCfV36TX5AejfAGIbtwTc7Zw",
+        "desc": "SPONSORS ◅ Linode Web Hosting ($20.00 CREDIT) http://bit.ly/2HsnivM HipsterCode http://bit.ly/2XTdIrx Web Development in 2019 http://bit.ly/2Ux54Np ...",
+        "publishedAt": "2015-10-29T00:23:29.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/6MaOPdQPvow/hqdefault.jpg"
+    }, {
+        "title": "Pasja informatyki",
+        "channelId": "UCzn6vAfspIcagLax1fck_jw",
+        "channelUrl": "https://youtube.com/channel/UCzn6vAfspIcagLax1fck_jw",
+        "desc": "Jeżeli masz ochotę zobaczyć więcej naszych filmów, podcastów i artykułów w coraz lepszej jakości, to zachęcamy do pozostawienia subskrypcji. Można także ...",
+        "publishedAt": "2014-09-13T07:11:37.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/OcwON22ctYc/hqdefault.jpg"
+    }, {
+        "title": "tutor4u",
+        "channelId": "UCJspWFXSL1guQPdFqh4lFjQ",
+        "channelUrl": "https://youtube.com/channel/UCJspWFXSL1guQPdFqh4lFjQ",
+        "desc": "http://www.LittleWebHut.com Getting Started. This tutorial demonstrates how to get started with JavaScript and jQuery. This is a good tutorial for beginners.",
+        "publishedAt": "2012-08-26T06:23:58.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/VRnQOcVclS8/hqdefault.jpg"
+    }, {
+        "title": "GoogleTechTalks",
+        "channelId": "UCtXKDgv1AVoG88PLl8nGXmw",
+        "channelUrl": "https://youtube.com/channel/UCtXKDgv1AVoG88PLl8nGXmw",
+        "desc": "Google Tech Talks Web Exponents presented by Doug Crockford February 27, 2009 blog post: ...",
+        "publishedAt": "2009-02-28T04:22:58.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/hQVTIJBZook/hqdefault.jpg"
+    }, {
+        "title": "Simply Explained - Savjee",
+        "channelId": "UCnxrdFPXJMeHru_b4Q_vTPQ",
+        "channelUrl": "https://youtube.com/channel/UCnxrdFPXJMeHru_b4Q_vTPQ",
+        "desc": "Learn how to write your own Blockchain with JavaScript. In this video I'll show you what is behind a blockchain by using simple code. It's not a complete ...",
+        "publishedAt": "2017-07-18T21:30:01.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/zVqczFZr124/hqdefault.jpg"
+    }, {
+        "title": "Fun Fun Function",
+        "channelId": "UCO1cgjhGzsSYb1rsB4bFe4Q",
+        "channelUrl": "https://youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q",
+        "desc": "Support the show by becoming a Patreon https://www.patreon.com/funfunfunction In this video series, I will teach you how to do functional programming in ...",
+        "publishedAt": "2015-06-21T07:36:24.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/BMUiFMZr7vk/hqdefault.jpg"
+    }, {
+        "title": "Awais Mirza",
+        "channelId": "UCIKbbV7ae7LAWa8cGnvjSPA",
+        "channelUrl": "https://youtube.com/channel/UCIKbbV7ae7LAWa8cGnvjSPA",
+        "desc": "Build a complete website using Angular and Loopback from scratch https://www.udemy.com/angular-loopback-build-complete-website-from-scratch Best ...",
+        "publishedAt": "2017-03-15T19:23:06.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/PwsigsH4oXw/hqdefault.jpg"
+    }, {
+        "title": "mayuko",
+        "channelId": "UCEDkO7wshcDZ7UZo17rPkzQ",
+        "channelUrl": "https://youtube.com/channel/UCEDkO7wshcDZ7UZo17rPkzQ",
+        "desc": "Hey everybody! I finally made a video answering the most popular question I get: \"what programming language should I learn?\" I hope you liked the goofy skit at ...",
+        "publishedAt": "2018-02-12T17:00:01.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/2FgvaJJayyA/hqdefault.jpg"
+    }, {
+        "title": "YUI Library",
+        "channelId": "UCTHcgWOTU6gPje1g_U29tfQ",
+        "channelUrl": "https://youtube.com/channel/UCTHcgWOTU6gPje1g_U29tfQ",
+        "desc": "In this 2007 presentation at Yahoo!, which is meant to be the beginning of a three-course sequence (followed by \"Theory of the DOM\" and then \"Advanced ...",
+        "publishedAt": "2011-08-26T06:43:14.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/v2ifWcnQs6M/hqdefault.jpg"
+    }, {
+        "title": "The Coding Train",
+        "channelId": "UCvjgXvBlbQiydffZU7m1_aw",
+        "channelUrl": "https://youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw",
+        "desc": "In this viewer submitted Coding Challenge, I take on the task of coding a Space Invaders game to play in browser in JavaScript/HTML and the p5.js library.",
+        "publishedAt": "2016-04-26T13:33:02.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/biN3v3ef-Y0/hqdefault.jpg"
+    }, {
+        "title": "FlashCreations",
+        "channelId": "UCMU9HNIIiYNPr3gciefzd0g",
+        "channelUrl": "https://youtube.com/channel/UCMU9HNIIiYNPr3gciefzd0g",
+        "desc": "Update Flash Player: http://www.adobe.com/go/EN_US-H-GET-FLASH To Enable Javascript: -Click Tools -Click Internet Options -Click the Security Tab -Click ...",
+        "publishedAt": "2008-07-17T23:11:12.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/-WFkrHjXlYQ/hqdefault.jpg"
+    }, {
+        "title": "techsith",
+        "channelId": "UCbGZKLIHpox2l0whz6_RYyg",
+        "channelUrl": "https://youtube.com/channel/UCbGZKLIHpox2l0whz6_RYyg",
+        "desc": "How Promises in JavaScript work and how to use them. Explained in a very simple language with real world example. JavaScript promises example How to use ...",
+        "publishedAt": "2016-08-03T15:09:37.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/s6SH72uAn3Q/hqdefault.jpg"
+    }, {
+        "title": "J&G Proyectos Web",
+        "channelId": "UCrh7BmIGftt9I3fcABYoaBA",
+        "channelUrl": "https://youtube.com/channel/UCrh7BmIGftt9I3fcABYoaBA",
+        "desc": "Curso completo de un sitio web desde cero https://www.youtube.com/watch?v=YwlCm641PrQ Link del blog con el código: ...",
+        "publishedAt": "2016-08-01T02:39:21.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/RgSWh5jIx2A/hqdefault.jpg"
+    }, {
+        "title": "Hitesh Choudhary",
+        "channelId": "UCXgGY0wkgOzynnHvSEVmE3A",
+        "channelUrl": "https://youtube.com/channel/UCXgGY0wkgOzynnHvSEVmE3A",
+        "desc": "https://courses.LearnCodeOnline.in What is JavaScript and where can we use it Desktop: https://amzn.to/2GZ0C46 Laptop that I use: https://amzn.to/2Goui9Q ...",
+        "publishedAt": "2018-04-14T06:52:55.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/dlfrWbYk1v0/hqdefault.jpg"
+    }, {
+        "title": "Christopher Okhravi",
+        "channelId": "UCbF-4yQQAWw-UnuCd2Azfzg",
+        "channelUrl": "https://youtube.com/channel/UCbF-4yQQAWw-UnuCd2Azfzg",
+        "desc": "This screencast walks you through some of most important basic concepts of creating websites using HTML, CSS and JavaScript. While staying fast and on-topic ...",
+        "publishedAt": "2013-09-26T22:48:35.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/wrdR5Su_Stg/hqdefault.jpg"
+    }, {
+        "title": "Designveloper",
+        "channelId": "UC6eT8pOvV16UHJzmzuv_Gpw",
+        "channelUrl": "https://youtube.com/channel/UC6eT8pOvV16UHJzmzuv_Gpw",
+        "desc": "How Javascript works is a must in understanding Javascript itself. Read more articles at https://www.designveloper.com/blog.",
+        "publishedAt": "2016-07-26T04:38:12.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/b1ieJtIx1NY/hqdefault.jpg"
+    }, {
+        "title": "Awa Melvine",
+        "channelId": "UCjOVC0tPIo78a_DNeYs7ETQ",
+        "channelUrl": "https://youtube.com/channel/UCjOVC0tPIo78a_DNeYs7ETQ",
+        "desc": "Source code: https://goo.gl/sihxZ7 Support me on Patreon: https://goo.gl/hv7yjB Using JavaScript, the input fields of the registration page are validated ...",
+        "publishedAt": "2016-07-05T23:08:21.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/K1CzktZMXhY/hqdefault.jpg"
+    }, {
+        "title": "LiveOverflow",
+        "channelId": "UClcE-kVhqyiHCcjYwcpfj9w",
+        "channelUrl": "https://youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w",
+        "desc": "Solving a crackme implemented in JavaScript that attempts to obfuscate the algorithm through some anti-debugging. Solution Script / HTML: ...",
+        "publishedAt": "2018-06-28T15:33:36.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/8yWUaqEcXr4/hqdefault.jpg"
+    }, {
+        "title": "Fazt",
+        "channelId": "UCX9NJ471o7Wie1DQe94RVIg",
+        "channelUrl": "https://youtube.com/channel/UCX9NJ471o7Wie1DQe94RVIg",
+        "desc": "Javascript es uno de los lenguajes de programación más populares actualmente, ademas de ser una tecnología fundamental de la web, ya que todos los sitios ...",
+        "publishedAt": "2018-08-31T20:12:53.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/RqQ1d1qEWlE/hqdefault.jpg"
+    }, {
+        "title": "Meth Meth Method",
+        "channelId": "UC8A0M0eDttdB11MHxX58vXQ",
+        "channelUrl": "https://youtube.com/channel/UC8A0M0eDttdB11MHxX58vXQ",
+        "desc": "In this episode I write a Tetris game in JavaScript from scratch. If you like this tutorial you will probably also like my Super Mario Bros tutorial: ...",
+        "publishedAt": "2016-09-08T21:32:36.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/H2aW5V46khA/hqdefault.jpg"
+    }, {
+        "title": "James Shore",
+        "channelId": "UCMDg-RTfD384BAUw_Eq2hIg",
+        "channelUrl": "https://youtube.com/channel/UCMDg-RTfD384BAUw_Eq2hIg",
+        "desc": "The object visualizer mentioned in this video is at http://www.objectplayground.com. For more great videos on professional JavaScript development, visit ...",
+        "publishedAt": "2013-07-18T01:57:38.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/PMfcsYzj-9M/hqdefault.jpg"
+    }, {
+        "title": "blondiebytes",
+        "channelId": "UC4DwZ2VXM2KWtzHjVk9M_xg",
+        "channelUrl": "https://youtube.com/channel/UC4DwZ2VXM2KWtzHjVk9M_xg",
+        "desc": "Learn how to make your websites interactive with the JavaScript in 7 minutes! We'll review some basic HTML/CSS concepts as well. Need some new tech ...",
+        "publishedAt": "2016-08-05T16:00:01.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/LFa9fnQGb3g/hqdefault.jpg"
+    }, {
+        "title": "PHP-MySQL by Saurabh Shukla Sir",
+        "channelId": "UCjH-FPCFAWZEDP8EZVZ0nlQ",
+        "channelUrl": "https://youtube.com/channel/UCjH-FPCFAWZEDP8EZVZ0nlQ",
+        "desc": "Like, Comments, Share and SUBSCRIBE.",
+        "publishedAt": "2016-01-05T07:55:36.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/-ghFCt5TA2I/hqdefault.jpg"
+    }, {
+        "title": "Curso em Vídeo",
+        "channelId": "UCrWvhVmt0Qac3HgsjQK62FQ",
+        "channelUrl": "https://youtube.com/channel/UCrWvhVmt0Qac3HgsjQK62FQ",
+        "desc": "Introdução ao JavaScript. Veja como criar programas simples com a linguagem JS, criada e popularizada pela empresa Netscape. Vamos aprender alguns ...",
+        "publishedAt": "2013-12-16T13:16:25.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/jXPU0uAzmYY/hqdefault.jpg"
+    }, {
+        "title": "Netflix UI Engineering",
+        "channelId": "UCGGRRqAjPm6sL3-WGBDnKJA",
+        "channelUrl": "https://youtube.com/channel/UCGGRRqAjPm6sL3-WGBDnKJA",
+        "desc": "Jay Phelps (@_jayphelps ) talks about why Netflix loves reactive programming with Rx. In this talk he shares the basics of RxJS 5 Observables and how they can ...",
+        "publishedAt": "2016-09-16T00:30:12.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/AslncyG8whg/hqdefault.jpg"
+    }, {
+        "title": "psycofloyd",
+        "channelId": "UCHvtssSrTjy76dYEFwdMiTw",
+        "channelUrl": "https://youtube.com/channel/UCHvtssSrTjy76dYEFwdMiTw",
+        "desc": "Go to google.com clear out your address bar and paste in this javascript:R=0; x1=.1; y1=.05; x2=.25; y2=.24; x3=1.6; y3=.24; x4=300; y4=200; x5=300; y5=200; ...",
+        "publishedAt": "2007-01-09T02:06:43.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/bNBWvaLKSYw/hqdefault.jpg"
+    }, {
+        "title": "Google",
+        "channelId": "UCK8sQmJBp8GCxrOtXWBpyEA",
+        "channelUrl": "https://youtube.com/channel/UCK8sQmJBp8GCxrOtXWBpyEA",
+        "desc": "Google engineer, Lars Bak, explains the key engineering decisions behind, V8, the JavaScript virtual machine used in Google Chrome.",
+        "publishedAt": "2008-09-15T21:46:37.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/hWhMKalEicY/hqdefault.jpg"
+    }, {
+        "title": "Easy Tutorials",
+        "channelId": "UCkjoHfkLEy7ZT4bA2myJ8xA",
+        "channelUrl": "https://youtube.com/channel/UCkjoHfkLEy7ZT4bA2myJ8xA",
+        "desc": "In this video you will learn to design image gallery with HTML and CSS and Javascript. If you have query or you want this code? then write in the comment ...",
+        "publishedAt": "2017-11-06T10:18:08.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/C1B1Fx3XKOg/hqdefault.jpg"
+    }, {
+        "title": "Dongsu Jang",
+        "channelId": "UCfTGEtxelyB4ou2OGqn0ZRw",
+        "channelUrl": "https://youtube.com/channel/UCfTGEtxelyB4ou2OGqn0ZRw",
+        "desc": "How to build Android App with HTML5/CSS/JavaScript.",
+        "publishedAt": "2016-05-13T03:02:05.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/eJa8xie9WZs/hqdefault.jpg"
+    }, {
+        "title": "Online Tutorials",
+        "channelId": "UCbwXnUipZsLfUckBPsC7Jog",
+        "channelUrl": "https://youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog",
+        "desc": "My Amazon Shop link : https://www.amazon.in/shop/onlinetutorials ------------------------ Responsive Dropdown Navigation Bar with HTML and CSS ...",
+        "publishedAt": "2017-09-25T02:32:01.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/XZsuI5wyRzs/hqdefault.jpg"
+    }, {
+        "title": "The Net Ninja",
+        "channelId": "UCW5YeuERMmlnqo4oq8vwUpg",
+        "channelUrl": "https://youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg",
+        "desc": "Hey ninja's, glad you decided to take the JavaScript train and join me on this epic journey of JavaScript tutorials for beginners. We'll be covering all the basics, ...",
+        "publishedAt": "2015-07-22T16:57:58.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/qoSksQ4s_hg/hqdefault.jpg"
+    }, {
+        "title": "Adam Khoury",
+        "channelId": "UCpzRDg0orQBZFBPzeXm1yNg",
+        "channelUrl": "https://youtube.com/channel/UCpzRDg0orQBZFBPzeXm1yNg",
+        "desc": "Lesson Code: http://www.developphp.com/video/JavaScript/Form-Select-Change-Dynamic-List-Option-Elements-Tutorial In this Javascript video lesson you will ...",
+        "publishedAt": "2012-09-08T19:28:56.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/UliJeDbc4cw/hqdefault.jpg"
+    }, {
+        "title": "WebGirl Kristina",
+        "channelId": "UCrRfSdwA7b2Ex0MB6q9hKEQ",
+        "channelUrl": "https://youtube.com/channel/UCrRfSdwA7b2Ex0MB6q9hKEQ",
+        "desc": "В этом видео (Таймлапс) я создаю небольшую 2D игру на чистом JavaScript ES5 без использования фреймворков и библиот...",
+        "publishedAt": "2018-11-17T11:14:04.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/a9NqjKgp4CY/hqdefault.jpg"
+    }, {
+        "title": "hindidevtuts",
+        "channelId": "UC-0d3muMfcERwnqn7CEIW-A",
+        "channelUrl": "https://youtube.com/channel/UC-0d3muMfcERwnqn7CEIW-A",
+        "desc": "from today we start our new video tutorials seies of JavaScript in hindi so any one can learn programming and JavaScript easily.",
+        "publishedAt": "2015-12-27T01:29:15.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/h2j66g5dHk8/hqdefault.jpg"
+    }, {
+        "title": "Yoney Gallardo",
+        "channelId": "UCz8QPKIj84JE091eK-lEImg",
+        "channelUrl": "https://youtube.com/channel/UCz8QPKIj84JE091eK-lEImg",
+        "desc": "En este curso completo de Javascript veremos el siguiente contenido: 1. INTRODUCCIÓN - 00:10 2. INSERCIÓN DE CÓDIGO - 06:44 3. COMENTARIOS ...",
+        "publishedAt": "2018-08-31T03:55:56.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/seaq4UxKNHU/hqdefault.jpg"
+    }, {
+        "title": "Google Developers",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "channelUrl": "https://youtube.com/channel/UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "desc": "Alex Russell JavaScript remains one of the most popular and important programming languages in history. Web Developer and Chrome Engineer Alex Russell ...",
+        "publishedAt": "2011-05-12T16:32:02.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/seX7jYI96GE/hqdefault.jpg"
+    }, {
+        "title": "Google Chrome Developers",
+        "channelId": "UCnUYZLuoy1rq1aVMwx4aTzw",
+        "channelUrl": "https://youtube.com/channel/UCnUYZLuoy1rq1aVMwx4aTzw",
+        "desc": "If you're still using console.log() to find and fix JavaScript issues, you might be spending more time debugging than you need to. This tutorial shows you how to ...",
+        "publishedAt": "2018-01-05T18:03:39.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/H0XScE08hy8/hqdefault.jpg"
+    }, {
+        "title": "Academind",
+        "channelId": "UCSJbGtTlrDami-tDGPUV9-w",
+        "channelUrl": "https://youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w",
+        "desc": "Learn all you need to know about modern ES6 JavaScript! Limited Offer! Join the Full ES6 JavaScript Course at 90% off: https://acad.link/es6 Exclusive Discount ...",
+        "publishedAt": "2016-08-12T15:00:00.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/IEf1KAcK6A8/hqdefault.jpg"
+    }, {
+        "title": "Le Wagon",
+        "channelId": "UChCDYcBCrb8tuPAO6e0P-Hw",
+        "channelUrl": "https://youtube.com/channel/UChCDYcBCrb8tuPAO6e0P-Hw",
+        "desc": "Pour ce workshop, Sebastien Saunier, CTO du Wagon, vous propose de reposer proprement les bases de JavaScript. Ce langage est incontournable car il est ...",
+        "publishedAt": "2015-11-09T10:59:20.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/cQZOfeKrWDs/hqdefault.jpg"
+    }, {
+        "title": "FishThatDrown",
+        "channelId": "UCgOF-8RjjgjS0RN9hHqcVNw",
+        "channelUrl": "https://youtube.com/channel/UCgOF-8RjjgjS0RN9hHqcVNw",
+        "desc": "This is my first javascript tutorial, I decided to make it on functions since it's an important part of javascript.",
+        "publishedAt": "2007-03-22T02:31:53.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/bT_8Dvk5GIQ/hqdefault.jpg"
+    }, {
+        "title": "Platzi",
+        "channelId": "UC55-mxUj5Nj3niXFReG44OQ",
+        "channelUrl": "https://youtube.com/channel/UC55-mxUj5Nj3niXFReG44OQ",
+        "desc": "Respondemos tus dudas la suscripción a Platzi por WhatsApp: http://platzi.com/whatsapp *Aprovecha el precio especial de Navidad* Domina el lenguaje de ...",
+        "publishedAt": "2018-11-24T02:56:17.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/xHQ1tupbNv8/hqdefault.jpg"
+    }, {
+        "title": "listenwhatisayoh",
+        "channelId": "UCKbyWkTjfG2AYYVROvHfC4A",
+        "channelUrl": "https://youtube.com/channel/UCKbyWkTjfG2AYYVROvHfC4A",
+        "desc": "Dies ist der erste Teil meines JavaScript-Kurses. In diesem ersten Teil gebe ich eine allgemeine Einführung über die Skriptsprache JavaScript, außerdem ...",
+        "publishedAt": "2012-03-03T17:18:27.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/5WqO5u2at-A/hqdefault.jpg"
+    }, {
+        "title": "Filipe Alves",
+        "channelId": "UCv6aZVQz8IHrhgemxZrNRmQ",
+        "channelUrl": "https://youtube.com/channel/UCv6aZVQz8IHrhgemxZrNRmQ",
+        "desc": "Como criar um jogo em javascript - criar jogo do zero com html e JavaScript Aprenda a criar jogos profissionais: https://goo.gl/xqEo5s Código para ...",
+        "publishedAt": "2015-02-18T21:41:23.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/z3r8up9cz3w/hqdefault.jpg"
+    }, {
+        "title": "Scott The Woz",
+        "channelId": "UC4rqhyiTs7XyuODcECvuiiQ",
+        "channelUrl": "https://youtube.com/channel/UC4rqhyiTs7XyuODcECvuiiQ",
+        "desc": "After being humbly denied into almost every fraternity/sorority/cult out there, I decided to take it upon myself to make my own fraternity/sorority/cult, Alpha ...",
+        "publishedAt": "2016-11-21T17:59:55.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/1Ceh-TkR75g/hqdefault.jpg"
+    }, {
+        "title": "InfoQ",
+        "channelId": "UCkQX1tChV7Z7l1LFF4L9j_g",
+        "channelUrl": "https://youtube.com/channel/UCkQX1tChV7Z7l1LFF4L9j_g",
+        "desc": "Kyle Simpsons talk for Forward 2 attempts to “pull out the crazy” from JavaScript. He wants to help you produce cleaner, more elegant, more readable code, then ...",
+        "publishedAt": "2015-03-03T18:00:39.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/2pL28CcEijU/hqdefault.jpg"
+    }, {
+        "title": "Telusko",
+        "channelId": "UC59K-uG2A5ogwIrHw4bmlEg",
+        "channelUrl": "https://youtube.com/channel/UC59K-uG2A5ogwIrHw4bmlEg",
+        "desc": "JavaScript was first launched in May 23,1995. JavaScript was earlier used for designing pop-ups, changing of pictures ,etc. JavaScript can be used for creating ...",
+        "publishedAt": "2016-06-11T05:36:02.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/Q6bY3FvBxMk/hqdefault.jpg"
+    }, {
+        "title": "Александр Пауков",
+        "channelId": "UCNOOwsseLdgccXbCpVckowA",
+        "channelUrl": "https://youtube.com/channel/UCNOOwsseLdgccXbCpVckowA",
+        "desc": "",
+        "publishedAt": "2018-04-10T09:01:20.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/4QHFhIjF2L0/hqdefault.jpg"
+    }, {
+        "title": "Web Developer Blog",
+        "channelId": "UCe_H8hzx9WV7Ca7Ps5gt72Q",
+        "channelUrl": "https://youtube.com/channel/UCe_H8hzx9WV7Ca7Ps5gt72Q",
+        "desc": "В этом видео мы рассмотрим 8 основных ошибок при изучении JavaScript. Многие начинающие изучать javascript по урокам...",
+        "publishedAt": "2017-09-02T19:47:22.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/xMYg_GFZFs0/hqdefault.jpg"
+    }, {
+        "title": "Web Dev Simplified",
+        "channelId": "UCFbNIlppjAuEX4znoulh0Cw",
+        "channelUrl": "https://youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw",
+        "desc": "In this video we will be setting up real time face detection through a webcam using AI. This AI is so quick that we are able to draw in real time the various faces ...",
+        "publishedAt": "2019-05-21T16:00:01.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/CVClHLwv-4I/hqdefault.jpg"
+    }, {
+        "title": "JavaScript Lab",
+        "channelId": "UC24tiAt2fssTBgJKeWTwASQ",
+        "channelUrl": "https://youtube.com/channel/UC24tiAt2fssTBgJKeWTwASQ",
+        "desc": "Ce cours pour apprendre Javascript est classé le 1er dans le marché français avec plus de 8390 étudiants sur Udemy. Actuellement, on fait une promotion de ...",
+        "publishedAt": "2017-06-23T20:54:24.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/UEHyHxqbtyg/hqdefault.jpg"
+    }, {
+        "title": "Joma Tech",
+        "channelId": "UCV0qA-eDDICsRR9rPcnG7tw",
+        "channelUrl": "https://youtube.com/channel/UCV0qA-eDDICsRR9rPcnG7tw",
+        "desc": "Want to land jobs at Facebook/Google/Microsoft/Amazon? Learn how to do that here: http://techinterviewpro.com/ ▻ Resume Template and Cover letter I used ...",
+        "publishedAt": "2018-04-22T19:00:00.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/0eIY5b0RKE0/hqdefault.jpg"
+    }, {
+        "title": "خالد السعداني - Khalid ESSAADANI",
+        "channelId": "UCjKpb_hadZ3BQkHcTy81MRA",
+        "channelUrl": "https://youtube.com/channel/UCjKpb_hadZ3BQkHcTy81MRA",
+        "desc": "ملاحظة: لإدراج ملف جافاسكريبت خارجي نستخدم الخاصية src وليس href كما ذكرت في الفيديو، ولعل ذلك كان في لحظة سهو...",
+        "publishedAt": "2015-04-29T14:59:22.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/LnVRU3qp3Wg/hqdefault.jpg"
+    }, {
+        "title": "NDC Conferences",
+        "channelId": "UCTdw38Cw6jcm0atBPA39a0Q",
+        "channelUrl": "https://youtube.com/channel/UCTdw38Cw6jcm0atBPA39a0Q",
+        "desc": "The JavaScript language and ecosystem have seen dramatic changes in the last 2 years. In this sessions we'll look at patterns for organizing code using ...",
+        "publishedAt": "2017-02-27T13:31:30.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/hO7mzO83N1Q/hqdefault.jpg"
+    }, {
+        "title": "Danielle Thé",
+        "channelId": "UCuQ0v3Q5_UCLQkp8AwHDNAA",
+        "channelUrl": "https://youtube.com/channel/UCuQ0v3Q5_UCLQkp8AwHDNAA",
+        "desc": "Before you start any web development tutorials for beginners, FIRST understand what languages are used for building websites: HTML, CSS, JavaScript. Learn ...",
+        "publishedAt": "2016-10-16T19:14:12.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/gT0Lh1eYk78/hqdefault.jpg"
+    }, {
+        "title": "Chris Morrow",
+        "channelId": "UC2jHROayMyZbXX6lWZAblew",
+        "channelUrl": "https://youtube.com/channel/UC2jHROayMyZbXX6lWZAblew",
+        "desc": "Debugging Javascript - 0 (Beginner) to Heisenberg (Advanced) This presentation takes you from beginner to advanced javascript debugging using Chrome ...",
+        "publishedAt": "2014-11-24T22:35:15.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/-q1z8BPFItw/hqdefault.jpg"
+    }, {
+        "title": "VerkkoNet",
+        "channelId": "UCErON4Z0YyiVHKNtx4BvLfg",
+        "channelUrl": "https://youtube.com/channel/UCErON4Z0YyiVHKNtx4BvLfg",
+        "desc": "This video is about creating a countdown clock in JS using HTML & CSS. Website: http://samsolomonprabu.com/ Donate & Support: ...",
+        "publishedAt": "2016-03-19T10:16:35.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/NJVJRFF-Y6U/hqdefault.jpg"
+    }, {
+        "title": "Treehouse",
+        "channelId": "UCqHktcPJV7C7T3e9Cg4T4iw",
+        "channelUrl": "https://youtube.com/channel/UCqHktcPJV7C7T3e9Cg4T4iw",
+        "desc": "Learn JavaScript at Treehouse with a free 7-day trial: https://trhou.se/2qnQjj1 Twitter: https://trhou.se/Twitter Instagram: https://trhou.se/Instagram LinkedIn: ...",
+        "publishedAt": "2018-04-13T22:22:55.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/UOeofWla8mE/hqdefault.jpg"
+    }, {
+        "title": "video2brain",
+        "channelId": "UCv6Hqpbs4-5uG3aShHGk6YA",
+        "channelUrl": "https://youtube.com/channel/UCv6Hqpbs4-5uG3aShHGk6YA",
+        "desc": "In this free lesson from video2brain's course, Getting Started with JavaScript Programming, Joe Chellman explains what JavaScript is and what it does.",
+        "publishedAt": "2012-12-04T19:06:08.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/0ciwEXbkqB4/hqdefault.jpg"
+    }, {
+        "title": "Quentin Watt Tutorials",
+        "channelId": "UCtGGGu_hp8ToQ9BR6Vni19w",
+        "channelUrl": "https://youtube.com/channel/UCtGGGu_hp8ToQ9BR6Vni19w",
+        "desc": "In this video I finally start speaking about form validation. I show you how to check if a form field has been left empty, and how to use a return statement in ...",
+        "publishedAt": "2013-10-30T20:13:52.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/y5UEXujzSag/hqdefault.jpg"
+    }, {
+        "title": "Coding Tech",
+        "channelId": "UCtxCXg-UvSnTKPOzLH4wJaQ",
+        "channelUrl": "https://youtube.com/channel/UCtxCXg-UvSnTKPOzLH4wJaQ",
+        "desc": "Some of the very things that make JavaScript awesome can also make it exposed. This talk will go through some sample security flaws unique to JavaScript's ...",
+        "publishedAt": "2017-09-23T17:10:52.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/0dgmeTy7X3I/hqdefault.jpg"
+    }, {
+        "title": "Code School",
+        "channelId": "UCUFbBYzSUafxMpUbTmroGhg",
+        "channelUrl": "https://youtube.com/channel/UCUFbBYzSUafxMpUbTmroGhg",
+        "desc": "33% off Pluralsight Personal Annual and Premium subscriptions for a limited time! Sign up to take your development and IT skills to the next level.",
+        "publishedAt": "2015-06-16T12:35:27.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/nItSSTwBvSU/hqdefault.jpg"
+    }, {
+        "title": "Dev Ed",
+        "channelId": "UClb90NQQcskPUGDIXsQEz5Q",
+        "channelUrl": "https://youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q",
+        "desc": "Build A Weather App With Vanilla Javascript Tutorial | Javascript For Beginners ❤Become a patreon for exclusive videos and more!",
+        "publishedAt": "2019-01-06T21:15:56.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/wPElVpR1rwA/hqdefault.jpg"
+    }, {
+        "title": "Front-Trends",
+        "channelId": "UCpIBwBITpXelDgDwe-16zWA",
+        "channelUrl": "https://youtube.com/channel/UCpIBwBITpXelDgDwe-16zWA",
+        "desc": "Making the jump from HTML & CSS to JavaScript can be intimidating. For many JS beginners, this will be the first programming language they encounter.",
+        "publishedAt": "2016-07-11T14:32:07.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/Xt5qpbiqw2g/hqdefault.jpg"
+    }, {
+        "title": "Tutoriales a tu Alcance",
+        "channelId": "UC3mOfIKkCJtlSdhsU9y77DA",
+        "channelUrl": "https://youtube.com/channel/UC3mOfIKkCJtlSdhsU9y77DA",
+        "desc": "Este Tip de Tutoriales a tu Alcance es un fragmento del curso completo: \"Aprende Javascript desde cero y crea Aplicaciones Web con NodeJS, Angular y ...",
+        "publishedAt": "2017-08-07T14:35:00.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/0m4e5C-n8H0/hqdefault.jpg"
+    }, {
+        "title": "Pusher",
+        "channelId": "UCoyqucxoFXDFnh3khD0rjUg",
+        "channelUrl": "https://youtube.com/channel/UCoyqucxoFXDFnh3khD0rjUg",
+        "desc": "WebAssembly and the future of JavaScript - Colin Eberhardt For more than 20 years JavaScript has been the only 'native' language of the web. That's all ...",
+        "publishedAt": "2018-03-29T11:57:36.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/pBYqen3B2gc/hqdefault.jpg"
+    }, {
+        "title": "O'Reilly",
+        "channelId": "UC3BGlwmI-Vk6PWyMt15dKGw",
+        "channelUrl": "https://youtube.com/channel/UC3BGlwmI-Vk6PWyMt15dKGw",
+        "desc": "From the Fluent 2012 conference: The past two years have given us a wealth of tools and editor innovation that makes developing web apps more fun and ...",
+        "publishedAt": "2012-05-31T22:08:56.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/f7AU2Ozu8eo/hqdefault.jpg"
+    }, {
+        "title": "develar",
+        "channelId": "UC0EM-EPb-nFnjaoS4uEcmqA",
+        "channelUrl": "https://youtube.com/channel/UC0EM-EPb-nFnjaoS4uEcmqA",
+        "desc": "Want to see your change instantly? No problem. And yes, SASS/CoffeeScript are supported (external watching compiler is still needed). CSS and JavaScript ...",
+        "publishedAt": "2012-08-15T14:07:22.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/w0Db0TTZJa8/hqdefault.jpg"
+    }, {
+        "title": "Joshua Fluke",
+        "channelId": "UC-91UA-Xy2Cvb98deRXuggA",
+        "channelUrl": "https://youtube.com/channel/UC-91UA-Xy2Cvb98deRXuggA",
+        "desc": "Land the job! Get help with a resume and cover letter https://grindreel.com My Courses: https://grindreel.academy/ Learn Code FREE for 2 months: ...",
+        "publishedAt": "2018-11-08T07:10:07.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/6Wzj7kxfRdI/hqdefault.jpg"
+    }, {
+        "title": "TheNewBaghdad",
+        "channelId": "UCgntwWFdMDPq0eNhaQ0LHIQ",
+        "channelUrl": "https://youtube.com/channel/UCgntwWFdMDPq0eNhaQ0LHIQ",
+        "desc": "ماهي لغة جافا سكريبت ولماذا يجب ان تعلمها اذا أردت ان أكون مبرمج ويب وكيف تختلف عن بقية اللغات وأي عمليات...",
+        "publishedAt": "2016-08-16T07:32:21.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/TgB6RXP6QI0/hqdefault.jpg"
+    }, {
+        "title": "CS50",
+        "channelId": "UCcabW7890RKJzL968QWEykA",
+        "channelUrl": "https://youtube.com/channel/UCcabW7890RKJzL968QWEykA",
+        "desc": "00:00:00 - Introduction 00:07:41 - git 00:11:00 - GitHub 00:12:31 - git clone 00:15:06 - git add 00:16:01 - git commit 00:17:40 - git status 00:18:42 - git push ...",
+        "publishedAt": "2018-01-25T21:14:23.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/1u2qu-EmIRc/hqdefault.jpg"
+    }, {
+        "title": "JavaScript Tutorials",
+        "channelId": "UC82nBG0TMf02u80KTClUFaQ",
+        "channelUrl": "https://youtube.com/channel/UC82nBG0TMf02u80KTClUFaQ",
+        "desc": "A JavaScript closure is a function that has a pointer reference to a free variable. A free variable is one that has fallen out of scope after its parent function has ...",
+        "publishedAt": "2013-10-12T18:42:14.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/yiEeiMN2Khs/hqdefault.jpg"
+    }, {
+        "title": "1BestCsharp blog",
+        "channelId": "UCS3W5vFugqi6QcsoAIHcMpw",
+        "channelUrl": "https://youtube.com/channel/UCS3W5vFugqi6QcsoAIHcMpw",
+        "desc": "Display Value Of Selected Option in Select Tag Using Javascript Source Code: ...",
+        "publishedAt": "2017-03-23T09:25:50.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/kzFJ7St_ma8/hqdefault.jpg"
+    }, {
+        "title": "Wes Bos",
+        "channelId": "UCoebwHSTvwalADTJhps0emA",
+        "channelUrl": "https://youtube.com/channel/UCoebwHSTvwalADTJhps0emA",
+        "desc": "Day 1 of 30. Let's make a JavaScript Drum kit and bunch along the way. Get all 30 videos and Starter files for free over at JavaScript30.com.",
+        "publishedAt": "2016-12-12T20:36:51.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/VuN8qwZoego/hqdefault.jpg"
+    }, {
+        "title": "DevTips",
+        "channelId": "UCyIe-61Y8C4_o-zZCtO4ETQ",
+        "channelUrl": "https://youtube.com/channel/UCyIe-61Y8C4_o-zZCtO4ETQ",
+        "desc": "Today @adamrecvlohe walks us through some functional JS programming techniques in Part 1 of a 2 part Javascript series! Project Code ...",
+        "publishedAt": "2016-05-02T15:34:37.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/hM9h1wN4rfU/hqdefault.jpg"
+    }, {
+        "title": "loftblog",
+        "channelId": "UCIIt69f5D44s2cdb9vXQNzA",
+        "channelUrl": "https://youtube.com/channel/UCIIt69f5D44s2cdb9vXQNzA",
+        "desc": "Основатель LoftBlog Николай Чернобаев рассказывает про один из самых популярных языков программирования -...",
+        "publishedAt": "2016-07-28T15:08:57.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/As112XYv15w/hqdefault.jpg"
+    }, {
+        "title": "АйТиБорода",
+        "channelId": "UCeObZv89Stb2xLtjLJ0De3Q",
+        "channelUrl": "https://youtube.com/channel/UCeObZv89Stb2xLtjLJ0De3Q",
+        "desc": "Долгожданное интервью с Senior JavaScript Developer - Макс Дикун. В выпуске раскрыто очень много вопросов о том, что тако...",
+        "publishedAt": "2019-01-24T14:31:18.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/t0pYU50Bo6A/hqdefault.jpg"
+    }, {
+        "title": "TensorFlow",
+        "channelId": "UC0rqucBdTuFTjJiefW5t-IQ",
+        "channelUrl": "https://youtube.com/channel/UC0rqucBdTuFTjJiefW5t-IQ",
+        "desc": "Nikhil Thorat and Daniel Smilkov discuss TensorFlow.js, which is TensorFlow's new machine learning framework for JavaScript developers. It supports building ...",
+        "publishedAt": "2018-03-30T20:09:52.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/YB-kfeNIPCE/hqdefault.jpg"
+    }, {
+        "title": "Webucator",
+        "channelId": "UC0QGsFRt4BcudtOQ8ueVorA",
+        "channelUrl": "https://youtube.com/channel/UC0QGsFRt4BcudtOQ8ueVorA",
+        "desc": "Learn more by taking a Webucator JavaScript courses. Here's a link to our JavaScript classes which are taught by a live instructor: ...",
+        "publishedAt": "2014-12-11T22:47:39.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/_Z-0cwONN6c/hqdefault.jpg"
+    }, {
+        "title": "PrimFX",
+        "channelId": "UCUSRY5EcZAhSbz1Q1QuQw0w",
+        "channelUrl": "https://youtube.com/channel/UCUSRY5EcZAhSbz1Q1QuQw0w",
+        "desc": "C'est parti pour une nouvelle série sur le JavaScript ! Dans ce premier épisode d'introduction, nous verrons ce qu'est le JS et à quoi il pourra nous servir avant ...",
+        "publishedAt": "2017-03-07T11:00:02.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/XkvrHQNmigs/hqdefault.jpg"
+    }, {
+        "title": "Timothy James",
+        "channelId": "UClQAtgHuxvILajM9yQnfwYw",
+        "channelUrl": "https://youtube.com/channel/UClQAtgHuxvILajM9yQnfwYw",
+        "desc": "In Google Sheets, we can use Apps Script (JavaScript) to create custom functions. In this video we show how we can use just a bit of code to create a custom ...",
+        "publishedAt": "2016-02-19T15:40:18.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/DRmWYChhhLk/hqdefault.jpg"
+    }, {
+        "title": "Code Explained",
+        "channelId": "UC8n8ftV94ZU_DJLOLtrpORA",
+        "channelUrl": "https://youtube.com/channel/UC8n8ftV94ZU_DJLOLtrpORA",
+        "desc": "In this tutorial, we're going to create the snake game we used to play on NOKIA mobile phones. Snake is the common name for a video game concept where the ...",
+        "publishedAt": "2017-12-07T21:57:20.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/9TcU2C1AACw/hqdefault.jpg"
+    }, {
+        "title": "Ralph Phillips",
+        "channelId": "UCRLtb7abeDnVQ12VNZqU13Q",
+        "channelUrl": "https://youtube.com/channel/UCRLtb7abeDnVQ12VNZqU13Q",
+        "desc": "",
+        "publishedAt": "2011-04-09T15:20:39.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/Pc2e2YpKArg/hqdefault.jpg"
+    }, {
+        "title": "Jeffery Hirono",
+        "channelId": "UCQDNnkv0YxZtZnHzNXFR9hg",
+        "channelUrl": "https://youtube.com/channel/UCQDNnkv0YxZtZnHzNXFR9hg",
+        "desc": "Check out my new site at http://www.youtubemuse.com/ In this screencast, we are going to dive into the world of a very popular scripting language called ...",
+        "publishedAt": "2008-07-06T20:58:01.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/qtzjzMsJiO8/hqdefault.jpg"
+    }, {
+        "title": "WebDev с нуля. Канал Алекса Лущенко",
+        "channelId": "UCP-xJwnvKCGyS-nbyOx1Wmg",
+        "channelUrl": "https://youtube.com/channel/UCP-xJwnvKCGyS-nbyOx1Wmg",
+        "desc": "Плейлист: https://goo.gl/HrTSbd Я веду онлайн курс JavaScript: http://js.itgid.info Все мои курсы: http://itgid.info Заходите в группу телегр...",
+        "publishedAt": "2016-11-23T05:47:09.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/asnp3xm_vfY/hqdefault.jpg"
+    }, {
+        "title": "MakeWeb.me",
+        "channelId": "UCt36CWL85NGtOgUMZ2X6x5g",
+        "channelUrl": "https://youtube.com/channel/UCt36CWL85NGtOgUMZ2X6x5g",
+        "desc": "(Перевод от MakeWeb.me) Этот доклад Филипа Робертса с JSConf проясняет очень важные моменты по поводу работы JS в...",
+        "publishedAt": "2017-08-12T15:26:49.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/8cV4ZvHXQL4/hqdefault.jpg"
+    }, {
+        "title": "Hack Reactor",
+        "channelId": "UCW1kqCoWJ4Pn_MnBtYVwaCA",
+        "channelUrl": "https://youtube.com/channel/UCW1kqCoWJ4Pn_MnBtYVwaCA",
+        "desc": "Kyle Simpson, better known as Getify, speaks about Advanced Async and Concurrency Patterns in JavaScript at the JS.LA meetup. MakerSquare is a ...",
+        "publishedAt": "2016-03-02T16:30:31.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/Qg1SvpIau6U/hqdefault.jpg"
+    }, {
+        "title": "Java&Cia",
+        "channelId": "UCWqFtO6PsCsMuhK1XoqpWtA",
+        "channelUrl": "https://youtube.com/channel/UCWqFtO6PsCsMuhK1XoqpWtA",
+        "desc": "",
+        "publishedAt": "2014-08-29T12:30:29.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/VtJuifD4dSE/hqdefault.jpg"
+    }, {
+        "title": "Codementor",
+        "channelId": "UC2YpBIUAbkMKuDn5oVwkVyg",
+        "channelUrl": "https://youtube.com/channel/UC2YpBIUAbkMKuDn5oVwkVyg",
+        "desc": "We recently hosted a mock interview where an experienced interviewer conducted a mock technical interview with a candidate looking for a front-end developer ...",
+        "publishedAt": "2016-10-21T03:22:19.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/057Rs6CgJnY/hqdefault.jpg"
+    }, {
+        "title": "Filipe Deschamps",
+        "channelId": "UCU5JicSrEM5A63jkJ2QvGYw",
+        "channelUrl": "https://youtube.com/channel/UCU5JicSrEM5A63jkJ2QvGYw",
+        "desc": "Vamos programar linha a linha o algoritmo de Fogo do jogo DOOM de uma forma extremamente divertida. Esse tutorial sobre como programar serve para quem ...",
+        "publishedAt": "2019-01-22T12:30:16.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/fxm8cadCqbs/hqdefault.jpg"
+    }, {
+        "title": "JetBrainsTV",
+        "channelId": "UCGp4UBwpTNegd_4nCpuBcow",
+        "channelUrl": "https://youtube.com/channel/UCGp4UBwpTNegd_4nCpuBcow",
+        "desc": "Previous videos from the series Debugging JavaScript in WebStorm and Chrome: - https://youtu.be/oz14IUf0b1M - https://youtu.be/YNNDMpoGV0w Debugging ...",
+        "publishedAt": "2016-12-23T13:26:12.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/CdXoeVRN1JU/hqdefault.jpg"
+    }, {
+        "title": "Kyle Robinson Young",
+        "channelId": "UCpqYfSWEcyBGorRGvPsHkgg",
+        "channelUrl": "https://youtube.com/channel/UCpqYfSWEcyBGorRGvPsHkgg",
+        "desc": "Learn how to manage asynchronous callbacks and avoid callback hell. Getting started with Node.js / io.js: https://www.youtube.com/watch?v=Ads1A7pn2LI ...",
+        "publishedAt": "2015-06-11T16:00:02.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/qN0dkXj7jc0/hqdefault.jpg"
+    }, {
+        "title": "HasGeek TV",
+        "channelId": "UCDHao9FxNRHw1VyLuGXI_rA",
+        "channelUrl": "https://youtube.com/channel/UCDHao9FxNRHw1VyLuGXI_rA",
+        "desc": "The goal of this talk would be to provide a good understanding of the following, A crisp understanding of the JavaScript VM and how a single threaded engine ...",
+        "publishedAt": "2015-09-23T13:08:00.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/QyUFheng6J0/hqdefault.jpg"
+    }, {
+        "title": "Samuraj Programowania",
+        "channelId": "UC6wlzVp-5TD5xfDwiohSDeg",
+        "channelUrl": "https://youtube.com/channel/UC6wlzVp-5TD5xfDwiohSDeg",
+        "desc": "Kurs programowania w JavaScript od podstaw. Dzień 1. Rozmawiamy o zmiennych w językach programowania, oczywiście przede wszystkim w JS. Program od ...",
+        "publishedAt": "2017-05-30T16:00:04.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/JFDScHg6Dws/hqdefault.jpg"
+    }, {
+        "title": "Thư Viện Lập Trình",
+        "channelId": "UCl85rcoLszFv_qCL1hcOB2g",
+        "channelUrl": "https://youtube.com/channel/UCl85rcoLszFv_qCL1hcOB2g",
+        "desc": "Loạt video chủ đề dạy học lập trình và thiết kế website online từ A-Z. Phần JAVASCRIPT. Bài 1: Đây là bài học đầu tiên của phần Javascript. Phần này...",
+        "publishedAt": "2017-06-25T12:30:50.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/aeNRVbyn2fc/hqdefault.jpg"
+    }, {
+        "title": "CCSIT-KFU",
+        "channelId": "UCA-U8ZplCcTtfARZ3gt3zcw",
+        "channelUrl": "https://youtube.com/channel/UCA-U8ZplCcTtfARZ3gt3zcw",
+        "desc": "In this screencast, you will get to know about the different ways you can validate input from HTML forms in JavaScript. Although some of the validation types ...",
+        "publishedAt": "2014-04-19T18:12:58.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/m3OPF6dYKgA/hqdefault.jpg"
+    }, {
+        "title": "James Q Quick",
+        "channelId": "UC-T8W79DN6PBnzomelvqJYw",
+        "channelUrl": "https://youtube.com/channel/UC-T8W79DN6PBnzomelvqJYw",
+        "desc": "Debugging is an essential skill for any JavaScript developer. In this video, we will explore two different options to do so in Chrome and in Visual Studio Code.",
+        "publishedAt": "2018-06-19T16:13:29.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/AX7uybwukkk/hqdefault.jpg"
+    }, {
+        "title": "LinkedIn Learning",
+        "channelId": "UCikzJG7RbnNZhKLqqaXRM6A",
+        "channelUrl": "https://youtube.com/channel/UCikzJG7RbnNZhKLqqaXRM6A",
+        "desc": "This tutorial is an introduction to AJAX, or Asynchronous JavaScript and XML. Watch more at ...",
+        "publishedAt": "2013-01-31T02:55:04.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/RDo3hBL1rfA/hqdefault.jpg"
+    }, {
+        "title": "mmtuts",
+        "channelId": "UCzyuZJ8zZ-Lhfnz41DG5qLw",
+        "channelUrl": "https://youtube.com/channel/UCzyuZJ8zZ-Lhfnz41DG5qLw",
+        "desc": "Exercises in JavaScript | Create a Calculator Using JavaScript | JavaScript Tutorial | mmtuts. In this JavaScript tutorial you will create your first JavaScript ...",
+        "publishedAt": "2018-05-09T22:00:02.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/qQEYAOPWDzk/hqdefault.jpg"
+    }, {
+        "title": "meh moo",
+        "channelId": "UCRGxpl6kRwRD63ipzWvMlOg",
+        "channelUrl": "https://youtube.com/channel/UCRGxpl6kRwRD63ipzWvMlOg",
+        "desc": "A screencast of an upcoming workshop on DOM and JavaScript explaining the elements of the DOM and how to script it in JavaScript.",
+        "publishedAt": "2007-02-12T11:55:36.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/URF2sVQWuxU/hqdefault.jpg"
+    }, {
+        "title": "Phạm Huy Hoàng",
+        "channelId": "UCdV9tn79v3ecSDpC1AjVKaw",
+        "channelUrl": "https://youtube.com/channel/UCdV9tn79v3ecSDpC1AjVKaw",
+        "desc": "Hôm nay, Code Dạo một lần làm clip lạ để xem các bạn có trầm trồ. (Cố ý để font nhỏ để các bạn xem trên máy tính và code theo nhe) Tụi mình sẽ...",
+        "publishedAt": "2019-06-04T12:00:11.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/ZIgDYEZl1VE/hqdefault.jpg"
+    }, {
+        "title": "EDteam",
+        "channelId": "UCP15FVAA2UL-QOcGhy7-ezA",
+        "channelUrl": "https://youtube.com/channel/UCP15FVAA2UL-QOcGhy7-ezA",
+        "desc": "En este video veremos los conceptos básicos para que puedas empezar a utilizar JavaScript y jQuery sin sufrimiento. Visítanos en nuestra página web ...",
+        "publishedAt": "2015-06-01T04:51:54.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/D31UfjthVWE/hqdefault.jpg"
+    }, {
+        "title": "pdiddles03",
+        "channelId": "UCxWtyIzqi1O_a-sUxl9qHsg",
+        "channelUrl": "https://youtube.com/channel/UCxWtyIzqi1O_a-sUxl9qHsg",
+        "desc": "This is a video tutorial on how to move a HTML element inside of a container by detecting a key press and move the element based on a key press. This is basic ...",
+        "publishedAt": "2013-08-23T04:29:24.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/vbnjxXCq5HQ/hqdefault.jpg"
+    }, {
+        "title": "DevMedia",
+        "channelId": "UClBrpNsTEFLbZDDMW1xiOaQ",
+        "channelUrl": "https://youtube.com/channel/UClBrpNsTEFLbZDDMW1xiOaQ",
+        "desc": "Neste vídeo sobre JavaScript, vamos responder as principais dúvidas dos programadores iniciantes. Descubra agora! Se você quer se aprofundar nesse ...",
+        "publishedAt": "2019-02-02T04:28:47.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/Fu6p9TidKZc/hqdefault.jpg"
+    }, {
+        "title": "Firebase",
+        "channelId": "UCP4bf6IHJJQehibu6ai__cg",
+        "channelUrl": "https://youtube.com/channel/UCP4bf6IHJJQehibu6ai__cg",
+        "desc": "In this Firecast, Doug Stevenson covers programming with JavaScript Promises in an HTTP trigger in Cloud Functions. If you're going to write code for Cloud ...",
+        "publishedAt": "2018-04-06T00:39:54.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/7IkUgCLr5oA/hqdefault.jpg"
+    }, {
+        "title": "whatsdev",
+        "channelId": "UC0tRdbXVDbhaRvZPKsRgmxg",
+        "channelUrl": "https://youtube.com/channel/UC0tRdbXVDbhaRvZPKsRgmxg",
+        "desc": "Is it really possible to master Javascript within 12 months? This video shows you the steps on how to achieve mastery in the language. Get my FREE ...",
+        "publishedAt": "2018-10-19T14:30:00.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/7JVNjwilPMU/hqdefault.jpg"
+    }, {
+        "title": "CharnyCoding",
+        "channelId": "UCpeXW6_CG9jobX8I1xDCnMg",
+        "channelUrl": "https://youtube.com/channel/UCpeXW6_CG9jobX8I1xDCnMg",
+        "desc": "In this video, I'll show you how to validate a form with Javascript. A Javascript validation isn't secure, a server side (PHP) validation should be made too.",
+        "publishedAt": "2010-07-13T01:26:13.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/k-XIdrQ65Hg/hqdefault.jpg"
+    }, {
+        "title": "Coding Shiksha",
+        "channelId": "UCR6d0EiC3G4WA8-Rqji6a8g",
+        "channelUrl": "https://youtube.com/channel/UCR6d0EiC3G4WA8-Rqji6a8g",
+        "desc": "Login With Google Account Using Javascript login with google account using javascript,google login using javascript,login using google account javascript,login ...",
+        "publishedAt": "2017-08-11T13:32:21.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/qzq0kEUa5lU/hqdefault.jpg"
+    }, {
+        "title": "Web Programming UNPAS",
+        "channelId": "UCkXmLjEr95LVtGuIm3l2dPg",
+        "channelUrl": "https://youtube.com/channel/UCkXmLjEr95LVtGuIm3l2dPg",
+        "desc": "Kenapa sih kita belajar javascript di seri ini? yuk kita simak jawabannya di video ini.. --- - HTML Dasar ...",
+        "publishedAt": "2016-12-05T05:33:21.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/6UhT1lmV9DE/hqdefault.jpg"
+    }, {
+        "title": "thaitaniumhacker",
+        "channelId": "UCA1qBMnMD81oRzneVYgZlkQ",
+        "channelUrl": "https://youtube.com/channel/UCA1qBMnMD81oRzneVYgZlkQ",
+        "desc": "สอนทำเว็บ การเขียน javascript html php ตอนที่ 1 อธิบายถึงการใช้งาน javascript เบื้องต้นใน...",
+        "publishedAt": "2012-01-06T14:53:21.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/2H6Is-2zbhI/hqdefault.jpg"
+    }, {
+        "title": "Matt Marenghi",
+        "channelId": "UCGcWBtQ0uU65YXJc0OUOMMA",
+        "channelUrl": "https://youtube.com/channel/UCGcWBtQ0uU65YXJc0OUOMMA",
+        "desc": "Netflix JavaScript Talks - Episode 1 Async JavaScript with Reactive Extensions In this talk, you'll learn how Netflix uses the Reactive Extensions (Rx) library to ...",
+        "publishedAt": "2014-03-22T19:08:56.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/XRYN2xt11Ek/hqdefault.jpg"
+    }, {
+        "title": "gzm36f",
+        "channelId": "UCK9OgXsgqQ4BsrKAL9A0_uQ",
+        "channelUrl": "https://youtube.com/channel/UCK9OgXsgqQ4BsrKAL9A0_uQ",
+        "desc": "Overview of associating a JavaScript event handler with the HTML SELECT element's onchange event.",
+        "publishedAt": "2010-04-02T22:17:00.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/7O9K_ULKOzU/hqdefault.jpg"
+    }, {
+        "title": "Jesse Showalter",
+        "channelId": "UCvBGFeXbBrq3W9_0oNLJREQ",
+        "channelUrl": "https://youtube.com/channel/UCvBGFeXbBrq3W9_0oNLJREQ",
+        "desc": "Front End Development Book Review | HTML & CSS and JavaScript & JQuery by Jon Duckett. Learning is so important and although there is an abundance of ...",
+        "publishedAt": "2017-04-28T16:21:09.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/9VnjAQTUf5k/hqdefault.jpg"
+    }, {
+        "title": "Frontend Masters",
+        "channelId": "UCzumJvwc0KBrdq4jpvOR7RA",
+        "channelUrl": "https://youtube.com/channel/UCzumJvwc0KBrdq4jpvOR7RA",
+        "desc": "https://frontendmasters.com/courses/javascript-foundations/ — Join Kyle Simpson — author of the popular “You Don't Know JavaScript” book series — as he ...",
+        "publishedAt": "2017-08-09T14:00:30.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/HcW5-P2SNec/hqdefault.jpg"
+    }, {
+        "title": "Bitech Studio",
+        "channelId": "UC-foHKza2KlpQuo2wi6UCAg",
+        "channelUrl": "https://youtube.com/channel/UC-foHKza2KlpQuo2wi6UCAg",
+        "desc": "JavaScript es un lenguaje de programación interpretado del lado del cliente, que se utiliza principalmente para agregar interactividad en las paginas web.",
+        "publishedAt": "2016-09-22T23:18:57.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/riZbwRFMFuw/hqdefault.jpg"
+    }, {
+        "title": "Udemy Tech",
+        "channelId": "UCU6e4MJtvlcX5DBLP1cq8hQ",
+        "channelUrl": "https://youtube.com/channel/UCU6e4MJtvlcX5DBLP1cq8hQ",
+        "desc": "View more Udemy instructors in this Web-Dev playlist: https://goo.gl/Jsb8Fb Explore the full course on Udemy (special discount included in the link): ...",
+        "publishedAt": "2018-03-05T03:45:03.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/ZpU3mEaK0_w/hqdefault.jpg"
+    }, {
+        "title": "Aakash Chakravarthy",
+        "channelId": "UC9TEYB4n5TieiMnEI6AGi5g",
+        "channelUrl": "https://youtube.com/channel/UC9TEYB4n5TieiMnEI6AGi5g",
+        "desc": "Video to demonstrate the features of HTML Javascript Adder WordPress plugin. This video showcases the highlighting features of the plugin More Info: ...",
+        "publishedAt": "2012-04-07T11:09:35.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/pAJCm2GWk44/hqdefault.jpg"
+    }, {
+        "title": "Web Zone",
+        "channelId": "UCYgcWfqm9BtrBOz6sbjMRgg",
+        "channelUrl": "https://youtube.com/channel/UCYgcWfqm9BtrBOz6sbjMRgg",
+        "desc": "code: - http://bit.ly/2FrykO8 This video tutorial about how to make a image slide show using Java script with left/ Prew and right/next control buttons This is a full ...",
+        "publishedAt": "2017-10-09T02:57:34.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/sQuniQCzNlY/hqdefault.jpg"
+    }, {
+        "title": "AndroidAppFactory",
+        "channelId": "UCDcVZP_m_ylf7brRYzkoe9Q",
+        "channelUrl": "https://youtube.com/channel/UCDcVZP_m_ylf7brRYzkoe9Q",
+        "desc": "100% javascript HTML5 movement tracker with Firefox 3.1 starring C. Bizzard.",
+        "publishedAt": "2009-02-22T05:18:09.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/W0Hl0tLs7XA/hqdefault.jpg"
+    }, {
+        "title": "Envato Tuts+",
+        "channelId": "UC8lxnUR_CzruT2KA6cb7p0Q",
+        "channelUrl": "https://youtube.com/channel/UC8lxnUR_CzruT2KA6cb7p0Q",
+        "desc": "In this course you're going to learn the basics of JavaScript from a web designer's perspective. We'll begin by going over the basics, such as JavaScript ...",
+        "publishedAt": "2017-10-20T18:00:02.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/ResWVWI333o/hqdefault.jpg"
+    }, {
+        "title": "Glen Maddern",
+        "channelId": "UCjihD6sRyQ2moOFsaDusgYA",
+        "channelUrl": "https://youtube.com/channel/UCjihD6sRyQ2moOFsaDusgYA",
+        "desc": "Update: Future videos will be on a new channel Front End Center (https://www.youtube.com/channel/UCbxzdZTDn4YB4Z-ukch2ivw) A brief tour of JSPM, ...",
+        "publishedAt": "2015-01-07T11:18:41.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/iukBMY4apvI/hqdefault.jpg"
+    }, {
+        "title": "ConFoo Developer Conference",
+        "channelId": "UCxfBbOp-h9UR1sIvdS3xTqg",
+        "channelUrl": "https://youtube.com/channel/UCxfBbOp-h9UR1sIvdS3xTqg",
+        "desc": "This is about JavaScript, clutter, purity, and thoughts on what should be in the language that comes after, assuming that we all live that long. ConFoo: ...",
+        "publishedAt": "2017-04-05T17:19:11.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/NPB34lDZj3E/hqdefault.jpg"
+    }, {
+        "title": "rocketpackgames",
+        "channelId": "UCsNRtcNUNV2rgdTcHdnchxg",
+        "channelUrl": "https://youtube.com/channel/UCsNRtcNUNV2rgdTcHdnchxg",
+        "desc": "Built by and for professional game developers, Rocket Engine is the only fully integrated solution for plugin-free browser game development. Read more at ...",
+        "publishedAt": "2010-09-01T16:19:00.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/WPVhPGOLe7c/hqdefault.jpg"
+    }, {
+        "title": "Código Fonte TV",
+        "channelId": "UCFuIUoyHB12qpYa8Jpxoxow",
+        "channelUrl": "https://youtube.com/channel/UCFuIUoyHB12qpYa8Jpxoxow",
+        "desc": "Será que dá para programar um jogo com javascript puro em apenas 28 minutos e sem cortes? Não percaaaaaaaaammmmmm! Se você tiver algum sugestão ...",
+        "publishedAt": "2019-04-11T14:00:02.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/M258B1b_pMs/hqdefault.jpg"
+    }, {
+        "title": "computingboss",
+        "channelId": "UCMOvlXoguz3KEwyMP9ejfRw",
+        "channelUrl": "https://youtube.com/channel/UCMOvlXoguz3KEwyMP9ejfRw",
+        "desc": "In this tutorial JavaScript is being taught, JavaScript is a client-side scripting language and so doesn't need a server to be executed. Learn how to make your ...",
+        "publishedAt": "2012-10-30T16:07:32.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/EiOtxmRFi10/hqdefault.jpg"
+    }, {
+        "title": "InterviewNest",
+        "channelId": "UCl2ug6vvq-nGk0PMnNjkMSQ",
+        "channelUrl": "https://youtube.com/channel/UCl2ug6vvq-nGk0PMnNjkMSQ",
+        "desc": "How to Remove Duplicate values from an array of integers. Four solutions, 1 ) One brute-force method using a for loop, 2)sort and remove, 3) using JavaScript ...",
+        "publishedAt": "2018-02-08T15:00:03.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/dvPybpgk5Y4/hqdefault.jpg"
+    }, {
+        "title": "Fest Group",
+        "channelId": "UClTnsvgTiW2YcfP1tcI2oKA",
+        "channelUrl": "https://youtube.com/channel/UClTnsvgTiW2YcfP1tcI2oKA",
+        "desc": "The talk from JS Fest conference in Kyiv, Ukraine. Presentation: https://bit.ly/2U0lQmZ Fb: https://www.facebook.com/JSFestua/ Website: http://jsfest.com.ua/ ...",
+        "publishedAt": "2019-04-08T16:43:18.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/z6JRlx5NC9E/hqdefault.jpg"
+    }, {
+        "title": "Paul Dumitru",
+        "channelId": "UCw2G9FNdBgWP8JYluUnsZcw",
+        "channelUrl": "https://youtube.com/channel/UCw2G9FNdBgWP8JYluUnsZcw",
+        "desc": "A basic example of validating forms with javascript . For more hd quality tutorials visit http://hotpin.co.cc.",
+        "publishedAt": "2009-10-18T17:14:24.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/_FOMVkvdNhQ/hqdefault.jpg"
+    }, {
+        "title": "Brackets",
+        "channelId": "UCCvv6VM72jjNrFx80YYg3og",
+        "channelUrl": "https://youtube.com/channel/UCCvv6VM72jjNrFx80YYg3og",
+        "desc": "Theseus is an open source JavaScript debugger for Brackets that allows you to easily inspect asynchronous function calls. Developed by Adobe in partnership ...",
+        "publishedAt": "2013-08-28T06:14:12.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/T6d5C3rLeFY/hqdefault.jpg"
+    }, {
+        "title": "Yazılım Bilimi",
+        "channelId": "UCZNZj3mkdCGJfCoKyl4bSYQ",
+        "channelUrl": "https://youtube.com/channel/UCZNZj3mkdCGJfCoKyl4bSYQ",
+        "desc": "Javascript Dersleri , Javascript Programlama , Javascript Öğren, 1 Videoda Javascript Dersleri , Javascript Eğitim Seti Konular: Değişkenler ve Veri Tipleri ...",
+        "publishedAt": "2018-01-26T14:03:05.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/-ei7CLxoOVU/hqdefault.jpg"
+    }, {
+        "title": "CoderMania",
+        "channelId": "UCOFLvJbZv8Q-yhFYd9SrHOw",
+        "channelUrl": "https://youtube.com/channel/UCOFLvJbZv8Q-yhFYd9SrHOw",
+        "desc": "This video is a part of Web development school playlist: https://www.youtube.com/playlist?list=PLoy-bs-bDKTgQYc39H9SpxuWUMitdGhtf You can learn to code ...",
+        "publishedAt": "2015-07-30T21:47:22.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/TUnfb944HFI/hqdefault.jpg"
+    }, {
+        "title": "Charles Wood",
+        "channelId": "UCjEH3bfJQ-wLtROSmndOZdQ",
+        "channelUrl": "https://youtube.com/channel/UCjEH3bfJQ-wLtROSmndOZdQ",
+        "desc": "",
+        "publishedAt": "2010-12-10T17:15:57.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/Tn-2VFHi8Co/hqdefault.jpg"
+    }, {
+        "title": "Jonathan Melgoza",
+        "channelId": "UCddMcfcZAoMLfrtATAcDfuQ",
+        "channelUrl": "https://youtube.com/channel/UCddMcfcZAoMLfrtATAcDfuQ",
+        "desc": "En este video te muestro como hacer una calculadora básica desde cero completamente utilizando unicamente HTML para la estructura, CSS para un poco de ...",
+        "publishedAt": "2017-09-11T01:33:28.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/uGohVJhgSN8/hqdefault.jpg"
+    }, {
+        "title": "Extern Code",
+        "channelId": "UCfx2dro_w4_MyA19Nm5badg",
+        "channelUrl": "https://youtube.com/channel/UCfx2dro_w4_MyA19Nm5badg",
+        "desc": "This JavaScript tutorial is everything need to get started with the JavaScript for developing webpages, script and soon in web development. Learn More about ...",
+        "publishedAt": "2017-01-16T08:06:57.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/PJtYIzYrCos/hqdefault.jpg"
+    }, {
+        "title": "Stefan Mischook",
+        "channelId": "UCyUBW72KU30dfAYWLVNZO8Q",
+        "channelUrl": "https://youtube.com/channel/UCyUBW72KU30dfAYWLVNZO8Q",
+        "desc": "Learn Python 3: http://www.killervideostore.com/video-courses/beginners_python_3.php Learn web development fast: https://shop.killervideostore.com/ My ...",
+        "publishedAt": "2017-07-28T13:00:01.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/HGHJP5lTMbQ/hqdefault.jpg"
+    }, {
+        "title": "Online Marketing Management",
+        "channelId": "UC1Qb2nuz645u9LRaoH6coJg",
+        "channelUrl": "https://youtube.com/channel/UC1Qb2nuz645u9LRaoH6coJg",
+        "desc": "Eliminate render-blocking JavaScript and CSS in above-the-fold content in a WordPress website.",
+        "publishedAt": "2017-04-22T01:13:17.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/0UPYjvhMolY/hqdefault.jpg"
+    }, {
+        "title": "ZEIT",
+        "channelId": "UCLq8gNoee7oXM7MvTdjyQvA",
+        "channelUrl": "https://youtube.com/channel/UCLq8gNoee7oXM7MvTdjyQvA",
+        "desc": "People have mixed feelings about the JavaScript ecosystem. Are we living in the JavaScript fatigue or in the JavaScript Renaissance? Dan Abramov from the ...",
+        "publishedAt": "2017-10-10T16:42:46.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/G39lKaONAlA/hqdefault.jpg"
+    }, {
+        "title": "Senior Software Vlogger",
+        "channelId": "UCX3w3jB05SHLbGjZPR0PM6g",
+        "channelUrl": "https://youtube.com/channel/UCX3w3jB05SHLbGjZPR0PM6g",
+        "desc": "Ссылка для регистрации - https://wep.wf/suufq7 Для тех кто хотел разобраться в JavaScript, появилась отличная возможность...",
+        "publishedAt": "2019-06-15T21:55:06.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/klq7v79cDFc/hqdefault.jpg"
+    }, {
+        "title": "BilgisayarKavramlari",
+        "channelId": "UCkkgrhDCJheXQNIFqUVw0_g",
+        "channelUrl": "https://youtube.com/channel/UCkkgrhDCJheXQNIFqUVw0_g",
+        "desc": "Java script videolarına giriş yapıyor, sunucu tarafı ve istemci tarafı kodlamanın ne olduğunu, java scriptin tam olarak nerede işe yaradığını, çıkışını, günümüzde ...",
+        "publishedAt": "2017-07-03T08:13:59.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/H_RT1XRqi8I/hqdefault.jpg"
+    }, {
+        "title": "DKA-DEVELOP",
+        "channelId": "UCWdmR3tpvXkzubAZugUQLdw",
+        "channelUrl": "https://youtube.com/channel/UCWdmR3tpvXkzubAZugUQLdw",
+        "desc": "Бесплатные уроки по информационным технологиям Подписывайтесь на канал Уроки JavaScript ES6 - ES9 стандарт...",
+        "publishedAt": "2019-02-22T21:19:14.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/bQQ0WCPhkU0/hqdefault.jpg"
+    }, {
+        "title": "Gaston Arnedo",
+        "channelId": "UCQe65GlwJ5Ecvj99wduafhQ",
+        "channelUrl": "https://youtube.com/channel/UCQe65GlwJ5Ecvj99wduafhQ",
+        "desc": "En este video vemos nuestro primer script , variables... si les quedo alguna duda en los comentarios les sera aclarada,muy pronto la web estara On Line ...",
+        "publishedAt": "2010-08-25T15:54:28.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/ehR4Er1hLqE/hqdefault.jpg"
+    }, {
+        "title": "IT-KAMASUTRA",
+        "channelId": "UCTW0FUhT0m-Bqg2trTbSs0g",
+        "channelUrl": "https://youtube.com/channel/UCTW0FUhT0m-Bqg2trTbSs0g",
+        "desc": "Как вообще можно выучить JavaScript? А ещё и вёрстка, и фреймворки (Angular, ReactJS, Vue, Svelte)... А ещё GIT и Webpack.. А ещё... Море...",
+        "publishedAt": "2019-08-10T15:52:27.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/hFOZYaVHD6A/hqdefault.jpg"
+    }, {
+        "title": "Kirupa Chinnathambi",
+        "channelId": "UCZCQ3LXtU3IUzMBQBqN69KQ",
+        "channelUrl": "https://youtube.com/channel/UCZCQ3LXtU3IUzMBQBqN69KQ",
+        "desc": "Create really smooth animations in JavaScript by having your animation use the requestAnimationFrame function. Learn more at: http://www.kirupa.com.",
+        "publishedAt": "2013-08-15T18:37:34.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/rNsC1VI9388/hqdefault.jpg"
+    }, {
+        "title": "Chris Sean",
+        "channelId": "UCu1xbgCV5o48h_BYCQD7KJg",
+        "channelUrl": "https://youtube.com/channel/UCu1xbgCV5o48h_BYCQD7KJg",
+        "desc": "Today I talk about everything you need to know about the top 3 JavaScript Frameworks for Web Developers 2018. The top 3 frameworks are React, Angular, and ...",
+        "publishedAt": "2018-04-20T23:36:23.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/IF_021eJ5SA/hqdefault.jpg"
+    }, {
+        "title": "DevSpark Training",
+        "channelId": "UCq7j_1cDeRFGrISxGbR56OQ",
+        "channelUrl": "https://youtube.com/channel/UCq7j_1cDeRFGrISxGbR56OQ",
+        "desc": "Part 1 of the JavaScript Promises Series. Get the entire course for free at https://devspark.thinkific.com/courses/js-promises.",
+        "publishedAt": "2016-09-30T04:09:02.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/swdWUWtGxR4/hqdefault.jpg"
+    }, {
+        "title": "Google Webmasters",
+        "channelId": "UCWf2ZlNsCGDS89VBF_awNvA",
+        "channelUrl": "https://youtube.com/channel/UCWf2ZlNsCGDS89VBF_awNvA",
+        "desc": "Martin Splitt, Webmaster Trends Analyst, explains how JavaScript influences SEO and how to optimize your JavaScript-powered website to be search-friendly.",
+        "publishedAt": "2019-02-28T19:59:14.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/LXF8bM4g-J4/hqdefault.jpg"
+    }, {
+        "title": "Harlley Oliveira",
+        "channelId": "UCTJ1mLre8sT-d4KuvmQsSQA",
+        "channelUrl": "https://youtube.com/channel/UCTJ1mLre8sT-d4KuvmQsSQA",
+        "desc": "AINDA NÃO SABE ABSOLUTAMENTE NADA DE PROGRAMAÇÃO? ➡ https://playcode.com.br/s/comece-programar JÁ SABE OS FUNDAMENTOS DE ...",
+        "publishedAt": "2017-07-06T22:38:47.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/-QWGj1D636w/hqdefault.jpg"
+    }, {
+        "title": "Kerrick Long",
+        "channelId": "UCQ9jFovIAEW_8ho7xYct4rg",
+        "channelUrl": "https://youtube.com/channel/UCQ9jFovIAEW_8ho7xYct4rg",
+        "desc": "This talk about JavaScript Promises was delivered by Kerrick Long at the STL Ember.js Meetup on Feb 6, 2014. Slides: ...",
+        "publishedAt": "2014-02-07T08:30:23.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/wc72cyYt8-c/hqdefault.jpg"
+    }, {
+        "title": "hello roman",
+        "channelId": "UCq8XmOMtrUCb8FcFHQEd8_g",
+        "channelUrl": "https://youtube.com/channel/UCq8XmOMtrUCb8FcFHQEd8_g",
+        "desc": "JavaScript zdobywa coraz większą popularność – już dawno przestał być językiem służącym do dodawania prostych interakcji i śmiesznych efektów na ...",
+        "publishedAt": "2018-12-10T09:00:00.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/aI-lp1J3Kjo/hqdefault.jpg"
+    }, {
+        "title": "Open Source Bug",
+        "channelId": "UClSTRc3QqsilMa3R3GwN_LQ",
+        "channelUrl": "https://youtube.com/channel/UClSTRc3QqsilMa3R3GwN_LQ",
+        "desc": "To enable or disable scripts on pages while the devtools are open, click the \"...\" menu in the top right corner of the Developer Tools, click Settings and then click ...",
+        "publishedAt": "2016-06-13T15:18:02.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/kBmvq2cE0D8/hqdefault.jpg"
+    }, {
+        "title": "All Things JavaScript, LLC",
+        "channelId": "UCRQhZGXC0WK85YRXl7nGX0w",
+        "channelUrl": "https://youtube.com/channel/UCRQhZGXC0WK85YRXl7nGX0w",
+        "desc": "Callbacks are fundamental to asynchronous coding in JavaScript. In this tutorial we delve into callbacks and look at several examples to help you understand ...",
+        "publishedAt": "2017-11-01T21:33:43.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/Nau-iEEgEoM/hqdefault.jpg"
+    }, {
+        "title": "dcode",
+        "channelId": "UCjX0FtIZBBVD3YoCcxnDC4g",
+        "channelUrl": "https://youtube.com/channel/UCjX0FtIZBBVD3YoCcxnDC4g",
+        "desc": "XML Http Requests (AJAX) allows you to send and receive data from external files within your Javascript code without refreshing the page or re-running your ...",
+        "publishedAt": "2018-01-28T10:46:28.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/rjmtYkRK1nM/hqdefault.jpg"
+    }, {
+        "title": "Data Stream",
+        "channelId": "UCro0hRiT9K7UqIYTQHCf30g",
+        "channelUrl": "https://youtube.com/channel/UCro0hRiT9K7UqIYTQHCf30g",
+        "desc": "",
+        "publishedAt": "2016-05-09T01:42:25.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/GxyFlXbhdsY/hqdefault.jpg"
+    }, {
+        "title": "Zac Gordon",
+        "channelId": "UC07WzVtVDVksJR30sU7-EWg",
+        "channelUrl": "https://youtube.com/channel/UC07WzVtVDVksJR30sU7-EWg",
+        "desc": "In this lesson we look at how to work at the basics of Local Storage and how to work with it in JavaScript.",
+        "publishedAt": "2017-09-19T03:19:42.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/T9GWHFDcELQ/hqdefault.jpg"
+    }, {
+        "title": "IP2Location",
+        "channelId": "UCkHGCUXc3pcrbp0wOtpwbMw",
+        "channelUrl": "https://youtube.com/channel/UCkHGCUXc3pcrbp0wOtpwbMw",
+        "desc": "An online video tutorial provided by IPLocationTools ( http://www.iplocationtools.com ) on how to add the JavaScript IP Geo Location API into your blog.",
+        "publishedAt": "2009-08-10T03:20:07.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/AZIGpMUFETA/hqdefault.jpg"
+    }, {
+        "title": "WebPro Education",
+        "channelId": "UCTCMk9I_YW-xjeHEHCXZ6AQ",
+        "channelUrl": "https://youtube.com/channel/UCTCMk9I_YW-xjeHEHCXZ6AQ",
+        "desc": "Read more: http://www.webproeducation.org/how-to/google/chrome/enable-and-disable-javascript-on-chrome/ A step-by-step tutorial on how to disable ...",
+        "publishedAt": "2014-02-13T16:54:50.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/i3mQxhcxu8Y/hqdefault.jpg"
+    }, {
+        "title": "KENTA / 雑食系エンジニアTV",
+        "channelId": "UC_HLK-ksslL-Z_2wiIZDlMg",
+        "channelUrl": "https://youtube.com/channel/UC_HLK-ksslL-Z_2wiIZDlMg",
+        "desc": "Web業界における「JavaScript」の使われ方や将来性等に関して僕なりの意見を述べさせて頂きました。 ※JavaScriptの文法等に関して説明している動画...",
+        "publishedAt": "2018-07-21T23:00:02.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/CFtJGHqTV7A/hqdefault.jpg"
+    }, {
+        "title": "Program With Erik",
+        "channelId": "UCshZ3rdoCLjDYuTR_RBubzw",
+        "channelUrl": "https://youtube.com/channel/UCshZ3rdoCLjDYuTR_RBubzw",
+        "desc": "What 10 things should a serious JavaScript developer know right now? In this video I discuss what I think the 10 things should a serious JavaScript developer ...",
+        "publishedAt": "2017-07-12T12:00:00.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/2MYBP-ZD1tk/hqdefault.jpg"
+    }, {
+        "title": "Learn Coding Tutorials",
+        "channelId": "UC8Szh5ZJeGFBWyqKyTCVPpA",
+        "channelUrl": "https://youtube.com/channel/UC8Szh5ZJeGFBWyqKyTCVPpA",
+        "desc": "Prepare for a JavaScript interview with these questions and answers to common JavaScript interview questions!",
+        "publishedAt": "2018-02-18T03:21:30.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/mhZWi9tSy44/hqdefault.jpg"
+    }, {
+        "title": "tablet reader",
+        "channelId": "UCbDOEc3iFYLj6r49AANd7zg",
+        "channelUrl": "https://youtube.com/channel/UCbDOEc3iFYLj6r49AANd7zg",
+        "desc": "",
+        "publishedAt": "2015-02-17T02:02:53.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/D5xh0ZIEUOE/hqdefault.jpg"
+    }, {
+        "title": ".NET Interview Preparation videos",
+        "channelId": "UCHI5xgQujSyqz_UyKdLFaqw",
+        "channelUrl": "https://youtube.com/channel/UCHI5xgQujSyqz_UyKdLFaqw",
+        "desc": "For more such videos visit http://www.questpond.com For more such videos subscribe https://www.youtube.com/questpondvideos?sub_confirmation=1 See our ...",
+        "publishedAt": "2017-04-21T10:26:00.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/FYrtnS3X_Lw/hqdefault.jpg"
+    }, {
+        "title": "Anthony Welc",
+        "channelId": "UChhPkjgG1-iLUOmURGdgQrw",
+        "channelUrl": "https://youtube.com/channel/UChhPkjgG1-iLUOmURGdgQrw",
+        "desc": "Tu as encore accès à tout mon programme Hardcoders : https://hc.rs/programme Gagner sa vie grâce au code. Peut-on créer un jeu en JavaScript quand on est ...",
+        "publishedAt": "2016-09-06T16:49:32.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/A9G_0YKBY2s/hqdefault.jpg"
+    }, {
+        "title": "Jakub Jurkian",
+        "channelId": "UCYPvm22eRvfFpKpSlwxJysQ",
+        "channelUrl": "https://youtube.com/channel/UCYPvm22eRvfFpKpSlwxJysQ",
+        "desc": "ZAPISZ SIĘ NA JEDEN Z MOICH KURSÓW » https://jakubjurkian.pl/kursyYT Kurs JavaScript. Zaczynamy od ustawienia edytora Brackets - motyw New Moon, ...",
+        "publishedAt": "2016-11-13T17:12:07.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/U-bGk-1qMVY/hqdefault.jpg"
+    }, {
+        "title": "Code Cascade",
+        "channelId": "UCIsu34P7ZdSDjapFmIRIaJQ",
+        "channelUrl": "https://youtube.com/channel/UCIsu34P7ZdSDjapFmIRIaJQ",
+        "desc": "A fixed, or sticky navigation menu is when you apply the position:fixed CSS value on a navigation menu to make it stick to the top of the browser's chrome.",
+        "publishedAt": "2013-06-13T02:47:46.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/BzoxJS34vr4/hqdefault.jpg"
+    }, {
+        "title": "Addy Osmani",
+        "channelId": "UCfetJpmQH2XpFj8uFgWsezw",
+        "channelUrl": "https://youtube.com/channel/UCfetJpmQH2XpFj8uFgWsezw",
+        "desc": "As the world build sites that are more heavily reliant on JavaScript, we sometimes pay for what we send down in ways that we can't always easily see.",
+        "publishedAt": "2018-06-15T19:07:24.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/63I-mEuSvGA/hqdefault.jpg"
+    }, {
+        "title": "GioCode",
+        "channelId": "UC3yDP9DLJI7rPqPovQaOJMg",
+        "channelUrl": "https://youtube.com/channel/UC3yDP9DLJI7rPqPovQaOJMg",
+        "desc": "Nuevo video blog de respuestas, aquí responderemos una duda muy común para los que se están iniciando en la programación, la diferencia entre Java y ...",
+        "publishedAt": "2016-08-21T20:13:39.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/qthN2W3PaEc/hqdefault.jpg"
+    }, {
+        "title": "DrapsTV",
+        "channelId": "UCea5cMUa9xNU0kUtbRcTkqA",
+        "channelUrl": "https://youtube.com/channel/UCea5cMUa9xNU0kUtbRcTkqA",
+        "desc": "This is tutorial looking at how we can use cookies or local storage to store information over multiple pages or sessions. All Links and Slides will be in the ...",
+        "publishedAt": "2016-10-02T12:00:00.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/5ttpghXjG0g/hqdefault.jpg"
+    }, {
+        "title": "Remy Sharp",
+        "channelId": "UCyBAm31tEpZ17hka6ZvVqcg",
+        "channelUrl": "https://youtube.com/channel/UCyBAm31tEpZ17hka6ZvVqcg",
+        "desc": "A walk through of how to use jsconsole.com to remotely debug any browser on any device.",
+        "publishedAt": "2011-03-02T14:19:26.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/DSH392Gxaho/hqdefault.jpg"
+    }, {
+        "title": "GOTO Conferences",
+        "channelId": "UCs_tLP3AiwYKwdUHpltJPuA",
+        "channelUrl": "https://youtube.com/channel/UCs_tLP3AiwYKwdUHpltJPuA",
+        "desc": "This presentation was recorded at GOTO Chicago 2016 http://gotochgo.com Matt Godbolt - Low-level Latency Geek, DRW ABSTRACT It's said you should never ...",
+        "publishedAt": "2016-08-22T11:19:19.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/7WuRq-Wmw5o/hqdefault.jpg"
+    }, {
+        "title": "Chris Johnson",
+        "channelId": "UChydyI2q9k-dmYCrp9JzC6g",
+        "channelUrl": "https://youtube.com/channel/UChydyI2q9k-dmYCrp9JzC6g",
+        "desc": "Developer and IT training videos: http://goo.gl/QBWjvA Learn how to build websites & apps: http://goo.gl/p9DrUh In this video, we discuss the Document Object ...",
+        "publishedAt": "2012-08-09T23:12:26.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/LsY2PsPKckU/hqdefault.jpg"
+    }, {
+        "title": "codingisforyou",
+        "channelId": "UC5AUcD4bYDAGNaK_K1-o1QA",
+        "channelUrl": "https://youtube.com/channel/UC5AUcD4bYDAGNaK_K1-o1QA",
+        "desc": "As an Amazon Associate I earn from qualifying purchases Clean Code: https://amzn.to/2GZ9qKK C# In a Nutshell: https://amzn.to/2Vmph9z Cracking the ...",
+        "publishedAt": "2019-01-16T01:34:52.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/DsH-fizHkcY/hqdefault.jpg"
+    }, {
+        "title": "O'Reilly - Video Training",
+        "channelId": "UCFvbB4_qLYRrOQNuFudz-Mg",
+        "channelUrl": "https://youtube.com/channel/UCFvbB4_qLYRrOQNuFudz-Mg",
+        "desc": "In this video, follow along with expert author Jeremy McPeak as he explains how to use JavaScript prototypes. For more information about the course, as well as ...",
+        "publishedAt": "2017-04-11T18:52:54.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/oCwCcNvaXAQ/hqdefault.jpg"
+    }, {
+        "title": "Владилен Минин",
+        "channelId": "UCg8ss4xW9jASrqWGP30jXiw",
+        "channelUrl": "https://youtube.com/channel/UCg8ss4xW9jASrqWGP30jXiw",
+        "desc": "Добавляйте меня в ВК: https://vk.com/vladilen.minin Telegram: https://teleg.one/js_by_vladilen Instagram: https://www.instagram.com/vladilen.minin Группа ВК: ...",
+        "publishedAt": "2019-05-31T13:32:42.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/aQkgUUmUJy4/hqdefault.jpg"
+    }, {
+        "title": "Victor Robles WEB",
+        "channelId": "UCv85NiROLKddHa0fBATwTzw",
+        "channelUrl": "https://youtube.com/channel/UCv85NiROLKddHa0fBATwTzw",
+        "desc": "Aprende todo de JavaScript aquí https://www.udemy.com/master-en-javascript-aprender-js-jquery-angular-nodejs-y-mas/?couponCode=OCTUBRE ...",
+        "publishedAt": "2019-09-17T13:00:06.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/Q9fwkpxr3Dw/hqdefault.jpg"
+    }, {
+        "title": "edutechional",
+        "channelId": "UCgGf1eq52dPTVuf1Njb57Hw",
+        "channelUrl": "https://youtube.com/channel/UCgGf1eq52dPTVuf1Njb57Hw",
+        "desc": "In this JavaScript tutorial we'll walk through how to automate browser tasks, specifically we'll see how you can automatically follow and unfollow on LinkedIn as ...",
+        "publishedAt": "2018-07-25T23:21:22.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/xHGPBX5_lhw/hqdefault.jpg"
+    }, {
+        "title": "PlatziLab",
+        "channelId": "UCiS9JxLNfFaxom-ktqkwWMw",
+        "channelUrl": "https://youtube.com/channel/UCiS9JxLNfFaxom-ktqkwWMw",
+        "desc": "En esta clase del curso de MEAN aprenderemos sobre los conceptos mas importantes que giran al rededor de Node.js y Express. Node.js es un entorno que ...",
+        "publishedAt": "2017-11-29T01:44:45.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/mCpRY31J_m4/hqdefault.jpg"
+    }, {
+        "title": "OpenWebinars",
+        "channelId": "UCJcA7xm3ktxCO9PdKTmqeUg",
+        "channelUrl": "https://youtube.com/channel/UCJcA7xm3ktxCO9PdKTmqeUg",
+        "desc": "Quieres aprendeR JavaScript pero no sabes por dónde empezar con tanta información que hay en Internet? Tranquilo, te contamos como debes de aprender ...",
+        "publishedAt": "2017-08-21T17:00:04.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/qTIfgRWGqbE/hqdefault.jpg"
+    }, {
+        "title": "JavascriptSource",
+        "channelId": "UCCXW7Ok37pTnJtzVAyEkAgg",
+        "channelUrl": "https://youtube.com/channel/UCCXW7Ok37pTnJtzVAyEkAgg",
+        "desc": "FREE Download at http://javascript-source.com/ ! Javascript Obfuscator converts the JavaScript source code into scrambled and completely unreadable form, ...",
+        "publishedAt": "2009-11-20T11:29:57.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/Vpa4-NRiEug/hqdefault.jpg"
+    }, {
+        "title": "Badoo Tech",
+        "channelId": "UCBD1R7u1V_Ema-bKPbUhTsQ",
+        "channelUrl": "https://youtube.com/channel/UCBD1R7u1V_Ema-bKPbUhTsQ",
+        "desc": "MoscowJS в Badoo (http://moscowjs.ru/) «S.O.L.I.D-ый JavaScript», Алексей Охрименко (IPONWEB) S.O.L.I.D — что значит сочетание этих магически...",
+        "publishedAt": "2016-10-13T08:29:07.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/wi3wPzReKZQ/hqdefault.jpg"
+    }, {
+        "title": "Divinector",
+        "channelId": "UCki4IDK86E6_pDtptmsslow",
+        "channelUrl": "https://youtube.com/channel/UCki4IDK86E6_pDtptmsslow",
+        "desc": "How to Use Particles JS | JavaScript Animated Background Plugin Link : https://github.com/VincentGarreau/particles.js/ Follow this Channel on: Website: ...",
+        "publishedAt": "2018-01-20T04:29:03.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/PyPuCVDqnYA/hqdefault.jpg"
+    }, {
+        "title": "CodeFurnace",
+        "channelId": "UCSUxnweThHkfrKkGj_DeJqQ",
+        "channelUrl": "https://youtube.com/channel/UCSUxnweThHkfrKkGj_DeJqQ",
+        "desc": "Basic JavaScript instructor-led tutorial for an introduction to client side web programming. Covers reading form variables, script tags, creating functions, working ...",
+        "publishedAt": "2011-10-10T16:37:23.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/cFKNoEOmgUo/hqdefault.jpg"
+    }, {
+        "title": "New J",
+        "channelId": "UCY-rapj1EUm0M5IYh0Zy6Kw",
+        "channelUrl": "https://youtube.com/channel/UCY-rapj1EUm0M5IYh0Zy6Kw",
+        "desc": "Hey guys, I'm picking up on a series I started up a while back. This time I'll be focusing on JavaScript, particularly for front-end web development, although don't ...",
+        "publishedAt": "2014-03-18T19:57:26.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/6MQHLB42Ios/hqdefault.jpg"
+    }, {
+        "title": "楽しいプログラミング入門 たのぷろ!",
+        "channelId": "UCYaUOOFsHFg4KvEHEox003w",
+        "channelUrl": "https://youtube.com/channel/UCYaUOOFsHFg4KvEHEox003w",
+        "desc": "アンケート実施中です。 ご協力お願いしますhttps://forms.gle/Kowt5joQrWfisq8a7.",
+        "publishedAt": "2016-09-17T21:28:05.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/v2C5jbjWWtg/hqdefault.jpg"
+    }, {
+        "title": "アスキー",
+        "channelId": "UCeJYDunL9xZtmczAP9AGmFA",
+        "channelUrl": "https://youtube.com/channel/UCeJYDunL9xZtmczAP9AGmFA",
+        "desc": "ガチでギークな女優こと池澤あやかさんがTumblrのカスタマイズについて詳しく説明してくれるTumblr連載 第2回目です。 今回はTumblrカスタマイズの...",
+        "publishedAt": "2014-10-23T10:33:45.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/k79bIb2Oj_Y/hqdefault.jpg"
+    }, {
+        "title": "Andy Sterkowitz",
+        "channelId": "UCZ9qFEC82qM6Pk-54Q4TVWA",
+        "channelUrl": "https://youtube.com/channel/UCZ9qFEC82qM6Pk-54Q4TVWA",
+        "desc": "So what is Javascript? In this video I take the \"10000 foot view\" of Javascript and look at the different aspects of Javascript. *** Coaching *** Want to work with me ...",
+        "publishedAt": "2018-07-29T16:00:01.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/C9Oax_TQaok/hqdefault.jpg"
+    }, {
+        "title": "estellevw",
+        "channelId": "UCLwtZGHyZimqi8QF-Kr12EA",
+        "channelUrl": "https://youtube.com/channel/UCLwtZGHyZimqi8QF-Kr12EA",
+        "desc": "As the world build sites that are more heavily reliant on JavaScript, we sometimes pay for what we send down in ways that we can't always easily see.",
+        "publishedAt": "2019-05-11T17:47:12.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/X9eRLElSW1c/hqdefault.jpg"
+    }, {
+        "title": "html-form-guide.com",
+        "channelId": "UCwCwBzDezTfeA7xrFKBDeNg",
+        "channelUrl": "https://youtube.com/channel/UCwCwBzDezTfeA7xrFKBDeNg",
+        "desc": "Sample code and detailed documentation here: http://www.javascript-coder.com/form-validation/jquery-form-validation-guide.phtml This tutorial shows you how ...",
+        "publishedAt": "2014-08-12T05:02:42.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/8E_TedlbFGg/hqdefault.jpg"
+    }, {
+        "title": "Coder's Block",
+        "channelId": "UCJWX2cGhemrvksuNSanZ9aA",
+        "channelUrl": "https://youtube.com/channel/UCJWX2cGhemrvksuNSanZ9aA",
+        "desc": "The first video in our Minesweeper JavaScript & Canvas Game Development Tutorial series. In this video we learn what minesweeper is, and create a basic ...",
+        "publishedAt": "2012-10-04T15:52:58.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/fqzaxdiRZS4/hqdefault.jpg"
+    }, {
+        "title": "Publishers Clearing House",
+        "channelId": "UC3Wp9KHbQAJBNtH9cpXuYBw",
+        "channelUrl": "https://youtube.com/channel/UC3Wp9KHbQAJBNtH9cpXuYBw",
+        "desc": "Find out how you can enable Javascript for your Google Chrome browser. If you need additional information, feel free to visit the relative FAQ for more help: ...",
+        "publishedAt": "2015-10-22T20:27:46.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/XytWfj6uMm4/hqdefault.jpg"
+    }, {
+        "title": "JuniorDev",
+        "channelId": "UCvaOvKG4sm5XzV78OqEDUjA",
+        "channelUrl": "https://youtube.com/channel/UCvaOvKG4sm5XzV78OqEDUjA",
+        "desc": "Video (bahasa Indonesia) ini berisi tutorial dan mengenal apa itu javascript, kegunan javascript, fungsi javascript, manfaat javascript, kemampuan javascript, ...",
+        "publishedAt": "2016-05-30T20:57:28.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/y1p_2cXvRLc/hqdefault.jpg"
+    }, {
+        "title": "IProgrammerTV",
+        "channelId": "UCVXEpEyPHqrW7yQrK19Xitw",
+        "channelUrl": "https://youtube.com/channel/UCVXEpEyPHqrW7yQrK19Xitw",
+        "desc": "More Information: http://www.i-programmer.info/news/80-java/4893-html5-debuts-in-netbeans-73-beta.html NetBean's new HTML5 application development ...",
+        "publishedAt": "2012-10-05T11:45:46.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/CtM6GkkFWUk/hqdefault.jpg"
+    }, {
+        "title": "Real Project Mastery",
+        "channelId": "UCm8qqU47OfA_3jforf37cwg",
+        "channelUrl": "https://youtube.com/channel/UCm8qqU47OfA_3jforf37cwg",
+        "desc": "",
+        "publishedAt": "2016-10-29T22:45:30.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/bV9idMbioqg/hqdefault.jpg"
+    }, {
+        "title": "A Tech Apart",
+        "channelId": "UCfnuCT9-kKSOOZ2vC85u5qA",
+        "channelUrl": "https://youtube.com/channel/UCfnuCT9-kKSOOZ2vC85u5qA",
+        "desc": "a callback is a function that is passed as an argument to another function, this makes functions more flexible the callback is invoked inside the function you can ...",
+        "publishedAt": "2015-03-09T18:00:01.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/QqiNn3GfTMc/hqdefault.jpg"
+    }, {
+        "title": "Mozilla Hacks",
+        "channelId": "UCijjo5gfAscWgNCKFHWm1EA",
+        "channelUrl": "https://youtube.com/channel/UCijjo5gfAscWgNCKFHWm1EA",
+        "desc": "The new debugger.html is built from the ground up with React / Redux. In this quick intro, Dustin Driver takes it for a ride.",
+        "publishedAt": "2017-10-05T01:33:36.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/R7644lH0-Fs/hqdefault.jpg"
+    }, {
+        "title": "Tyler McGinnis",
+        "channelId": "UCbAn7pVK2VIyo-UysfWGdZQ",
+        "channelUrl": "https://youtube.com/channel/UCbAn7pVK2VIyo-UysfWGdZQ",
+        "desc": "It may seem surprising, but in my opinion the most important and fundamental concept to understanding the JavaScript language is understanding Execution ...",
+        "publishedAt": "2018-10-09T14:30:01.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/Nt-qa_LlUH0/hqdefault.jpg"
+    }, {
+        "title": "Codegram Technologies",
+        "channelId": "UCwoOpKfkyCQHW562hXXQAGg",
+        "channelUrl": "https://youtube.com/channel/UCwoOpKfkyCQHW562hXXQAGg",
+        "desc": "This is a talk from Barcelona FutureJS 2014 (http://futurejs.org). Surprisingly the high performance mutation available in modern JavaScript engines is a great ...",
+        "publishedAt": "2014-05-14T07:00:02.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/mS264h8KGwk/hqdefault.jpg"
+    }, {
+        "title": "KinomaTV",
+        "channelId": "UChfzJf_b3vPWPOd84jgjBhQ",
+        "channelUrl": "https://youtube.com/channel/UChfzJf_b3vPWPOd84jgjBhQ",
+        "desc": "See more at Indiegogo! http://go.kinoma.com/create Kinoma Create is the JavaScript-powered construction kit for makers, professional product designers, and ...",
+        "publishedAt": "2014-03-14T19:30:01.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/AaANw-KKrGo/hqdefault.jpg"
+    }, {
+        "title": "One Month",
+        "channelId": "UCDmmGdnj0Ud9YUMhsSaa1Qg",
+        "channelUrl": "https://youtube.com/channel/UCDmmGdnj0Ud9YUMhsSaa1Qg",
+        "desc": "What's the difference between jQuery and Javascript? Let's break it down.",
+        "publishedAt": "2017-07-06T14:44:29.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/S8ZuLY-Flm0/hqdefault.jpg"
+    }, {
+        "title": "VUSec",
+        "channelId": "UC9WimJoKklmni4feJD9bdhw",
+        "channelUrl": "https://youtube.com/channel/UC9WimJoKklmni4feJD9bdhw",
+        "desc": "We leak a string from another process using Javascript and WebAssembly in the SpiderMonkey engine.",
+        "publishedAt": "2019-05-14T17:06:06.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/KAgoDQmod1Y/hqdefault.jpg"
+    }, {
+        "title": "node.js",
+        "channelId": "UCQPYJluYC_sn_Qz_XE-YbTQ",
+        "channelUrl": "https://youtube.com/channel/UCQPYJluYC_sn_Qz_XE-YbTQ",
+        "desc": "High Performance Apps with JavaScript and Rust, It's Easier Than You Think - Amir Yasin, 2U NodeJS is amazing at lots of things, but computationally intensive ...",
+        "publishedAt": "2017-10-16T13:39:08.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/Pfbw4YPrwf4/hqdefault.jpg"
+    }, {
+        "title": "KAMLESHUTUBE",
+        "channelId": "UCiFKla81gcE8mLv7ztYJzLA",
+        "channelUrl": "https://youtube.com/channel/UCiFKla81gcE8mLv7ztYJzLA",
+        "desc": "Form validation can help to reduce the amount of bad data that gets saved to your database. It can prevent people from leaving fields blank, from entering too ...",
+        "publishedAt": "2011-08-21T01:47:47.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/gFrlUDIN9ZI/hqdefault.jpg"
+    }, {
+        "title": "MakeUseOf",
+        "channelId": "UCfXdejDvNviqilmJ9DvGuow",
+        "channelUrl": "https://youtube.com/channel/UCfXdejDvNviqilmJ9DvGuow",
+        "desc": "Build guide, diagrams, code etc over on the written article at https://www.makeuseof.com/tag/control-arduino-using-javascript/ ...",
+        "publishedAt": "2018-02-21T12:34:45.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/6CmIidOxc2g/hqdefault.jpg"
+    }, {
+        "title": "hdvidsonly",
+        "channelId": "UCAZQpV8idyPIgSTbtZZP8OA",
+        "channelUrl": "https://youtube.com/channel/UCAZQpV8idyPIgSTbtZZP8OA",
+        "desc": "download main.js : http://snoozers.0fees.net/scripts/main.js Enjoy!",
+        "publishedAt": "2009-10-11T08:57:07.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/I6i_metVxZU/hqdefault.jpg"
+    }, {
+        "title": "wm2system",
+        "channelId": "UCWPdhR1u6n9qK4D8fKi8klQ",
+        "channelUrl": "https://youtube.com/channel/UCWPdhR1u6n9qK4D8fKi8klQ",
+        "desc": "JavaScript初心者のための説明動画です。",
+        "publishedAt": "2012-07-18T10:57:55.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/z0RX7SYBCEU/hqdefault.jpg"
+    }, {
+        "title": "T Umezawa",
+        "channelId": "UCzXL5v5_-L-s4cDhK3I35Dg",
+        "channelUrl": "https://youtube.com/channel/UCzXL5v5_-L-s4cDhK3I35Dg",
+        "desc": "次: https://youtu.be/xkGthkcgFEU 再生リスト https://www.youtube.com/playlist?list=PLJ86MSrhnFKVcfaffKPYkvfkPg4qRsijs 公開サイト ...",
+        "publishedAt": "2019-02-05T05:31:08.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/RKcFIg1yHOI/hqdefault.jpg"
+    }, {
+        "title": "DevDungeon",
+        "channelId": "UCgkG68BiCngkoV7I2BLtAVg",
+        "channelUrl": "https://youtube.com/channel/UCgkG68BiCngkoV7I2BLtAVg",
+        "desc": "Learn to make a Discord bot with JavaScript using Node.js from scratch. * DevDungeon Discord - https://discord.gg/JWsSHJC * Written Tutorial ...",
+        "publishedAt": "2018-09-10T00:24:47.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/7A6cNW04g2M/hqdefault.jpg"
+    }, {
+        "title": "코딩의 신 아샬",
+        "channelId": "UCLLncfeIYljE0o_yUw7MkcA",
+        "channelUrl": "https://youtube.com/channel/UCLLncfeIYljE0o_yUw7MkcA",
+        "desc": "웹 개발자가 아닌데 JavaScript를 배워야 하나요? 네, 오늘부터 시작하는 겁니다! --- ☆ 코딩의 신 아샬: https://fb.me/GodOfCoding ☆ 개발자, 한 달에...",
+        "publishedAt": "2018-07-13T09:00:02.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/9yf-qgXZpw8/hqdefault.jpg"
+    }, {
+        "title": "22kazak",
+        "channelId": "UCNAg3hG_zjLiKE3LmIZf8hQ",
+        "channelUrl": "https://youtube.com/channel/UCNAg3hG_zjLiKE3LmIZf8hQ",
+        "desc": "http://tinyurl.com/32jvjep - 17-ти часовой видеокурс по JavaScript и jQuery, сделанный по современным методикам обучения.",
+        "publishedAt": "2010-10-07T14:39:45.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/qB6MgPwfU8U/hqdefault.jpg"
+    }, {
+        "title": "Robert Attorri",
+        "channelId": "UCzWAjczkhr9TfzQvLEAmweA",
+        "channelUrl": "https://youtube.com/channel/UCzWAjczkhr9TfzQvLEAmweA",
+        "desc": "",
+        "publishedAt": "2013-12-12T19:15:20.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/oEBEa1mJD5Q/hqdefault.jpg"
+    }, {
+        "title": "jquery",
+        "channelId": "UCDT2QjewZ8DHsiaDXQFkxPg",
+        "channelUrl": "https://youtube.com/channel/UCDT2QjewZ8DHsiaDXQFkxPg",
+        "desc": "Presented at jQuery Conference San Diego February 12-13, 2014 http://events.jquery.org/2014/san-diego/ February 12, 2014 at 11AM PST in the Fundamentals ...",
+        "publishedAt": "2014-03-29T15:14:07.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/lTUyNW9oTLo/hqdefault.jpg"
+    }, {
+        "title": "Asim Ali",
+        "channelId": "UCGnKyJ7EZJ7vL_PXkOGLUxw",
+        "channelUrl": "https://youtube.com/channel/UCGnKyJ7EZJ7vL_PXkOGLUxw",
+        "desc": "This is the Seventh Lecture of the series. Building Dynamic Websites by Harvard OpenCourseWare with Instructor David J. Malan Next Video Lecture: ...",
+        "publishedAt": "2014-04-13T14:45:01.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/GNYdf6j-JPg/hqdefault.jpg"
+    }, {
+        "title": "JavaScript Israel",
+        "channelId": "UCyUEQd6gp05bO9FfMP4pz2g",
+        "channelUrl": "https://youtube.com/channel/UCyUEQd6gp05bO9FfMP4pz2g",
+        "desc": "On 7/10/14, Pavel Kaminsky did a JavaScript WAT 2 talk, during a JavaScript Israel Meetup. Abstract: Following Gary Bernhardt's talk from CodeMash 2012, we ...",
+        "publishedAt": "2014-11-08T13:37:46.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/6LcKmi5ZftE/hqdefault.jpg"
+    }, {
+        "title": "DM TV Mady",
+        "channelId": "UCE4xwhi_JMpTj0FQz7b2gaw",
+        "channelUrl": "https://youtube.com/channel/UCE4xwhi_JMpTj0FQz7b2gaw",
+        "desc": "Acesta este primul video din seria de tutoriale Javascript.De-a lungul acestui curs vei invata cum sa iti faci site-ul mai interactiv. JavaScript reprezinta un limbaj ...",
+        "publishedAt": "2017-03-29T16:46:37.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/yzkdnQfOiCc/hqdefault.jpg"
+    }, {
+        "title": "Anirudh Joshi",
+        "channelId": "UCc84evX_Bhi4OzC5lgJdxag",
+        "channelUrl": "https://youtube.com/channel/UCc84evX_Bhi4OzC5lgJdxag",
+        "desc": "This is a demonstration of the possibilites that HTML5/browsers have to offer inspired by the wonderful work done by Steve Taylor (Plasma Pong). Introduction It ...",
+        "publishedAt": "2012-08-06T11:43:24.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/gcF-ZenWEM4/hqdefault.jpg"
+    }, {
+        "title": "Nodecasts",
+        "channelId": "UCwXMtRJvXLKGHZhPUHNV72Q",
+        "channelUrl": "https://youtube.com/channel/UCwXMtRJvXLKGHZhPUHNV72Q",
+        "desc": "Learn how to override default behavior with the ES6 Proxy!",
+        "publishedAt": "2016-05-06T22:06:17.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/KJ3uYyUp-yo/hqdefault.jpg"
+    }, {
+        "title": "hcode",
+        "channelId": "UCjWENuSH2gX55-y7QSZiWxA",
+        "channelUrl": "https://youtube.com/channel/UCjWENuSH2gX55-y7QSZiWxA",
+        "desc": "JavaScript é a Linguagem Mais Utilizada por Desenvolvedores Web nos últimos anos. O que Você Precisa Saber para aprender JavaScript de Verdade?",
+        "publishedAt": "2018-12-07T19:22:07.000Z",
+        "thumbnails": "https://i.ytimg.com/vi/Uxno2EnsFFg/hqdefault.jpg"
+    }]
+}

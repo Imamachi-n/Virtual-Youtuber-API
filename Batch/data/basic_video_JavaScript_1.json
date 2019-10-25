@@ -1,0 +1,1634 @@
+{
+    "channels": [{
+        "title": "Chris DeLeon of HomeTeam GameDev",
+        "channelId": "UC15WSgcM_5tmN6JRbhA4UaQ",
+        "channelUrl": "https://youtube.com/channel/UC15WSgcM_5tmN6JRbhA4UaQ",
+        "desc": "Discussion of topics relating to intro-level game development in addition to small business or motivation. For my free intro to game programming video course visit code-your-first-game.com, or join our worldwide online practice club at Gamkedo.com for personalized support.",
+        "publishedAt": "2009-10-11T04:58:55.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l7-vuTtPAUxhMtzv9hZLsWPPmTs8x9QP2bbNng=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "LearnCode.academy",
+        "channelId": "UCVTlvUkGslCV_h-nSAId8Sw",
+        "channelUrl": "https://youtube.com/channel/UCVTlvUkGslCV_h-nSAId8Sw",
+        "desc": "100% FREE Web Development tutorials, web site design tutorials and more.\n\nIncluding, but not limited to:\nHTML, CSS, JavaScript, CSS Layouts, Responsive Design, React.js, Node.js, Angular.js, Docker, Dev Ops, Server Administration, Deployment Strategies.",
+        "publishedAt": "2012-12-20T23:29:21.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l78CwNuD8lEba0Oga0fk4RbqpxpU0p7RfTsZFQ=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "Tony Alicea",
+        "channelId": "UCsFmLpSNJuFzpKqdEj5jeHw",
+        "channelUrl": "https://youtube.com/channel/UCsFmLpSNJuFzpKqdEj5jeHw",
+        "desc": "Coder and UX Designer. Works in and teaches HTML, CSS and Responsive Design, ASP.NET MVC, C#, Javascript, and more. Can be found around various places on the internet: http://twitter.com/@anthonypalicea | https://medium.com/@anthonypalicea | www.anthonypalicea.com",
+        "publishedAt": "2013-09-24T02:23:45.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l7_l81KtSFlZheN1iswE9_ffxUGwzAcPdAksVQ=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "freeCodeCamp.org",
+        "channelId": "UC8butISFwT-Wl7EV0hUK0BQ",
+        "channelUrl": "https://youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
+        "desc": "We're an open source community of busy people who learn to code and build projects for nonprofits.",
+        "publishedAt": "2014-12-16T21:18:48.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l7_sGUrG_alh-mdTIDmdcaw1GanuPL2PxVajjQ=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "Jake Wright",
+        "channelId": "UCc1Pn7FxieMohCZFPYEbs7w",
+        "channelUrl": "https://youtube.com/channel/UCc1Pn7FxieMohCZFPYEbs7w",
+        "desc": "Weekly vlogs from a Cambridge Computer Science graduate.\n\nI studied Computer Science at Queens' college, Cambridge. I vlogged my whole experience while I was there and now I'm a web developer in London.",
+        "publishedAt": "2007-12-12T13:35:59.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l787xyKP2BVt2Q8wE3BRPj8d01Fs4l_nBENATQ=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "thenewboston",
+        "channelId": "UCJbPGzawDH1njbqV-D5HqKw",
+        "channelUrl": "https://youtube.com/channel/UCJbPGzawDH1njbqV-D5HqKw",
+        "desc": "Tons of sweet computer related tutorials and some other awesome videos too!",
+        "publishedAt": "2008-02-04T16:09:31.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l78UfH_uQf6Ab9L5Ylc3YVJ60ZZyJZE3ayJm-g=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "Programming with Mosh",
+        "channelId": "UCWv7vMbMWH4-V0ZXdmDpPBA",
+        "channelUrl": "https://youtube.com/channel/UCWv7vMbMWH4-V0ZXdmDpPBA",
+        "desc": "I train professional software engineers that companies love to hire. \n\nMy courses: http://codewithmosh.com \n\nMy blog: http://programmingwithmosh.com\n\nConnect on social media: \n\nhttp://www.twitter.com/moshhamedani\n\nhttps://www.facebook.com/programmingwithmosh\n\n#python #javascript #chsarp",
+        "publishedAt": "2014-10-07T00:40:53.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l78aHnDC9TGVEhetQnTJu-h8tL6VoEZt4DTKow=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "Traversy Media",
+        "channelId": "UC29ju8bIPH5as8OGnQzwJyA",
+        "channelUrl": "https://youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA",
+        "desc": "Traversy Media features the best online web development and programming tutorials for all of the latest web technologies including Node.js, Angular 2, React.js, PHP, Rails, HTML, CSS and much more",
+        "publishedAt": "2009-10-30T21:33:14.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l7_nC4ETFJCKV-TU3J1RLr2k3HVT25vVXMAiYw=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "Derek Banas",
+        "channelId": "UCwRXb5dUK4cvsHbx-rGzSgw",
+        "channelUrl": "https://youtube.com/channel/UCwRXb5dUK4cvsHbx-rGzSgw",
+        "desc": "I make tutorials based on your requests. I will cover any topic you can imagine. I upload new programming videos on Saturday and Wednesday morning. I Live Stream at 8PM EST on Monday and at 7PM EST on Tuesday, Thursday and Friday.",
+        "publishedAt": "2008-08-12T15:35:35.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l79z2DR2yH0cgUa3IjN2xTJI3glCmL9koY9Yow=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "JSConf",
+        "channelId": "UCzoVCacndDCfGDf41P-z0iA",
+        "channelUrl": "https://youtube.com/channel/UCzoVCacndDCfGDf41P-z0iA",
+        "desc": "The JSConf YouTube Channel.\nJSConf is a series of JavaScript conferences from around the world and here we release the conference talk videos for free as fast as we can after every event.\n\nTopics include JavaScript, HTML5, CSS, node.js, robotics, etc.",
+        "publishedAt": "2012-10-09T10:21:46.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l7_J_D352WK3bDd_CoP1Julu8cr2kB3zpSo-dg=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "Хауди Хо™ - Просто о мире IT!",
+        "channelId": "UC7f5bVxWsm3jlZIPDzOMcAg",
+        "channelUrl": "https://youtube.com/channel/UC7f5bVxWsm3jlZIPDzOMcAg",
+        "desc": "ХАЙ! (^_^メ)\nЯ - ХАУДИ ХО, здесь ты найдешь уроки по программированию, выпуски про хакинг, подборки, топы, гайды и всё такое из типичной жизни айтишника.\nПри этом я стараюсь сделать это так, чтобы вообще любой человек понял о чём я говорю и чему учу.\nВедь программирование и мир IT технологий - это так просто и интересно!\n\n🔵 TELEGRAM канал: https://t.me/howdyho_official\n\n❔ Как стать программистом/с чего начать?\nЖми https://vk.com/topic-84392011_33547510\n\n❤️ СОТРУДНИЧЕСТВО\nДетали и отзывы здесь: https://vk.com/topic-84392011_33285530\nПишите мне на почту: priler96@gmail.com",
+        "publishedAt": "2014-06-17T18:54:47.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l78YiXqxbNU-uzeWWmG29JghknJjyENTMOAdhg=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "Fireship",
+        "channelId": "UCsBjURrPoezykLs9EqgamOA",
+        "channelUrl": "https://youtube.com/channel/UCsBjURrPoezykLs9EqgamOA",
+        "desc": "Hi, I'm Jeff, a GoogleDevExpert who is obsessed with helping developers build high quality apps as fast as possible ⚡. Subscribe for new videos every week covering intermediate to advanced lessons about JavaScript, Flutter, Angular, Firebase, and modern app development.\n\nBuilding a product with this tech? Get project support, exclusive videos, and more at https://fireship.io",
+        "publishedAt": "2017-04-07T18:17:23.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l79FkXYtRM1Xh0v7-zvYTimNTfOsGtS8hSE7eg=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "CS Dojo",
+        "channelId": "UCxX9wt5FWQUAAz4UrysqK9A",
+        "channelUrl": "https://youtube.com/channel/UCxX9wt5FWQUAAz4UrysqK9A",
+        "desc": "Hi there! My name is YK, and I make videos mostly about programming and computer science here.\n\nIf you haven't yet, you should join our Discord, Facebook or Reddit community at csdojo.io/community!\n\nI also have a channel where I talk about other things. It's called Hey YK. You can find it on the right or on the \"Channels\" tab.\n\nYou can also find me @ykdojo on Twitter and Instagram :)\n\nHave a programming-related question? I might have already answered it on my FAQ page here: csdojo.io/faq (you can find this link either below or above, too)\n\nIf you can't find your question there, maybe try asking it on one of our communities here: csdojo.io/community\n\n\nBusiness email: https://www.csdojo.io/contact/\nLogo cred: Youdong Zhang",
+        "publishedAt": "2016-02-26T01:49:30.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l7-2V4Ho1FuSEQZbezeun-PNua8PZ6PJM7aiGw=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "FalconMasters",
+        "channelId": "UCJl1YajcPWTeJNsQhGyMIMg",
+        "channelUrl": "https://youtube.com/channel/UCJl1YajcPWTeJNsQhGyMIMg",
+        "desc": "Aprende diseño y desarrollo web desde cero con increíbles diseños, ejemplos, practicas y mucho mas.\n\n\n✔️ Curso Completo de Diseño Web Profesional:\nhttps://www.udemy.com/course/diseno-web/?referralCode=BCC54890816B6A9BCFB7\n\n✔️ Curso Completo de PHP y MYSQL:\nhttps://www.udemy.com/course/php-y-mysql/?referralCode=65030D8167A2AC468B3A\n\n✔️ Curso de Bootstrap 4:\nhttps://www.udemy.com/course/curso-bootstrap/?referralCode=9295F0DABEA90E98FF64\n\n✔️ Curso de Tiendas Online:\nhttps://www.udemy.com/course/curso-tienda-online/?referralCode=18423E7B622E6C6C2846\n\n---\n\nRedes Sociales:\n\n♦ Twitter @falconmasters:\n   http://www.twitter.com/falconmasters \n\n♦ Pagina de Facebook:\n   http://www.facebook.com/falconmasters",
+        "publishedAt": "2009-11-08T04:30:06.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l7_eFxUqAhz7zu8qZXT0Yk458ulmTYGtc5alYg=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "LearnWebCode",
+        "channelId": "UCHRp19HU7Y2LwfI0Ai6WAGQ",
+        "channelUrl": "https://youtube.com/channel/UCHRp19HU7Y2LwfI0Ai6WAGQ",
+        "desc": "I make videos about CSS, JavaScript, WordPress and cats. I also teach premium courses (you can find links to them in this channel's header / banner area).\n\nAdd me on Twitter for webDev resources and cat pics @learnwebcode\n\nSign up for my newsletter to be notified when I launch new courses: http://learnwebcode.com/",
+        "publishedAt": "2010-02-10T19:43:18.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l7-knNRQD1hT4uPTpaPbq6HtoAIeUi3S3q3uSw=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "Sorax",
+        "channelId": "UCdnFX7mzgup9moXG2fULOog",
+        "channelUrl": "https://youtube.com/channel/UCdnFX7mzgup9moXG2fULOog",
+        "desc": "Уроки веб-разработки.\n\nВы можете помочь проекту, переведя любую сумму на один из кошельков:\n\nЯндекс.Деньги:\n410011811086319\n\nPayPal:\nart.sorax@gmail.com\n\nWebMoney:\nR235685605990\nZ145554871487",
+        "publishedAt": "2011-03-23T13:41:31.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l783jOV9w-TdPwnfhs6rR1hcJqgppua3qlplHA=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "kudvenkat",
+        "channelId": "UCCTVrRB5KpIiK6V2GGVsR1Q",
+        "channelUrl": "https://youtube.com/channel/UCCTVrRB5KpIiK6V2GGVsR1Q",
+        "desc": "Arabic version of Dot Net & SQL Server tutorials\nhttps://www.youtube.com/channel/UCgRFf3_D5H1Qi8pvw2Czyzg\n\nOver 14 years of experience, with Microsoft .NET technologies and SQL Server. Love to share knowledge  as I believe in \"TO TEACH IS TO LEARN\". \n\nGot the opportunity to work on world's largest e-commerce and banking web applications that are highly transactional in nature. Now, it's my turn to give something back to the community, hence these free video tutorials.\n\nUse the link below to know more about how to support our channel\nhttp://bit.ly/supportkudvenkat",
+        "publishedAt": "2008-11-26T20:31:21.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l7-n4tI9X55d3nkVJ7kDd6LnyARSsiz2QW2QTA=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "Гоша Дударь",
+        "channelId": "UCvuY904el7JvBlPbdqbfguw",
+        "channelUrl": "https://youtube.com/channel/UCvuY904el7JvBlPbdqbfguw",
+        "desc": "Присоединяйтесь к одному из самых крупных каналов по программированию на русском сегменте! Подписывайтесь чтобы не пропускать крутые видео курсы, а также различные тематические видео на IT тематику!\n\nНа канале вы найдете различные подборки видео уроков по созданию сайтов, игр, программ и даже приложений с виртуальной реальностью 😁\n\nЕсли вы хотите изучить веб программирование, то на канале уже сейчас можете найти подходящие видео курсы по HTML, CSS, PHP, JavaScript, Ajax, различным фреймворкам и движкам, которые обеспечивают быстрое и эффективное создание веб сайта.\n\nТакже вы можете обучиться перспективным и мощным языкам программирования, таким как: C++, C#, Java, Python, Си, Swift, Go и многим другим языкам.\n\nЕсли же вас интересуют игры и вы хотите научиться их создавать, то на канале вы найдете множество курсов по созданию игр на различных игровых движках (Unity, Unreal Engine, GameMaker, Corona SDK), а также без использования движков на чистом С++, Java или Python!\n#GoshaDudar",
+        "publishedAt": "2014-01-18T20:06:42.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l78CkR_4wrnthT75vVJfCVs_ShTFGHHlFVQgOg=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "Chris Hawkes",
+        "channelId": "UCfV36TX5AejfAGIbtwTc7Zw",
+        "channelUrl": "https://youtube.com/channel/UCfV36TX5AejfAGIbtwTc7Zw",
+        "desc": "We're going to learn about programming, web design, responsive web design, Reactjs, Django, Python, web scraping, games, forms applications and more!  Thank you for subscribing!  \n\nwww.hipstercode.com is built using Python Django. \n\nFor sponsorship opportunities please email me at noobniche@gmail.com\n\nFollow me on Twitter! https://twitter.com/realchrishawkes\n\nThanks, \n\nChris",
+        "publishedAt": "2013-02-19T01:07:23.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l7-NcUdeKQmEG9Pd7naGAVidLAZeQMrOzMFHJw=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "Pasja informatyki",
+        "channelId": "UCzn6vAfspIcagLax1fck_jw",
+        "channelUrl": "https://youtube.com/channel/UCzn6vAfspIcagLax1fck_jw",
+        "desc": "Mirosław Zelent i Damian Stelmach - zmieniamy naukę informatyki na bardziej przystępną. Wierzymy w nauczanie, które rozpala pasję, a nie takie, które wynika z przymusu. Tworzymy dopracowane tutoriale video, artykuły tekstowe, podcasty, testy i zadania do rozwiązania dostępne dla wszystkich za darmo. Naszym celem jest osiągać wielokrotnie zadziwiający stopień przyswajalności materiału - taki, który pozwoli każdemu, kto tylko zechce popracować, stawać się o mały krok lepszym w tym co robi. Temat po temacie, film po filmie, wykład po wykładzie. \n\nChcesz wesprzeć ten kanał? Zajrzyj tutaj: patronite.pl/pasja-informatyki\nMasz pytanie dotyczące odcinka? Nie pytaj w komentarzach, zadaj je na forum: forum.pasja-informatyki.pl \nWspółpraca reklamowa: http://miroslawzelent.pl/wspolpraca/\n\nNie odpisujemy na pw na YT, ani na  osobistych profilach na FB. \nKontakt (jedynie w celach biznesowych): kontakt@pasja-informatyki.pl\nNasz content dostarczamy na zasadzie \"as is\".",
+        "publishedAt": "2012-02-05T10:44:16.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l7920r-haNy08BaOnCLKXwi5j3TzFJxuxEG4JQ=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "tutor4u",
+        "channelId": "UCJspWFXSL1guQPdFqh4lFjQ",
+        "channelUrl": "https://youtube.com/channel/UCJspWFXSL1guQPdFqh4lFjQ",
+        "desc": "Tutorials for Blender, GIMP, Inkscape, HTML, CSS, and JavaScript/jQuery.",
+        "publishedAt": "2008-01-19T21:51:05.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l7-1sVQQjW_dPcl2AGELxLquEF8ZZ8YLHdaw5Q=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "GoogleTechTalks",
+        "channelId": "UCtXKDgv1AVoG88PLl8nGXmw",
+        "channelUrl": "https://youtube.com/channel/UCtXKDgv1AVoG88PLl8nGXmw",
+        "desc": "Google Tech Talks is a grass-roots program at Google for sharing information of interest to the technical community.  At its best, it's part of an ongoing discussion about our world featuring top experts in diverse fields.  Presentations range from the broadest of perspective overviews to the most technical of deep dives, on topics well-established to wildly speculative.\n\nDisclaimer:  Google TechTalks are designed to disseminate a wide spectrum of views on topics including Current Affairs, Science, Medicine, Engineering, Business, Humanities, Law, Entertainment, and the Arts.  The views or opinions expressed by the guest speakers are solely their own and do not necessarily represent the views or opinions of Google, Inc.\n\nCredits:  The original title animation and theme were created by Nick Thomas.  The mid-2016 title animation was designed by Matt McDonald.  The mid-2016 theme music was composed and created by Mark Lentczner (https://soundcloud.com/mtnviewmark).",
+        "publishedAt": "2007-08-15T23:10:56.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l7-XBRPSY8fZIWuAtEKysk_C4_o7-vThpXCqFA=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "Simply Explained - Savjee",
+        "channelId": "UCnxrdFPXJMeHru_b4Q_vTPQ",
+        "channelUrl": "https://youtube.com/channel/UCnxrdFPXJMeHru_b4Q_vTPQ",
+        "desc": "Taking complicated topics and explaining them in plain English. \n\nMy name is Xavier. I’m very passionate about all kinds of technologies and I love taking complex topics and explaining them in a simple and straightforward way. It’s this passion that got me into making YouTube videos.\n\nWith this channel, I hope to pass along some of my knowledge to others. Let me know if you have suggestions for future videos or improvements.",
+        "publishedAt": "2016-01-13T09:47:02.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l78dtIir360WE_atHriNPF2jRDqR6dleSuS6HA=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "Fun Fun Function",
+        "channelId": "UCO1cgjhGzsSYb1rsB4bFe4Q",
+        "channelUrl": "https://youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q",
+        "desc": "I’m Mattias Petter Johansson, mpj for short. I’ve been a full-time programmer for about ten years. Among others, I've worked for Absolut Vodka, Blackberry and Spotify.  \n\nVideos are released on MONDAYS at 08:00 GMT. For the love of 🗿, watch them!\n\n❤️ Support the show on Patreon: https://patreon.com/funfunfunction:\n\n⛱ Pledge $2/month and get access to the Fun Fun Forum where I and other inspiring patrons hang out and talk about everything more or less related to programming.\n\nBecome a SUPER PATRON 🦹‍♀️🦸‍♂️ for $9/month and get access to the Forum AND random LOOT (like stickers and private live streams)\n\nCheck out the sister channel DevTips: https://www.youtube.com/user/DevTipsForDesigners",
+        "publishedAt": "2015-05-15T08:25:01.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l79tdrXBvE6EisZPKvoFQ0EXORUcapbfgfD0AQ=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "Awais Mirza",
+        "channelId": "UCIKbbV7ae7LAWa8cGnvjSPA",
+        "channelUrl": "https://youtube.com/channel/UCIKbbV7ae7LAWa8cGnvjSPA",
+        "desc": "On this channel you will find Tech Videos , AutoDesk software Tutorial, Adobe Tutorial and Programming Tutorial. Mobile Tech and Reviews  Videos. https://goo.gl/G4dZJX\n\nMilestone\n100 : 04/06/2016\n1k : 04/08/2016\n2k : 28/09/2016\n5k: 05/01/2017\n10k : 28/03/2017",
+        "publishedAt": "2016-02-11T18:08:03.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l78jnAXnU5l8M_gdXqNwX8pTcgtMzOHD1RPRFQ=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "mayuko",
+        "channelId": "UCEDkO7wshcDZ7UZo17rPkzQ",
+        "channelUrl": "https://youtube.com/channel/UCEDkO7wshcDZ7UZo17rPkzQ",
+        "desc": "Hi! I'm Mayuko. \nI make videos about my life and tech and stuff!",
+        "publishedAt": "2010-10-04T09:01:34.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l7-MXJleHjM0eBK4MayZc_2RcojmKk_Ocs3rtQ=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "YUI Library",
+        "channelId": "UCTHcgWOTU6gPje1g_U29tfQ",
+        "channelUrl": "https://youtube.com/channel/UCTHcgWOTU6gPje1g_U29tfQ",
+        "desc": "Videos and screencasts about frontend engineering and related topics (not just YUI!) from the YUI Team and visiting speakers at Yahoo!.",
+        "publishedAt": "2011-06-23T23:49:26.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l797IBuexcaLW5a_MkBx7CAisEwnrKol0JdMag=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "The Coding Train",
+        "channelId": "UCvjgXvBlbQiydffZU7m1_aw",
+        "channelUrl": "https://youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw",
+        "desc": "In this YouTube channel I publish \"creative coding\" video tutorials every week. Subjects covered range from the basics of programming languages like JavaScript (with p5.js) and Java (with Processing) to generative algorithms like physics simulation, computer vision, and data visualization.",
+        "publishedAt": "2006-07-03T18:24:29.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l78lxit0NV0zqTZXtwBG4FbEKnEulWZXxBYIiA=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "FlashCreations",
+        "channelId": "UCMU9HNIIiYNPr3gciefzd0g",
+        "channelUrl": "https://youtube.com/channel/UCMU9HNIIiYNPr3gciefzd0g",
+        "desc": "Welcome to the Youtube Channel for FlashCreations Computer Help and FAQ. We are for people who want answers to their computer questions. We provide detailed and honest information on the topics you want and answer all your questions to aid you with you PC! And now you can get live support from our experts at: http://www.crossloop.com/FlashCreations",
+        "publishedAt": "2008-06-22T16:21:18.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l7-Vx6OujqnzBJ2RHOfNK3S0k1D1qa0Yg2n74w=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "techsith",
+        "channelId": "UCbGZKLIHpox2l0whz6_RYyg",
+        "channelUrl": "https://youtube.com/channel/UCbGZKLIHpox2l0whz6_RYyg",
+        "desc": "*Udemy Course\n https://www.udemy.com/js-masterclass/  \nhttps://www.udemy.com/course/react-hooks-course/\n*couponCode*=TECHSITH-9.99\n\nHELP THE CHANNEL:\n  -  Bitcoin address for donations: 3Ho1PZ5DZMHAnksEYJV41T6JHPWrSJ3AFe\n  -  Patreon:  https://www.patreon.com/techsith\n  -  Merchandise: https://teespring.com/stores/techsith-store\n\nSUBSCRIBE MY OTHER CHANNELS : \n   youtube.com/interviewnest ,\n   youtube.com/channel/UC84Tib6QZ21-leXkGKqFoQQ \n\nJOIN : \nMEETUP: https://www.meetup.com/JavaScript-Interview-Practice/\nFB PRIVATE GROUP: https://www.facebook.com/groups/techsith\nReact Group: https://www.facebook.com/groups/reactLearning\nLINKEDIN FRONT-END GROUP: https://www.linkedin.com/groups/13677140/\n\nCHECK OUT : https://medium.com/@patelhemil\n\nFOLLOW: https://facebook.com/techsith/ \n                  https://twitter.com/techsith1\n\nGROUP ONLINE TRAINING (JS, REACT):  contact  techlover2000@gmail.com",
+        "publishedAt": "2014-06-17T01:48:16.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l7_gf02ki-z2J3F9QaiP_7-b3dHt-lrypxJUxg=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "J&G Proyectos Web",
+        "channelId": "UCrh7BmIGftt9I3fcABYoaBA",
+        "channelUrl": "https://youtube.com/channel/UCrh7BmIGftt9I3fcABYoaBA",
+        "desc": "J&G Proyectos web \nUn canal dedicado a mostrar tutoriales y tips sobre diseño web, programación, soporte técnico y otras tecnologías.\nDesde Ica, Perú",
+        "publishedAt": "2015-05-22T02:36:26.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l79BrqOyZ-m9VTuX6EK8q0_lnfKa28CNXJQcZA=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "Hitesh Choudhary",
+        "channelId": "UCXgGY0wkgOzynnHvSEVmE3A",
+        "channelUrl": "https://youtube.com/channel/UCXgGY0wkgOzynnHvSEVmE3A",
+        "desc": "Website: https://courses.LearnCodeOnline.in\nHey there everyone, Hitesh here back again with another video!\nThis means I create a lot of videos, every single week. I cover a wide range of subjects like programming, what's latest in tech, new frameworks, open source products etc. I keep my interest in a wide area of tech like Javascript, Python, PHP, Machine Learning, etc.\n\n\n\n\nFor the Business purpose, Sponsorships and invitation, react out at manager@hiteshchoudhary.com\n\nNOTE: Personal questions and code-related questions are not answered at this email. Post them in the course discussion section or react me out at social platforms.\n\n#iWriteCode\n\nInstagram: https://instagram.com/hiteshchoudharyofficial\nFacebook: www.fb.com/HiteshChoudharyPage",
+        "publishedAt": "2011-10-24T10:25:16.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l7-GpYFwHDMQVXkOcO3Ra8bIoZhhiU3oluiJBw=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "Christopher Okhravi",
+        "channelId": "UCbF-4yQQAWw-UnuCd2Azfzg",
+        "channelUrl": "https://youtube.com/channel/UCbF-4yQQAWw-UnuCd2Azfzg",
+        "desc": "Programming lectures, tutorials, screencasts, and book reviews. New videos (at least) every week.\n\n📣 Ask Me Anything\nhttps://app.scaleabout.com/christopherokhravi\n\n💪 Patreon Community\nhttps://www.patreon.com/christopherokhravi\n\n📚 Products I Recommend\nhttp://amazon.christopherokhravi.com\n\n🎧 Audiobooks for the win\nhttp://audible.christopherokhravi.com/\n\n⭐️Donations\nBTC: bc1q4k330f3g0mjd70g8ws4zwxheu4ym065f8j8djh\nETH: 0xa9342b308d480239d64c967bf7d53c4877474f25\nLTC: ltc1q7ja5xvnkj32knp3mnhmgagdcwk8atevdswnft0\nBCH: qqa8xpggmx68udkwjvpmmmv22rw6rx68p5ehe5rgmu\nZEC: t1XyiVNTTEoSxWT8WdESwsUsp6fbySesYc2",
+        "publishedAt": "2011-09-12T13:50:17.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l79afFRgAqriUDm3JIo1LxYxFT5hDrVCs4pb6g=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "Designveloper",
+        "channelId": "UC6eT8pOvV16UHJzmzuv_Gpw",
+        "channelUrl": "https://youtube.com/channel/UC6eT8pOvV16UHJzmzuv_Gpw",
+        "desc": "100% FREE - VALUABLE Web Design, Web Development, App development, VOIP, Mobile app tutorials and more by Designveloper\nMainly focus on  Meteor, single page real-time web application, cross-platform mobile apps.\n\n***Including, but not limited to: Meteor js, Nodejs, Sailsjs, NoSQL (MongoDB, Redis), SocketIO, Backonejs, Waterline, Gruntjs, Handlebars, Dalekjs, jQuery, HTML5, CSS3, LESS, Bootstrap, Deployment Strategies***",
+        "publishedAt": "2016-07-05T03:23:24.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l7_8WaLJYczMbTeH4ekZsR2-sLk0fWBcn5eG9w=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "Awa Melvine",
+        "channelId": "UCjOVC0tPIo78a_DNeYs7ETQ",
+        "channelUrl": "https://youtube.com/channel/UCjOVC0tPIo78a_DNeYs7ETQ",
+        "desc": "",
+        "publishedAt": "2015-03-17T17:21:55.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l7-NKq1J50wc3mE7632FTp01KAC3jrTeJkvP9g=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "LiveOverflow",
+        "channelId": "UClcE-kVhqyiHCcjYwcpfj9w",
+        "channelUrl": "https://youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w",
+        "desc": "just a wannabe hacker...\n\n-=[ ❤️ Support me ]=-\n\nPatreon per Video: https://www.patreon.com/join/liveoverflow\nYouTube Membership per Month: https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w/join\n\n-=[ 📄 Imprint ]=-\n\nSecurity Flag GmbH\nCelsiusstr. 72\n12207 Berlin\nGermany",
+        "publishedAt": "2015-03-16T14:20:31.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l78P1-euVH5sYUZ56vURDoQIEBbN4G0d-5FSlQ=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "Fazt",
+        "channelId": "UCX9NJ471o7Wie1DQe94RVIg",
+        "channelUrl": "https://youtube.com/channel/UCX9NJ471o7Wie1DQe94RVIg",
+        "desc": "Soy Fazt, y en este Canal Podrás Encontrar Todo de Programación y Desarrollo Web, Desde hacer tu propio logo de tu Marca hasta subir tu Sitio o APlicación Web, con las mejores Prŕacticas. Bienvenido al mundo de la web, un mundo en el que la información es libre, al igual que la información de este canal.",
+        "publishedAt": "2015-08-07T19:52:57.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l7-BbILLNzL7u2WmxpqgltzNLW0YPEaA8lmqVw=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "Meth Meth Method",
+        "channelId": "UC8A0M0eDttdB11MHxX58vXQ",
+        "channelUrl": "https://youtube.com/channel/UC8A0M0eDttdB11MHxX58vXQ",
+        "desc": "Hello! My name is Pontus and I live in Stockholm. \n\nOn this channel I try to make videos that explain coding concepts, web development and JavaScript. I've been developing things on the internet since 1996 and became a professional around 2002, while I still wanted to be a movie director. My first serious project was building and growing CoolStuff.com, after that I joined Spotify in 2012, left in 2016 to move to Los Angeles to work for a startup called Skurt, but are now back in Stockholm.\n\nIf you want to support my work beyond what you are doing by watching and spreading the word, feel free to buy a Meth Meth Method T-Shirt and send me a picture. :)\n\nMusic on this channel is made by Demoscene Time Machine. His name is Dave and he is about the best person there is. If you like the music you can find more",
+        "publishedAt": "2016-07-30T13:05:39.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l7-euvNxj-iSW19myM45LZE8k-jKBZFawRm8HA=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "James Shore",
+        "channelId": "UCMDg-RTfD384BAUw_Eq2hIg",
+        "channelUrl": "https://youtube.com/channel/UCMDg-RTfD384BAUw_Eq2hIg",
+        "desc": "Home of \"Let's Play: Test-Driven Development.\" Live, stream-of-consciousness programming using test-driven development and incremental design.",
+        "publishedAt": "2010-08-31T21:49:03.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l79VY8CFpeoaBiJIUGGMs5cba2Xw20KFIsDsPw=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "blondiebytes",
+        "channelId": "UC4DwZ2VXM2KWtzHjVk9M_xg",
+        "channelUrl": "https://youtube.com/channel/UC4DwZ2VXM2KWtzHjVk9M_xg",
+        "desc": "Start learning how to code right now. I make new programming tutorials (almost) every week :) \n\nSupport on Patreon: https://www.patreon.com/blondiebytes\n\nBehind the Scenes + MORE TECH content: https://www.instagram.com/blondiebytes/?hl=en\n\nLinkedIn Learning Courses: https://www.linkedin.com/learning/instructors/kathryn-hodge\n\nPython Basics Highbrow Email Course: https://gohighbrow.com/portfolio/python-basics/",
+        "publishedAt": "2014-07-03T02:49:27.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l78-tm9lvB3EfyJqU8_bRrNqfuhGaNX0a22dNg=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "PHP-MySQL by Saurabh Shukla Sir",
+        "channelId": "UCjH-FPCFAWZEDP8EZVZ0nlQ",
+        "channelUrl": "https://youtube.com/channel/UCjH-FPCFAWZEDP8EZVZ0nlQ",
+        "desc": "This channel serves you a course which provides everything you need to develop a web application.\nYou will learn HTML, CSS Javascript, Jquery, PHP, MySQL, Ajax, etc\nYou can get updated with our work through www.mysirg.com",
+        "publishedAt": "2015-03-09T10:34:52.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l79Vcp6dtdveVT4tLq0LBsg1OJGToU0qXitFbw=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "Curso em Vídeo",
+        "channelId": "UCrWvhVmt0Qac3HgsjQK62FQ",
+        "channelUrl": "https://youtube.com/channel/UCrWvhVmt0Qac3HgsjQK62FQ",
+        "desc": "Cursos em vídeo-aulas totalmente gratuitos, criados pelo Professor Gustavo Guanabara. \n\nInformações para contato: contato@cursoemvideo.com",
+        "publishedAt": "2013-05-11T01:25:44.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l7_dZK1YbhL-UVXQH8M1L6NEtKKTQCkhXhQ7Aw=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "Netflix UI Engineering",
+        "channelId": "UCGGRRqAjPm6sL3-WGBDnKJA",
+        "channelUrl": "https://youtube.com/channel/UCGGRRqAjPm6sL3-WGBDnKJA",
+        "desc": "Netflix is reinventing how people watch movies and TV shows. The Netflix UI Engineering teams use technologies like JavaScript, Objective-C, Android, Node.js, React and Rx to A/B test new ideas and innovate the experience used by over 80 million members across the world on thousands of devices including TVs, gaming consoles, phones, tablets and PCs.",
+        "publishedAt": "2014-07-03T23:19:45.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l7_S3jG0rNt-BVJ9aeTqLsAr6tJD2sigSLjZ6g=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "psycofloyd",
+        "channelId": "UCHvtssSrTjy76dYEFwdMiTw",
+        "channelUrl": "https://youtube.com/channel/UCHvtssSrTjy76dYEFwdMiTw",
+        "desc": "",
+        "publishedAt": "2006-10-09T01:52:42.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l7_SKIYYOOTNz1qJgx8-9bliFdRp0DQ2GUyXqw=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "Google",
+        "channelId": "UCK8sQmJBp8GCxrOtXWBpyEA",
+        "channelUrl": "https://youtube.com/channel/UCK8sQmJBp8GCxrOtXWBpyEA",
+        "desc": "Experience the world of Google on our official YouTube channel. Watch videos about our products,  technology, company happenings and more. Subscribe to get updates from all your favorite Google products and teams.",
+        "publishedAt": "2005-09-18T22:37:10.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l7-BBIcC888A2qYc3rB44rST01IEYDG3uzbU_A=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "Easy Tutorials",
+        "channelId": "UCkjoHfkLEy7ZT4bA2myJ8xA",
+        "channelUrl": "https://youtube.com/channel/UCkjoHfkLEy7ZT4bA2myJ8xA",
+        "desc": "Hello Friends, \n\nWelcome to our channel \"Easy Tutorials\". I created this channel with the aim to help you to learn Website development, blogging, Digital Marketing and other technical things.\n\nPlease subscribe my channel to receive notification of my new videos and learn new things. \n\nThank You :)\n\nChannel Managed By: Vikash & Avinash\n\nFor Enquiry: avinash6252@gmail.com",
+        "publishedAt": "2015-03-24T19:21:04.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l7-lA5dOTo_qLa5Qq1QnsMz-bE-310APoKFDAg=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "Dongsu Jang",
+        "channelId": "UCfTGEtxelyB4ou2OGqn0ZRw",
+        "channelUrl": "https://youtube.com/channel/UCfTGEtxelyB4ou2OGqn0ZRw",
+        "desc": "weboffice videos at youtube",
+        "publishedAt": "2008-08-13T12:16:43.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l79lnp_0qPQRFvOCeWly161P3OJX6XsUp8VV9w=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "Online Tutorials",
+        "channelId": "UCbwXnUipZsLfUckBPsC7Jog",
+        "channelUrl": "https://youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog",
+        "desc": "Online Tutorial - Html , Css , Jquery , Bootstrap , Photoshop",
+        "publishedAt": "2013-01-15T17:33:55.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l7_JOPbXWp3QXZDuk7CCOzxdwpRg8MFJliMx5A=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "The Net Ninja",
+        "channelId": "UCW5YeuERMmlnqo4oq8vwUpg",
+        "channelUrl": "https://youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg",
+        "desc": "Black-belt your development skills. Tutorials on:\n\n- Modern JavaScript (beginner to advanced)\n- Node.js\n- React\n- Vue.js\n- Firebase\n- MongoDB\n- HTML & CSS\n- Plus loads more...",
+        "publishedAt": "2015-04-08T20:11:22.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l7_G1IKlBEywAx1W9RqPfjsDrOFw9LcwSVkQiw=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "Adam Khoury",
+        "channelId": "UCpzRDg0orQBZFBPzeXm1yNg",
+        "channelUrl": "https://youtube.com/channel/UCpzRDg0orQBZFBPzeXm1yNg",
+        "desc": "Learn to code and design like a professional. Master development technologies like JavaScript, PHP, SQL, HTML, CSS, ActionScript and more.",
+        "publishedAt": "2008-01-23T15:24:12.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l78Rib6Z7n26dawV9uT8PbJLFpYPHhlGWUcfYw=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "WebGirl Kristina",
+        "channelId": "UCrRfSdwA7b2Ex0MB6q9hKEQ",
+        "channelUrl": "https://youtube.com/channel/UCrRfSdwA7b2Ex0MB6q9hKEQ",
+        "desc": "",
+        "publishedAt": "2018-05-05T16:16:05.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l7-R4UppWVYk8Qzxnw4BUaeuLtQ5FT29JiHgQg=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "hindidevtuts",
+        "channelId": "UC-0d3muMfcERwnqn7CEIW-A",
+        "channelUrl": "https://youtube.com/channel/UC-0d3muMfcERwnqn7CEIW-A",
+        "desc": "HINdiDevTuts is a learning place for who don't able to learn web development due to poor English ,we provide all webdesign and development tutorials in Hindi.You can learn HTML,CSS,JavaScript,PHP,Mysql Bootstrap and more  tricks and tips and we also add photography and video editing soon\nfor student support : email: hdthelpline@gmail.com,Whatsapp only:9904243718\n\nFor business inquiries: hindidevtuts@gmail.com\nMobile No:9078066947",
+        "publishedAt": "2013-03-20T20:46:38.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l7-bpdIM4geayPQ2Hc9zPzke9yWsQ1hKOsdz_Q=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "Yoney Gallardo",
+        "channelId": "UCz8QPKIj84JE091eK-lEImg",
+        "channelUrl": "https://youtube.com/channel/UCz8QPKIj84JE091eK-lEImg",
+        "desc": "En este canal encontrarás videos de Tecnología, tutoriales y cursos de diferentes programas y aplicaciones, desde temáticas y conceptos básicos de computación hasta avanzados como Diseño y Desarrollo Web con diferentes lenguajes de programación. También te ofreceremos tips y consejos en el área tecnológica.",
+        "publishedAt": "2009-04-01T17:57:14.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l79AnHjE071Thtx-7QkL8NvFJr47dyy3spHxUw=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "Google Developers",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "channelUrl": "https://youtube.com/channel/UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "desc": "The Google Developers channel features talks from events, educational series, best practices, tips, and the latest updates across our products and platforms.",
+        "publishedAt": "2007-08-23T00:34:43.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l78iFtAxyRZcUBzG91kbKMES19z-zGW5KT20_g=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "Google Chrome Developers",
+        "channelId": "UCnUYZLuoy1rq1aVMwx4aTzw",
+        "channelUrl": "https://youtube.com/channel/UCnUYZLuoy1rq1aVMwx4aTzw",
+        "desc": "Making the web more awesome.",
+        "publishedAt": "2012-04-24T00:05:52.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l78m61d_zc9fsJi1EiCYL5ujJgQgZ40QOpajlg=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "Academind",
+        "channelId": "UCSJbGtTlrDami-tDGPUV9-w",
+        "channelUrl": "https://youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w",
+        "desc": "There's always something to learn!\nWhether you want to have look at Angular Tutorials or Guides, Vue.js, other Frontend Development Content or Data Science Topics or anything else - you're probably right!\n\n• Go to https://www.academind.com and subscribe to our newsletter to stay updated and to get exclusive content & discounts\n• Follow @maxedapps and @academind_real on Twitter\n• Follow @academind_real on Instagram: https://www.instagram.com/academind_real\n• Join our Facebook community on https://www.facebook.com/academindchannel\n\nSee you in the videos!\n\nImprint: https://academind.com/impressum/en\nPlease only send business inquiries to the email address, support or video-related questions can not be answered.",
+        "publishedAt": "2015-12-04T12:55:40.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l7-L1jJvOCpat-6U8PVblQ_cSowHb42QQubFSw=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "Le Wagon",
+        "channelId": "UChCDYcBCrb8tuPAO6e0P-Hw",
+        "channelUrl": "https://youtube.com/channel/UChCDYcBCrb8tuPAO6e0P-Hw",
+        "desc": "Le Wagon is the best coding bootcamp for entrepreneurs and creatives. Checkout for yourself the projects developed by our students after the 9-week fullstack coding bootcamp and enjoy our free workshops!",
+        "publishedAt": "2014-01-08T11:27:32.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l7_ugzpRGkn_U2x65OH5eQ0b9a-sn7eXIJFj-w=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "FishThatDrown",
+        "channelId": "UCgOF-8RjjgjS0RN9hHqcVNw",
+        "channelUrl": "https://youtube.com/channel/UCgOF-8RjjgjS0RN9hHqcVNw",
+        "desc": "Variety of tutorials on a variety of things.",
+        "publishedAt": "2006-06-28T20:28:32.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l7-rKy71THJSw5NegbVEKSL9WNXacQ6VFf3t7g=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "Platzi",
+        "channelId": "UC55-mxUj5Nj3niXFReG44OQ",
+        "channelUrl": "https://youtube.com/channel/UC55-mxUj5Nj3niXFReG44OQ",
+        "desc": "Platzi es educación online efectiva donde y cuando quieras. Aprende diseño, desarrollo web, marketing y negocios digitales.\n\nNo te pierdas los mejores momentos de nuestro PlatziLive, además de reviews y tutoriales.\n\nSuscríbete ahora.",
+        "publishedAt": "2010-06-03T04:42:18.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l79bnShXhA2MubRg8IHzQUZYpeYBKKTF2gIAeg=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "listenwhatisayoh",
+        "channelId": "UCKbyWkTjfG2AYYVROvHfC4A",
+        "channelUrl": "https://youtube.com/channel/UCKbyWkTjfG2AYYVROvHfC4A",
+        "desc": "",
+        "publishedAt": "2008-10-30T14:40:43.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l7-cu4O1pln0B8HOEl47d5XqC7GibiC6OUEVMA=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "Filipe Alves",
+        "channelId": "UCv6aZVQz8IHrhgemxZrNRmQ",
+        "channelUrl": "https://youtube.com/channel/UCv6aZVQz8IHrhgemxZrNRmQ",
+        "desc": "Falo de programação, desenvolvimento e tecnologia em geral :)",
+        "publishedAt": "2014-01-27T00:29:02.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l7-NfkF9CsZoqo5esROeXE54E-FzLgctgAy9OA=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "Scott The Woz",
+        "channelId": "UC4rqhyiTs7XyuODcECvuiiQ",
+        "channelUrl": "https://youtube.com/channel/UC4rqhyiTs7XyuODcECvuiiQ",
+        "desc": "Hey all, Scott here.\n\nScott The Woz is a comedic video game centric variety show that focuses on reviews, editorials, retrospectives, and much, much more. New episodes are uploaded every Sunday night.\n\nOther original content, mainly comedic shorts, can be found here as well. New originals are uploaded sporadically.\n\n\"Scott The Woz\" Logo/Banner by Nico Vliek (@WhaddupNico)",
+        "publishedAt": "2012-11-08T00:43:42.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l7_9oFs1sIFRVx44v04W0H0yoTqM5JjPJR2gXw=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "InfoQ",
+        "channelId": "UCkQX1tChV7Z7l1LFF4L9j_g",
+        "channelUrl": "https://youtube.com/channel/UCkQX1tChV7Z7l1LFF4L9j_g",
+        "desc": "InfoQ - Accelerating the software side of human technological progress \n\nSoftware is changing the world, and our mission is to help progressive software development teams adopt new technologies and practices. InfoQ provides software engineers with the opportunity to share experiences gained using innovator and early adopter stage techniques and technologies with the wider industry. We carefully curate and peer review everything we publish. We strongly believe that the high quality insights, offered by both our editors and other contributors, have the power to uplift entire communities, no matter what their native language. InfoQ currently offers content in English, Japanese, Chinese, Portuguese and French.",
+        "publishedAt": "2011-01-07T22:21:32.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l78aSKAsWG-qlrtnu_T4nPJwsZ4oL64CC1dO8w=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "Telusko",
+        "channelId": "UC59K-uG2A5ogwIrHw4bmlEg",
+        "channelUrl": "https://youtube.com/channel/UC59K-uG2A5ogwIrHw4bmlEg",
+        "desc": "Hey Aliens!!!\nI make free programming tutorials from beginner to advanced level\nThat includes Java for beginner, Advanced Java, Python, Android, Blockchain, JavaScript, Kotlin, Scala, Spring Framework, Hibernate, C programming, Data Structures, Networking, REST API, and many more.\nSometimes I make videos on motivation and take sessions with Tech industry experts.\nThere is something for everyone here. \n\nIf my videos have helped you in any way do support Telusko to make more content.\nFor Donation \nPayPal: https://goo.gl/ko8KrB\nPatreon: https://goo.gl/rYLSCs\nInstamojo: https://goo.gl/YSaZKT",
+        "publishedAt": "2014-04-29T08:23:17.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l78X3iTCAFkPBv5wxw0N8DBZAKWghVVK-NkydA=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "Александр Пауков",
+        "channelId": "UCNOOwsseLdgccXbCpVckowA",
+        "channelUrl": "https://youtube.com/channel/UCNOOwsseLdgccXbCpVckowA",
+        "desc": "Видеоуроки Александра Паукова по созданию сайта с нуля.\nВсе эти уроки вы можете посмотреть на моем блоге webcareer.ru",
+        "publishedAt": "2012-07-08T20:18:47.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l7-dJxWTOr_H-d7kJlpcRcT-41-8j33o9YWK2A=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "Web Developer Blog",
+        "channelId": "UCe_H8hzx9WV7Ca7Ps5gt72Q",
+        "channelUrl": "https://youtube.com/channel/UCe_H8hzx9WV7Ca7Ps5gt72Q",
+        "desc": "Привет, с вами Developer blog. На этом канале вы сможете погрузится в мир web-разработки. Множество уроков по html, css ,bootstrap, foundation, различные cms системы такие как wordpress, joomla, научимся создавать интернет магазины и многое другое! Так же много уроков по верске сайтов! Подписывайтесь на наш канал, группу вконтакте, оставляйте свои вопросы и мы обязательно их рассмотрим в видео!\n\nГруппа вконтакте: https://vk.com/developblog\nДля коммерческих запросов: suprunalexey20@gmail.com",
+        "publishedAt": "2013-11-08T15:02:02.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l7_gKQQp-6LsWkmThlcbwOz9KpQqqVGv8HclZw=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "Web Dev Simplified",
+        "channelId": "UCFbNIlppjAuEX4znoulh0Cw",
+        "channelUrl": "https://youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw",
+        "desc": "Web Dev Simplified is all about teaching web development skills and techniques in an efficient and practical manner. If you are just getting started in web development Web Dev Simplified has all the tools you need to learn the newest and most popular technologies to convert you from a no stack to full stack developer. Web Dev Simplified also deep dives into advanced topics using the latest best practices for you seasoned web developers.\n\nI started Web Dev Simplified in order to share my passion for web development, and do what I truly love. Teach and inspire new web developers. I have been in love with full stack web development since 2015 when I did my first internship as a web developer. Ever since then I have pursued my passion, learning everything there is to know about web development. Over the years I have taught many colleagues and friends the joys of web development, and cannot wait to teach you.\n\nThank you for watching!",
+        "publishedAt": "2018-05-24T16:26:39.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l79ee2K-jju14ExP-rfE3kFD07HPqoVS2zZA2A=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "JavaScript Lab",
+        "channelId": "UC24tiAt2fssTBgJKeWTwASQ",
+        "channelUrl": "https://youtube.com/channel/UC24tiAt2fssTBgJKeWTwASQ",
+        "desc": "JavascriptLab - des tutos frais du laboratoire est une société d'e-learning spécialisée dans la création de formations en ligne de haute qualité pour le développement web, mobile, et desktop avec JavaScript.\n\nNous travaillons dur pour s'assurer que nous fournissons les bonnes formations qui peuvent bénéficier la carrière des gens le plus dans le monde du développement avec JavaScript, comme Angulaire, React et encore plus.",
+        "publishedAt": "2016-05-09T15:08:07.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l78IoEUOPQyegsebAmmwf1ejvNL5Vbzmm6p3tw=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "Joma Tech",
+        "channelId": "UCV0qA-eDDICsRR9rPcnG7tw",
+        "channelUrl": "https://youtube.com/channel/UCV0qA-eDDICsRR9rPcnG7tw",
+        "desc": "I talk about life in Silicon Valley, big tech companies, data science and software engineering.\n\nJoma Startup: A web series about me starting a startup called Notvine, an app that allows you to share 6.1 second looping videos\n\nFollow me on:\n\nInstagram: http://instagram.com/jomaoppa\nFacebook: https://www.facebook.com/jomaoppa/\nTwitter: https://twitter.com/jomaoppa\nWebsite: https:/joma.io/\n\nPersonal Email: hello@joma.io\nBusiness Only: business@joma.io",
+        "publishedAt": "2016-08-31T22:22:07.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l787hPX6B4_YZ1Og9Y4lUoOt0VTjkjEy4Qsm9Q=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "خالد السعداني - Khalid ESSAADANI",
+        "channelId": "UCjKpb_hadZ3BQkHcTy81MRA",
+        "channelUrl": "https://youtube.com/channel/UCjKpb_hadZ3BQkHcTy81MRA",
+        "desc": "قناة خالد السعداني لتعلم لغات البرمجة وأنظمة إدارة قواعد البيانات وتطبيقات الويب (فيجوال بزيك، سي شارب، SQL Server، XML، wordpress themes design ..) بالعربية الفصحى و بأسلوب ميسر.",
+        "publishedAt": "2012-08-05T22:39:06.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l7-eQObPB2jPZIOSznfxQPsWvDzhtTk1famuVQ=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "NDC Conferences",
+        "channelId": "UCTdw38Cw6jcm0atBPA39a0Q",
+        "channelUrl": "https://youtube.com/channel/UCTdw38Cw6jcm0atBPA39a0Q",
+        "desc": "After launching in Oslo 2008, NDC quickly became one of Europe’s largest conferences\nfor .NET & Agile development. Since then, the conference has evolved to encompass all technologies relevant to Software Developers. NDC speakers come from all over the world and are recognized as experts and thought leaders in their field.\n\nSee our upcoming events at ndcconferences.com",
+        "publishedAt": "2016-06-10T08:54:48.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l7957Vhv3yjZ7La9Ysib1cyI9M7CZISacRO-wQ=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "Danielle Thé",
+        "channelId": "UCuQ0v3Q5_UCLQkp8AwHDNAA",
+        "channelUrl": "https://youtube.com/channel/UCuQ0v3Q5_UCLQkp8AwHDNAA",
+        "desc": "I'm a tech enthusiast that makes the digital world easy to understand. I've worked at startups as small as Wattpad to as big as Google. Come get more digitally literate with me: from easy tech tutorials, product demos, and digital service announcements that ensure you control technology, so that technology does not control you.",
+        "publishedAt": "2010-04-24T01:33:32.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l7_7i6qQbW-ijQieVcg5o7EYemgRnVGCeikiyQ=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "Chris Morrow",
+        "channelId": "UC2jHROayMyZbXX6lWZAblew",
+        "channelUrl": "https://youtube.com/channel/UC2jHROayMyZbXX6lWZAblew",
+        "desc": "This is the personal YouTube channel of Chris Morrow. An outlet to share my life, my thoughts on web development, and my time with family.",
+        "publishedAt": "2006-09-16T03:45:55.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l7_LtLDq7jnQUB0Tcwtnfmv9dDvvrPKkuVwbPQ=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "VerkkoNet",
+        "channelId": "UCErON4Z0YyiVHKNtx4BvLfg",
+        "channelUrl": "https://youtube.com/channel/UCErON4Z0YyiVHKNtx4BvLfg",
+        "desc": "Learn to code and design like a professional online free from this video lessons. All of the videos are better organised at http://www.samsolomonprabu.com",
+        "publishedAt": "2013-10-09T10:40:48.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l790dWyB2d5LEBudHqjmVpbnCFDara56ozeg=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "Treehouse",
+        "channelId": "UCqHktcPJV7C7T3e9Cg4T4iw",
+        "channelUrl": "https://youtube.com/channel/UCqHktcPJV7C7T3e9Cg4T4iw",
+        "desc": "Treehouse is an online school that teaches technology. Treehouse has courses on hundreds of topics including how to build a website, how to build a web app, how to build a mobile app, and how to start a business.",
+        "publishedAt": "2011-11-07T00:21:55.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l7_f_XFmA4lQUjvWgrzHcoCCpweExeGLeTRQ5Q=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "video2brain",
+        "channelId": "UCv6Hqpbs4-5uG3aShHGk6YA",
+        "channelUrl": "https://youtube.com/channel/UCv6Hqpbs4-5uG3aShHGk6YA",
+        "desc": "Europe's premier video training source since 2002, we're working with top authors and instructors to build a world-class English-language library. This channel features a variety of video2brain lessons as well as trailers and live action videos from our authors.",
+        "publishedAt": "2006-08-19T13:56:36.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l796QbdmFAdW9Y-CrXNatK3Jv2LEbXa74Xeo9Q=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "Quentin Watt Tutorials",
+        "channelId": "UCtGGGu_hp8ToQ9BR6Vni19w",
+        "channelUrl": "https://youtube.com/channel/UCtGGGu_hp8ToQ9BR6Vni19w",
+        "desc": "Coding since 2008, with over a decade of experience to share I make short video tutorials aimed at equipping you with the skills you need to develop your career.\n\nToday I primarily code in Vue.js and Laravel, building SPAs and APIs.\n\nSome other facts about me:\nI Started coding in high school\nI work as a full stack developer in Cape Town, South Africa\nMy birthday is 9 July 1992\nI was born in and live in South Africa. \nI've lived in 4/9 of the South African provinces.\nNicknames I go by are \"Q\", \"Quinn\", \"Quincy\" or my first name \"Quentin\"\nIn addition to coding, and making YouTube videos, I also enjoy going to gym, hiking and spending time outdoors",
+        "publishedAt": "2011-08-20T08:26:35.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l7_3BHjVwLophaB2n_YsHcZ8_tKhYbqLzXmhQA=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "Coding Tech",
+        "channelId": "UCtxCXg-UvSnTKPOzLH4wJaQ",
+        "channelUrl": "https://youtube.com/channel/UCtxCXg-UvSnTKPOzLH4wJaQ",
+        "desc": "LEGAL DISCLAIMER ON CONTENT PERMISSIONS:\n\nCoding Tech partners with the tech conferences around the world that provided Coding Tech with their EXPLICIT permissions to republish videos on this channel. Here's the list of Conferences that provided Coding Tech with EXPLICIT written publication permissions: PyData, MLConf, Build Stuff, Code::dive, PolyConf, AmsterdamJS, React Amsterdam, ReactiveConf, Jazoon Tech Days, SFNode, CppCon, Infinite Red, GDG Lviv, Mibuso.com, You Gotta Love Frontend, React Native EU, Node Summit, NodeConfEU, ConFoo, Pixels Camp, JavaScriptLA, The Linux Foundation, Oredev Conference, Techlahoma, fitcevents. Coding Tech also re-posts content which was originally published with the Creative Commons Attribution license (reuse allowed).\n\nFor business inquiries, please connect on Twitter: https://twitter.com/yuriymatso",
+        "publishedAt": "2015-10-17T02:48:18.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l78qFJuAlbvzkEvnoYRUVkDs0aDqhcXl7AGBCA=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "Code School",
+        "channelId": "UCUFbBYzSUafxMpUbTmroGhg",
+        "channelUrl": "https://youtube.com/channel/UCUFbBYzSUafxMpUbTmroGhg",
+        "desc": "Founded in 2011, Code School is an online learning destination for existing and aspiring developers that teaches through entertaining content. With over 55 courses covering Ruby, JavaScript, HTML/CSS, Python, iOS, Git, databases, and more, Code School pairs experienced instructors with meticulously produced, high-quality content inspired by our community and network of members. \n\nMore than a million people around the world come to Code School to get started with a new technology and learn by doing.\n\nCode School is a Pluralsight company and is based in Orlando, Florida. Learn more at: www.codeschool.com.",
+        "publishedAt": "2011-12-07T16:56:02.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l7_n9lxUjROhqJw4KwyrM7rt33m2MCtFcsjDYg=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "Dev Ed",
+        "channelId": "UClb90NQQcskPUGDIXsQEz5Q",
+        "channelUrl": "https://youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q",
+        "desc": "Learn web development, web design, 3d modelling, tools like figma and more without getting bored!\n\nThe goes of this channel is to get you to become as creative you can be!\n\nSo if you like to create video games in Unity or develop an application in node.js, stick around and have fun!",
+        "publishedAt": "2018-05-27T14:48:23.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l78S6HpvYGWhD-_s_qWcWco5iop55atgoXz53g=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "Front-Trends",
+        "channelId": "UCpIBwBITpXelDgDwe-16zWA",
+        "channelUrl": "https://youtube.com/channel/UCpIBwBITpXelDgDwe-16zWA",
+        "desc": "Front-Trends is a 3-day conference for web and mobile developers to discover the latest trends, technologies, and ideas in front-end development. For over 5 years, Front-Trends has brought together people from all over the world who are shaping the face of the internet and the future of human-technology interaction.",
+        "publishedAt": "2014-02-04T14:52:17.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l7_P2cBDVM1vrXaERnspvE1DqtO1GhgSmZ5O=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "Tutoriales a tu Alcance",
+        "channelId": "UC3mOfIKkCJtlSdhsU9y77DA",
+        "channelUrl": "https://youtube.com/channel/UC3mOfIKkCJtlSdhsU9y77DA",
+        "desc": "Cursos online - en cualquier momento y en cualquier lugar | Tutoriales a tu Alcance.\nSomos una marca afiliada a Udemy, principal destino del mundo para cursos en línea. Descubre un curso en línea y empieza ya a aprender una nueva habilidad.\ncursos online, cursos gratis, desarrollo, negocios, it y software, productividad, desarrollo personal, diseño, marketing, música, salud y fitness, fotografía, estilo de vida, idiomas",
+        "publishedAt": "2014-07-23T00:20:09.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l79lVPRhYvC_N4pf91x9jJgki6yTPbmfrpwkaQ=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "Pusher",
+        "channelId": "UCoyqucxoFXDFnh3khD0rjUg",
+        "channelUrl": "https://youtube.com/channel/UCoyqucxoFXDFnh3khD0rjUg",
+        "desc": "Welcome to the Pusher YouTube channel! Here you’ll find everything from tutorials about our realtime platform to talks from the developer community. Check out our carefully curated playlists and subscribe to our channel to get updated when we release new content.\n\nAt Pusher, we spend our time maintaining reliable and scalable realtime infrastructure so you can spend yours building awesome realtime features. Getting started takes just a few seconds: simply go to https://pusher.com and create a free account. Happy hacking!\n\nCheck out the Pusher blog: http://blog.pusher.com/\n\nFollow Pusher on Twitter: https://twitter.com/pusher\n\nFollow Pusher on Facebook: https://www.facebook.com/pusherapp",
+        "publishedAt": "2011-12-13T16:43:14.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l79icYX5wvIkP_hmGCdWvJv8SPeFKqfsdfQk1g=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "O'Reilly",
+        "channelId": "UC3BGlwmI-Vk6PWyMt15dKGw",
+        "channelUrl": "https://youtube.com/channel/UC3BGlwmI-Vk6PWyMt15dKGw",
+        "desc": "O’Reilly is a learning company that helps individuals, teams, and enterprises build skills to succeed in a world defined by technology-driven transformation.",
+        "publishedAt": "2007-08-03T23:13:47.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l7_39iWOtODKl4a3c5-Cp7FSchgwWpvqaf9EEQ=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "develar",
+        "channelId": "UC0EM-EPb-nFnjaoS4uEcmqA",
+        "channelUrl": "https://youtube.com/channel/UC0EM-EPb-nFnjaoS4uEcmqA",
+        "desc": "",
+        "publishedAt": "2010-11-19T20:56:31.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l7-T8jXFvCH3KSiLhZvv6uv-YQcyJUGIF3atRw=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "Joshua Fluke",
+        "channelId": "UC-91UA-Xy2Cvb98deRXuggA",
+        "channelUrl": "https://youtube.com/channel/UC-91UA-Xy2Cvb98deRXuggA",
+        "desc": "I make a variety of content. I'm always having these wild ideas.",
+        "publishedAt": "2010-03-30T16:49:47.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l79Ixy0fDga0nBXcmWHejTpQi_4o5kh4s9ePIg=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "TheNewBaghdad",
+        "channelId": "UCgntwWFdMDPq0eNhaQ0LHIQ",
+        "channelUrl": "https://youtube.com/channel/UCgntwWFdMDPq0eNhaQ0LHIQ",
+        "desc": "قناة تعليمية متخصصة في تعليم كل مايخص عالم التقنية  من لغات برمجة وامن معلومات بشكل مجاني وعالي الجودة",
+        "publishedAt": "2011-02-21T20:45:12.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l7-Eh1idu5o7h6RI173zviHh8iKfACPRMa6D1g=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "CS50",
+        "channelId": "UCcabW7890RKJzL968QWEykA",
+        "channelUrl": "https://youtube.com/channel/UCcabW7890RKJzL968QWEykA",
+        "desc": "This is CS50, Harvard University's introduction to the intellectual enterprises of computer science and the art of programming. Demanding, but definitely doable. Social, but educational. A focused topic, but broadly applicable skills. CS50 is the quintessential Harvard (and Yale!) course.",
+        "publishedAt": "2011-12-15T01:36:09.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l7-V_jgxJCKA0fvuMnozMbrtn-oZwXI74z0CBA=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "JavaScript Tutorials",
+        "channelId": "UC82nBG0TMf02u80KTClUFaQ",
+        "channelUrl": "https://youtube.com/channel/UC82nBG0TMf02u80KTClUFaQ",
+        "desc": "Learn JavaScript programming step by step. This channel's mission is to clearly explain absolutely everything about JavaScript, from basic programming concepts, to more advanced topics such as closures, prototypes, class simulation, inheritance, and design patterns. If you have any questions about a particular JavaScript development question, let us know, and we'll post a video about it as soon as we can.",
+        "publishedAt": "2013-10-12T17:05:32.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l797Vy7bHrZZZPitVNVyn5yVsQhi_bd4LuKMDg=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "1BestCsharp blog",
+        "channelId": "UCS3W5vFugqi6QcsoAIHcMpw",
+        "channelUrl": "https://youtube.com/channel/UCS3W5vFugqi6QcsoAIHcMpw",
+        "desc": "Tutorials, Projects Source Code C#, VB.NET, JAVA, PHP\nBlog: https://www.1bestcsharp.blogspot.com\n\nC# Projects:\nhttp://1bestcsharp.blogspot.com/p/c-programming-projects.html\n\nJava Projects:\nhttp://1bestcsharp.blogspot.com/p/java-programming-projects.html\n\nVB.Net Projects:\nhttp://1bestcsharp.blogspot.com/p/vbnet-programming-projects.html\n\nALL PROJECTS:\nhttp://bit.ly/2HrU8hK\n\n1000 SUB 30/11/2015\n10000 SUB 27/08/2017\n1,002,100 views 06/11/2016\n5,000,000 views Jan 28, 2018\n25000 SUB 1/11/2018\n10,000,000 views Dec 07, 2018\n50,000 SUB Oct 3 2019",
+        "publishedAt": "2013-12-01T10:31:02.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l78u403062Vzh7MXaGttr6U3w4xeIq7c-b3Cgw=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "Wes Bos",
+        "channelId": "UCoebwHSTvwalADTJhps0emA",
+        "channelUrl": "https://youtube.com/channel/UCoebwHSTvwalADTJhps0emA",
+        "desc": "HTML, CSS, JavaScript and WordPress web development tutorials!",
+        "publishedAt": "2006-01-26T04:15:36.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l7_fFaW7nZhN3Rfhfdqcl1k3Yr2a0CJsq6-Tmw=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "DevTips",
+        "channelId": "UCyIe-61Y8C4_o-zZCtO4ETQ",
+        "channelUrl": "https://youtube.com/channel/UCyIe-61Y8C4_o-zZCtO4ETQ",
+        "desc": "DevTips is a weekly show for YOU who want to be inspired 👍 and learn 🖖 about programming. Hosted by David and MPJ - two notorious bug generators 💖 and teachers 🤗. Exploring code together and learning programming along the way - yay!\n\nVideos are released on FRIDAYs at 08:00 GMT.\n\nEverything you see and hear are the opinions and preferences of the individual who said them, and no one else's.",
+        "publishedAt": "2013-08-06T15:31:46.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l78ExrruP9xM-4BGGR1JUHpcTgqM-jJ4mPGZMA=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "loftblog",
+        "channelId": "UCIIt69f5D44s2cdb9vXQNzA",
+        "channelUrl": "https://youtube.com/channel/UCIIt69f5D44s2cdb9vXQNzA",
+        "desc": "LoftBlog — это лучшее место для изучения it-технологий. Десятки практических уроков и курсов, где мы просто и весело будем учить вас только самому нужному и интересному, а именно, всему, что необходимо для создания горячего web-сервиса или сайта. \n\nДоступное высококачественное круглосуточное образование в любое удобное время и в любом удобном вам темпе — вот, что мы хотим дать всем тем, кто хочет достичь своей мечты и изменить мир.\n\nLoftBlog - это находка для человека изучающего технологии. Не забудьте подписаться и поделиться с друзьями!",
+        "publishedAt": "2013-03-20T19:40:05.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l78SN5Xxhk3Z7rty5MgW8s370q3IrDWzpnaQpQ=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "АйТиБорода",
+        "channelId": "UCeObZv89Stb2xLtjLJ0De3Q",
+        "channelUrl": "https://youtube.com/channel/UCeObZv89Stb2xLtjLJ0De3Q",
+        "desc": "Ку! Меня зовут Лекс и я бородатый программист. С 2012 года у меня накопилось много опыта, историй и знакомств, которыми я делюсь здесь, на этом канале. \n\nНо канал - это не просто хобби. Для меня это целый Проект, посвященный не столько программированию, сколько жизни айтишников изнутри. Без всякой цензуры, ярлыков и лишнего пафоса. Весь контент на канале вместе с вами формирует цельное сообщество единомышленников, способных перевернуть этот мир ко всем чертям, в добром смысле слова :) \n\nТак что погнали!\n\nГОДНОТА:\n 🔸 Стена - youtube.com/itbeard/community\n 🔸 Стикерпак - t.me/addstickers/itbeard_stickers\n\nАЙТИБОРОДА В ИНТЕРНЕТЕ: \n 🔹 YouTube - youtube.com/itbeard \n 🔹 SoundCloud - soundcloud.com/itbeard \n 🔹 iTunes - bit.ly/apple-itbeard\n 🔹 Telegram - t.me/itbeard \n 🔹 Instagram - instagram.com/itbeard\n 🔹 Discord - discord.gg/tWbt4sS",
+        "publishedAt": "2018-04-11T11:39:26.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l7_QOZ2Wh80NL_amom2W8jT72Uo8UdqcFN-xiw=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "TensorFlow",
+        "channelId": "UC0rqucBdTuFTjJiefW5t-IQ",
+        "channelUrl": "https://youtube.com/channel/UC0rqucBdTuFTjJiefW5t-IQ",
+        "desc": "Welcome to the official TensorFlow YouTube channel. Stay up to date with the latest TensorFlow news, tutorials, best practices, and more! \n\nTensorFlow is an open-source machine learning framework for everyone.",
+        "publishedAt": "2017-12-22T18:07:53.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l7_FycTwXc9yWHX21yMHs9tkuHtt1033X5HowA=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "Webucator",
+        "channelId": "UC0QGsFRt4BcudtOQ8ueVorA",
+        "channelUrl": "https://youtube.com/channel/UC0QGsFRt4BcudtOQ8ueVorA",
+        "desc": "Webucator provides onsite and live online training on technologies such as Microsoft SharePoint, SQL Server and Office, Java, Adobe Dreamweaver and Photoshop, HTML5, JavaScript, Python and PHP, and much more. On our YouTube channel, we provide short videos on the different technologies we teach, including different solutions from the web series in which we cooperate with bloggers to create video versions of blog articles related to the technologies we teach.",
+        "publishedAt": "2014-11-24T18:17:20.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l79KlAtc5O6jM2XDm9_ek_-GCCBQ1AjA0EmJTg=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "PrimFX",
+        "channelId": "UCUSRY5EcZAhSbz1Q1QuQw0w",
+        "channelUrl": "https://youtube.com/channel/UCUSRY5EcZAhSbz1Q1QuQw0w",
+        "desc": "Salut tout le monde, c'est PrimFX !\nPassionné d'informatique depuis mon plus jeune âge, je partage ma passion à travers des tutoriels sur différentes technologies. N'hésite pas à jeter un coup d'oeil à mes dernières vidéos et à mes playlists (en principe une par langage de programmation). Tu peux également t'abonner si mes vidéos te plaisent ;-)\n\nJe soutiens la Respect Zone, plus d'infos ici : http://www.respectzone.org/",
+        "publishedAt": "2012-06-10T10:09:27.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l7-ZP1hlkIQkyxAPeUDpjQvccJiZM8grFD4QLg=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "Timothy James",
+        "channelId": "UClQAtgHuxvILajM9yQnfwYw",
+        "channelUrl": "https://youtube.com/channel/UClQAtgHuxvILajM9yQnfwYw",
+        "desc": "I'm a CS Education Evangelist at Google and I make videos to help kids and young adults learn about coding and technology.",
+        "publishedAt": "2012-08-15T17:24:14.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l79XcrvdCWwEQM8TPYuyoCtvVokJkg2thnl4EA=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "Code Explained",
+        "channelId": "UC8n8ftV94ZU_DJLOLtrpORA",
+        "channelUrl": "https://youtube.com/channel/UC8n8ftV94ZU_DJLOLtrpORA",
+        "desc": "Code Explained, Does Its best to make it easy to follow tutorials, Try to well explain every part of a tutorial.\n\n#RULE: We Never Type in The Code, Until We Understand Everything Behind That Code.\n\nProgramming languages we cover: JavaScript, PHP, C++, C, Python, JAVA ...",
+        "publishedAt": "2017-10-15T20:01:21.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l7-ssalquBIq1u4lgEQT-Hluh7Bo9UOMLNjx=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "Ralph Phillips",
+        "channelId": "UCRLtb7abeDnVQ12VNZqU13Q",
+        "channelUrl": "https://youtube.com/channel/UCRLtb7abeDnVQ12VNZqU13Q",
+        "desc": "Tutorial videos with an emphasis on productivity software and web development.\r\n\r\nWeb Development, HTML, CSS, JavaScript, PHP, Internet, SEO, Flash, Dreamweaver, Excel, Access, Word, PowerPoint, Web-based Apps...",
+        "publishedAt": "2006-12-05T22:04:12.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l79XFW95K-ynzI1lkHyxeA_Tg7tMioq8K3NEzQ=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "Jeffery Hirono",
+        "channelId": "UCQDNnkv0YxZtZnHzNXFR9hg",
+        "channelUrl": "https://youtube.com/channel/UCQDNnkv0YxZtZnHzNXFR9hg",
+        "desc": "Help people learn the internet lingo in a non-techie way.",
+        "publishedAt": "2007-12-01T09:25:25.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l784MIYPmkJNY8GbCTFEoDbS1npVLQjjQPon9A=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "WebDev с нуля. Канал Алекса Лущенко",
+        "channelId": "UCP-xJwnvKCGyS-nbyOx1Wmg",
+        "channelUrl": "https://youtube.com/channel/UCP-xJwnvKCGyS-nbyOx1Wmg",
+        "desc": "",
+        "publishedAt": "2015-08-02T10:51:06.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l7_o6zPT7zi2RWloSqW_avHeTgVUas5ziEvJWg=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "MakeWeb.me",
+        "channelId": "UCt36CWL85NGtOgUMZ2X6x5g",
+        "channelUrl": "https://youtube.com/channel/UCt36CWL85NGtOgUMZ2X6x5g",
+        "desc": "MakeWeb.me это школа веб-разработки. Здесь для тебя масса самых различных материалов от бесплатных статей, роликов и переводов, до качественных платных уроков с пошаговым сопровождением и доведением до результата.\n\nМы учитываем мнение подписчиков, поэтому ты можешь влиять на направление развитие проекта, если будешь активным в нашем паблике ВКонтакте и в комментариях к видео.\n\nКроме того, есть возможность получить персональные уроки по веб-разработке и получить ответы на вопросы по выбранной теме. Подробности здесь: http://bit.ly/mw_lessons_video.\n\nЕсли MakeWeb вам нравится, то можете поддержать его на платформе You.Support: https://you.support/MakeWeb",
+        "publishedAt": "2015-08-16T19:51:01.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l78rEuGLZ7NFbipsa2cNGt35IAelTvOL2G-brw=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "Hack Reactor",
+        "channelId": "UCW1kqCoWJ4Pn_MnBtYVwaCA",
+        "channelUrl": "https://youtube.com/channel/UCW1kqCoWJ4Pn_MnBtYVwaCA",
+        "desc": "MakerSquare is a three-month full-time career accelerator for software engineering. By teaching computer science fundamentals and modern web languages like JavaScript, we prepare students to join top flight engineering teams.",
+        "publishedAt": "2013-04-18T19:11:47.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l7-P3MPb_nJu6BLnx2Yo5JUbgVXTDo0J8AOyow=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "Java&Cia",
+        "channelId": "UCWqFtO6PsCsMuhK1XoqpWtA",
+        "channelUrl": "https://youtube.com/channel/UCWqFtO6PsCsMuhK1XoqpWtA",
+        "desc": "Infelizmente o canal da Universidade XTI do Ricardo Lopes Costa (autor das video-aulas) foi excluído do youtube.\nhttps://www.youtube.com/user/ricardolopescosta\nFiz o upload dos cursos para ajudar o pessoal que está começando na área e procura por aulas de qualidade. \n\nBons estudos!",
+        "publishedAt": "2014-08-22T17:57:59.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l78LTSzZNVJwtZEZt-N1Ie8c1ZzS_I8Gx2qETA=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "Codementor",
+        "channelId": "UC2YpBIUAbkMKuDn5oVwkVyg",
+        "channelUrl": "https://youtube.com/channel/UC2YpBIUAbkMKuDn5oVwkVyg",
+        "desc": "Codementor is an on-demand marketplace for software developers.\n\nGet instant 1:1 live help, hire a freelance developer, and more with our network of 300,000+ developers and 9000+ vetted experts. Our mentors are screened by our team to help you get answers to coding problems, personalize your learning experience, and find out what went wrong.\n\nFor longer-term freelance engagements, there’s CodementorX (hire.codementor.io), where you can hire pre-vetted, world-class freelance developers for your team in less than 72 hours. Hire developers, software engineers, and CTOs who have worked with top tech companies like Airbnb, Microsoft, Facebook, and Salesforce for your team today!",
+        "publishedAt": "2013-10-27T05:20:13.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l79JGyoXsaSIWaiTWpNC3X4D1I3ON_i2I6MF2A=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "Filipe Deschamps",
+        "channelId": "UCU5JicSrEM5A63jkJ2QvGYw",
+        "channelUrl": "https://youtube.com/channel/UCU5JicSrEM5A63jkJ2QvGYw",
+        "desc": "Vídeos originais sobre Programação e Tecnologia toda semana! Sou EXTREMAMENTE apaixonado por essa área e tento repassar essa energia pelos vídeos.\n\nMeu último emprego antes de decidir focar 100% no YouTube foi ser CTO do Pagar.me. Lá tive o prazer de ser responsável por um time com mais de 100 pessoas e aprendi MUITO sobre gestão (principalmente gestão de times grandes) e sobre como lidar com tecnologia em escala. Ambos conhecimentos que quero compartilhar nesse canal.\n\n✅ CONTATO COMERCIAL (exclusivo para publicidade ou parcerias)\n▸ contato@filipedeschamps.com.br\n\n✅ CONTATO PARA DÚVIDAS GERAIS\n▸ Utilizar comentário no YouTube, pois desta forma outras pessoas poderão se beneficiar de ler a pergunta e resposta, inclusive poderão participar adicionando novos pontos de vista ou novas dúvidas. Outra forma seria participando do meu mailing pessoal: http://bit.ly/email-filipe",
+        "publishedAt": "2015-04-15T00:30:29.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l78MMHaNpC9pWd0Q5ibNmPo7_t4zcluA2B8bWg=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "JetBrainsTV",
+        "channelId": "UCGp4UBwpTNegd_4nCpuBcow",
+        "channelUrl": "https://youtube.com/channel/UCGp4UBwpTNegd_4nCpuBcow",
+        "desc": "At JetBrains, code is our passion. For over 15 years we have strived to make the strongest, most effective developer tools on earth. By automating routine checks and corrections, our tools speed up production, freeing developers to grow, discover and create.\n\nWe help developers work faster by automating common, repetitive tasks to enable them to stay focused on code design and the big picture. We provide tools to explore and familiarize with code bases faster. Our products make it easy for you to take care of quality during all stages of development and spend less time on maintenance tasks.",
+        "publishedAt": "2010-06-17T11:13:08.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l78xx-wg7gkJxNVmA4o2CZyisn_xzIIoEt4jMA=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "Kyle Robinson Young",
+        "channelId": "UCpqYfSWEcyBGorRGvPsHkgg",
+        "channelUrl": "https://youtube.com/channel/UCpqYfSWEcyBGorRGvPsHkgg",
+        "desc": "Make games and write code with JavaScript",
+        "publishedAt": "2008-05-19T05:19:17.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l79qYOrhE_2yHedR7e4z4TqhRnqWcyxzxha_Lg=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "HasGeek TV",
+        "channelId": "UCDHao9FxNRHw1VyLuGXI_rA",
+        "channelUrl": "https://youtube.com/channel/UCDHao9FxNRHw1VyLuGXI_rA",
+        "desc": "HasGeek helps people in technology meet each other, collaborate on new opportunities and advance the state of the art. We organize conferences, hacknights, workshops and geekups, and provide tools for communities to self-organize.\n\nWe’ve created conferences around the themes of devops, front end engineering, Julia, big data and cloud computing, JavaScript and Android. Our Job Board is used by thousands of geeks every month to find new opportunities.\n\nHasGeek is a technology company in the media business, bringing software automation to a traditionally people-intensive operation. Over the past six years, HasGeek has organized dozens of conferences attended by thousands of technology professionals, made several thousand connections, and built open source tools that are now used by many communities.",
+        "publishedAt": "2011-06-20T06:05:08.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l7-Tzdcsm-v0kwViqNmle1yqXauXROxZlhIyHQ=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "Samuraj Programowania",
+        "channelId": "UC6wlzVp-5TD5xfDwiohSDeg",
+        "channelUrl": "https://youtube.com/channel/UC6wlzVp-5TD5xfDwiohSDeg",
+        "desc": "Kanał dla początkujących programistów i web developerów, którzy chcą się dynamicznie rozwijać. Materiały (tutoriale i kursy) o tworzeniu stron i programowaniu.",
+        "publishedAt": "2016-07-25T20:18:40.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l7-NjIwTauMy5C550SynooZ7oieBJn0w92wsfA=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "Thư Viện Lập Trình",
+        "channelId": "UCl85rcoLszFv_qCL1hcOB2g",
+        "channelUrl": "https://youtube.com/channel/UCl85rcoLszFv_qCL1hcOB2g",
+        "desc": "Thư viện lập trình được xây dựng và hoạt động với mong muốn đem lại cho những người đam mê Công nghệ thông tin ở Việt Nam một thư viện dữ liệu dồi dào, miễn phí, bằng Tiếng Việt nhằm đáp ứng nhu cầu tra cứu thông tin trong công việc cũng như học tập nghiên cứu. Đồng thời, Thư viện lập trình cũng là nơi để mọi người có thể thảo luận, sang sẽ kiến thức, kinh nghiệm và các đề tài, dự án do chính mình thực hiện hoặc sưu tầm.\n\nLIÊN KẾT THƯ VIỆN LẬP TRÌNH\n\nFacebook: https://www.facebook.com/thuvienlaptrinh/\nGoogle+: https://plus.google.com/+ThuvienlaptrinhEduVn\nWebiste (building): http://thuvienlaptrinh.edu.vn\n\nMọi nhu cầu tài trợ hợp tác phát triển xin vui lòng liên hệ: \nĐặng Văn Lel\n0906605140\ndangvanlel@gmail.com",
+        "publishedAt": "2016-06-26T07:29:16.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l7_6HcfD3Fi7Z0gvG_rWcWa5_nozrQxB7oMTLw=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "CCSIT-KFU",
+        "channelId": "UCA-U8ZplCcTtfARZ3gt3zcw",
+        "channelUrl": "https://youtube.com/channel/UCA-U8ZplCcTtfARZ3gt3zcw",
+        "desc": "",
+        "publishedAt": "2014-02-10T04:47:54.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l7-GfvQaVEL3ZT09JZAdtK5nBnV3hAgf3TLT9w=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "James Q Quick",
+        "channelId": "UC-T8W79DN6PBnzomelvqJYw",
+        "channelUrl": "https://youtube.com/channel/UC-T8W79DN6PBnzomelvqJYw",
+        "desc": "Want to learn more about Web Development, Design, and Tools?  Then, you're in the right place! I LEARN the newest techniques in Web Development, Design, and Tools. I BUILD projects for myself and others. I TEACH others through online content.  I have a passion for web development and want to share it with you on this channel!",
+        "publishedAt": "2011-10-04T04:46:46.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l78ZJG1ml75yiL6ILdR2k7hVEjTPe4AclbOYZA=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "LinkedIn Learning",
+        "channelId": "UCikzJG7RbnNZhKLqqaXRM6A",
+        "channelUrl": "https://youtube.com/channel/UCikzJG7RbnNZhKLqqaXRM6A",
+        "desc": "We are an online learning platform with over 13,000 courses taught by real-world experts and a library that is constantly up to date. Our community of learners engage in courses across business, creative, technology and more, helping them get closer to achieving their professional goals. Learn the relevant skills you need to build the experiences that will help you reach your definition of success. No matter where you are in your career or where you want to go, we can help you keep learning in moments that matter.\n\nStart learning today: https://www.linkedin.com/learning/",
+        "publishedAt": "2006-12-12T21:20:51.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l79iHrurEfErkrj3-peC_dGWZbIClD7J_5dmjQ=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "mmtuts",
+        "channelId": "UCzyuZJ8zZ-Lhfnz41DG5qLw",
+        "channelUrl": "https://youtube.com/channel/UCzyuZJ8zZ-Lhfnz41DG5qLw",
+        "desc": "Online computer courses in programming and multimedia skills for people who wants to learn web development or video production. The courses include video editing, HTML, CSS, JavaScript, Bootstrap, and PHP tutorials.",
+        "publishedAt": "2013-08-08T14:43:20.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l79JbkmQRWdHRyf5Qx_JACrR6wwwlPC2-U0icQ=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "meh moo",
+        "channelId": "UCRGxpl6kRwRD63ipzWvMlOg",
+        "channelUrl": "https://youtube.com/channel/UCRGxpl6kRwRD63ipzWvMlOg",
+        "desc": "",
+        "publishedAt": "2005-09-04T10:35:50.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l7_TP26KRtErJjO4XQEN7n_J5VQCVmVWEUISFA=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "Phạm Huy Hoàng",
+        "channelId": "UCdV9tn79v3ecSDpC1AjVKaw",
+        "channelUrl": "https://youtube.com/channel/UCdV9tn79v3ecSDpC1AjVKaw",
+        "desc": "Vlog chia sẻ những kiến thức, kinh nghiệm về ngành lập trình, về cuộc sống của lập trình viên.\n\nĐây là kênh Youtube chính thức của blog Tôi Đi Code Dạo (toidicodedao.com). \nCác bạn nhớ đón xem clip mới vào tối t3 và t6 hàng tuần nhé!\n\nMình là Phạm Huy Hoàng, một developer.\nThuở còn là sinh viên, mình từng có những thắc mắc, trăn trở về technical, về con đường nghề nghiệp, nhưng không có ai giải đáp.\nVlog này là nơi mình chia sẻ những kiến thức, kinh nghiệm về ngành lập trình mà mình đạt được trong quá trình làm việc và trải nghiệm.\nMong rằng nó sẽ giải đáp phần nào những khúc mắc, trăn trở cho những bạn sinh viên như bạn, như mình ngày xưa.\n\nBlog: https://toidicodedao.com\nFanpage: https://www.facebook.com/toidicodedao",
+        "publishedAt": "2013-09-11T13:24:42.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l7-tLSSskzl5NOWlLnpOEKdMiwyRypr71MrcyA=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "EDteam",
+        "channelId": "UCP15FVAA2UL-QOcGhy7-ezA",
+        "channelUrl": "https://youtube.com/channel/UCP15FVAA2UL-QOcGhy7-ezA",
+        "desc": "Escuela Digital es un emprendimiento de educación en línea en español sobre tecnología, programación y diseño. \nSomos la primera propuesta orientada a proyectos por lo que todos nuestros cursos culminan con un proyecto en el que se aplica lo aprendido.\nEn este canal encontrarás muchos tutoriales gratuitos y demos de nuestros cursos premium.",
+        "publishedAt": "2012-11-19T19:06:13.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l7_KDwzX7foBO4p9z9p17VB3MNVqdQECNxlWWQ=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "pdiddles03",
+        "channelId": "UCxWtyIzqi1O_a-sUxl9qHsg",
+        "channelUrl": "https://youtube.com/channel/UCxWtyIzqi1O_a-sUxl9qHsg",
+        "desc": "",
+        "publishedAt": "2006-05-22T04:20:22.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l7_NebwdsMDuIf9Fz-8huVMTDYnhB7_LPGnKYQ=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "DevMedia",
+        "channelId": "UClBrpNsTEFLbZDDMW1xiOaQ",
+        "channelUrl": "https://youtube.com/channel/UClBrpNsTEFLbZDDMW1xiOaQ",
+        "desc": "A DevMedia é um portal de conhecimento voltado para programadores, com milhares de artigos, dicas, cursos online e videoaulas sobre diferentes áreas de desenvolvimento de tecnologia.",
+        "publishedAt": "2017-01-13T16:09:32.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l79s-7HlkqZh7QNafIk0NCa0JmfZ4fIoG_vbRw=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "Firebase",
+        "channelId": "UCP4bf6IHJJQehibu6ai__cg",
+        "channelUrl": "https://youtube.com/channel/UCP4bf6IHJJQehibu6ai__cg",
+        "desc": "The Youtube channel for all things Firebase! Learn how to build awesome apps with hands-on tutorials from the Firebase team. Firebase helps you build better mobile apps and grow your business.",
+        "publishedAt": "2006-07-30T22:18:01.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l7-RlcgPdBHqGq83bWinLKtcUXQkX8UV_em3Tw=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "whatsdev",
+        "channelId": "UC0tRdbXVDbhaRvZPKsRgmxg",
+        "channelUrl": "https://youtube.com/channel/UC0tRdbXVDbhaRvZPKsRgmxg",
+        "desc": "Whatsdev is all about programming and web development. Full stack Web development. Back end web development. Front end web development. HTML, Css, Javascript, jquery, bootstrap, sass, BEM, react, redux, gulp, webpack, es6, node, express, mongo, postgres, MERN etc!!!",
+        "publishedAt": "2016-12-21T04:25:32.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l79n--RiHQ9O5IDgjMAwYzwVvCalx6A8_1T7EA=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "CharnyCoding",
+        "channelId": "UCpeXW6_CG9jobX8I1xDCnMg",
+        "channelUrl": "https://youtube.com/channel/UCpeXW6_CG9jobX8I1xDCnMg",
+        "desc": "CharnyCoding is a Youtube channel dedicated to programming and compute related stuff.",
+        "publishedAt": "2010-06-30T05:05:25.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l79Utoqb8NemsYXTy49ZjhQnNIJYjXCVKlHVCQ=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "Coding Shiksha",
+        "channelId": "UCR6d0EiC3G4WA8-Rqji6a8g",
+        "channelUrl": "https://youtube.com/channel/UCR6d0EiC3G4WA8-Rqji6a8g",
+        "desc": "This Channel contains Tutorials on Software Development and Web Development.Tutorials of Java,HTML, CSS,JAVASCRIPT,AJAX,PHP languages are there.So please subscribe for free and learn these technologies for free.",
+        "publishedAt": "2017-04-17T06:10:44.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l7_T11M9ZSYDtl-bf0zoEgIqJuhznfYjGWMnuQ=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "Web Programming UNPAS",
+        "channelId": "UCkXmLjEr95LVtGuIm3l2dPg",
+        "channelUrl": "https://youtube.com/channel/UCkXmLjEr95LVtGuIm3l2dPg",
+        "desc": "WebProgrammingUNPAS\n\nChannel khusus yang membahas mengenai teknologi internet dan pengembangan web / web development, khususnya untuk mahasiswa teknik informatika di Universitas Pasundan Bandung dan umumnya untuk siapa saja yang tertarik.\n\nDikelola secara khusus oleh Sandhika Galih sebagai staf pengajar di Program Studi Teknik Informatika Universitas Pasundan Bandung.\n\nCONTACT :\n\nhttps://instagram.com/sandhikagalih\nhttps://twitter.com/sandhikagalih\nhttps://facebook.com/sandhikagalih\nhttps://linkedin.com/in/sandhikagalih\nhttps://github.com/sandhikagalih\nhttps://codepen.io/sandhikagalih\n\nhttps://facebook.com/WebProgrammingUNPAS\n\nhttps://if.unpas.ac.id/",
+        "publishedAt": "2015-01-04T23:18:15.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l79IhFmeS2mElwBANXGZ9ybKRgFsmtMfB6czzw=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "thaitaniumhacker",
+        "channelId": "UCA1qBMnMD81oRzneVYgZlkQ",
+        "channelUrl": "https://youtube.com/channel/UCA1qBMnMD81oRzneVYgZlkQ",
+        "desc": "",
+        "publishedAt": "2007-08-31T16:25:46.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l7_ldhDp5NwZjgkajMIfMMBMB0TaRGvTqjWSWw=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "Matt Marenghi",
+        "channelId": "UCGcWBtQ0uU65YXJc0OUOMMA",
+        "channelUrl": "https://youtube.com/channel/UCGcWBtQ0uU65YXJc0OUOMMA",
+        "desc": "",
+        "publishedAt": "2008-10-13T03:29:28.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l78YgMiN46vKZf8cf9ocl0xRIbfKZhEBni2aVA=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "gzm36f",
+        "channelId": "UCK9OgXsgqQ4BsrKAL9A0_uQ",
+        "channelUrl": "https://youtube.com/channel/UCK9OgXsgqQ4BsrKAL9A0_uQ",
+        "desc": "",
+        "publishedAt": "2006-06-20T04:02:53.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l7_0J3Y9ii_11rRRamWTB_X4VdnZ0njhuSPMyw=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "Jesse Showalter",
+        "channelId": "UCvBGFeXbBrq3W9_0oNLJREQ",
+        "channelUrl": "https://youtube.com/channel/UCvBGFeXbBrq3W9_0oNLJREQ",
+        "desc": "Jesse Showalter shares Digital Design & Web Development videos each week focusing on tools, techniques, projects, and more to help creative people make amazing things. If you're an aspiring Web Designer, UI Designer, or Front-End Developer who is interested in creating awesome things in pixels and code, make sure to subscribe for helpful training videos. \n\nThe channel focuses on topics such as web design and development including but not limited to HTML, CSS, Sass, Javascript, Design Principles, User Experience, Interface Design, MODX, Open Source Stuff and more. Please subscribe and say hi in the comments so we can all be a happy internet family.",
+        "publishedAt": "2009-06-05T11:27:15.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l7_WBTUJwc7ks9P1EKiWGAz_qvEqREcORJLTlg=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "Frontend Masters",
+        "channelId": "UCzumJvwc0KBrdq4jpvOR7RA",
+        "channelUrl": "https://youtube.com/channel/UCzumJvwc0KBrdq4jpvOR7RA",
+        "desc": "Master the most important JavaScript and front-end development skills like React, Node.js, Vue, Functional JavaScript, CSS Grid, Flexbox, and more — with 100+ fresh 🌱 web development courses on Frontend Masters! http://frontendmasters.com\n\nFor customer support, email us at support@frontendmasters.com",
+        "publishedAt": "2011-11-28T21:21:14.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l7_-J6LlpUuM1Z1PzxCIa5VbuSeRjU_ZkfYJCA=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "Bitech Studio",
+        "channelId": "UC-foHKza2KlpQuo2wi6UCAg",
+        "channelUrl": "https://youtube.com/channel/UC-foHKza2KlpQuo2wi6UCAg",
+        "desc": "Bitech Studio es un canal cuyo contenido principalmente se basa en el diseño y desarrollo web. Constantemente se mantiene subiendo actualizados tutoriales y cursos sobre herramientas y las tecnologías mas importantes del mundo web. Aprende a crear tus propias aplicaciones y sitios web completamente desde 0 con nosotros, ¡Anímate!\n\n#curso #tutorial #desarrollo #diseño #programación #bitechstudio #básico #gratis #ciencia #tecnología #javascript #php #html5 #css3 #bootstrap #react #android #angular #jQuery #laravel #wordpress #ajax #node.js #express #mongodb #react #electron #postgresql #sql #nosql #fácil #librería  #framework #web #app #sitio #responsive #angular #redux",
+        "publishedAt": "2016-09-14T18:14:20.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l7-8L0RiVZGgiJv2hdt84TQ8eBk3Eao69mtcfg=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "Udemy Tech",
+        "channelId": "UCU6e4MJtvlcX5DBLP1cq8hQ",
+        "channelUrl": "https://youtube.com/channel/UCU6e4MJtvlcX5DBLP1cq8hQ",
+        "desc": "Udemy is a global marketplace for learning and teaching online where students are mastering new skills and achieving their goals by learning from an extensive library of over 65,000 courses taught by expert instructors.\n\nUdemy Tech is our new YouTube channel focused on tech topics such as web-development, game development, and IT. The channel features hundreds of tutorials and dedicated YouTube content that student requested. \nNew videos will be added weekly, subscribe to follow: https://www.youtube.com/udemytech/?sub_confirmation=1\n\nExplore the catalog of full courses on Udemy and start learning today: https://www.udemy.com/\n\nInterested in becoming an instructor and teaching the world online?\nRead more about how you can share your knowledge and reach millions of students across the globe: https://www.udemy.com/teaching/?ref=teach_header\n\n#BeAble\n#Udemy\n#UdemyTech",
+        "publishedAt": "2018-01-31T18:52:37.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l79RfjxwChL0jYARB9cqgaNeWNfZzEKhci29KQ=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "Aakash Chakravarthy",
+        "channelId": "UC9TEYB4n5TieiMnEI6AGi5g",
+        "channelUrl": "https://youtube.com/channel/UC9TEYB4n5TieiMnEI6AGi5g",
+        "desc": "This channel is dedicated to showcase my project demo videos, feature videos and tutorials.",
+        "publishedAt": "2010-08-14T05:03:38.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l7-YGjUrVovlvthrX_gmCrU7aAqMJvrVcbEjVA=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "Web Zone",
+        "channelId": "UCYgcWfqm9BtrBOz6sbjMRgg",
+        "channelUrl": "https://youtube.com/channel/UCYgcWfqm9BtrBOz6sbjMRgg",
+        "desc": "learn best effects of html5 and  css3 - web zone",
+        "publishedAt": "2016-12-30T09:04:34.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l79gAKcJm-H_CkWPu87q8GOYX8hJRlNCw-axQw=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "AndroidAppFactory",
+        "channelId": "UCDcVZP_m_ylf7brRYzkoe9Q",
+        "channelUrl": "https://youtube.com/channel/UCDcVZP_m_ylf7brRYzkoe9Q",
+        "desc": "",
+        "publishedAt": "2009-02-22T03:48:03.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l79TIOyTSmlpPzHpvDwPKEr6zNZYCXpNUOWtOQ=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "Envato Tuts+",
+        "channelId": "UC8lxnUR_CzruT2KA6cb7p0Q",
+        "channelUrl": "https://youtube.com/channel/UC8lxnUR_CzruT2KA6cb7p0Q",
+        "desc": "Build an app, create a website, or learn design with our free how-to tutorials and video courses. Learn how to use tools such as Adobe Photoshop, PowerPoint, Adobe XD, Illustrator, and Sketch. Learn how to use WordPress in our WordPress tutorials and create your first website. Master the fundamentals of web design and UX, or learn what you need to become a graphic designer. \n\nPart of the Envato family.",
+        "publishedAt": "2011-10-24T04:28:23.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l7_Ry4RMC5UvtRlfVJGfUhdoHuGHzchdWuesKA=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "Glen Maddern",
+        "channelId": "UCjihD6sRyQ2moOFsaDusgYA",
+        "channelUrl": "https://youtube.com/channel/UCjihD6sRyQ2moOFsaDusgYA",
+        "desc": "",
+        "publishedAt": "2013-05-29T22:43:13.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l7-OXZ6dgS-FpuQn3Nrtl2iDoYtMAyD9xncqXw=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "ConFoo Developer Conference",
+        "channelId": "UCxfBbOp-h9UR1sIvdS3xTqg",
+        "channelUrl": "https://youtube.com/channel/UCxfBbOp-h9UR1sIvdS3xTqg",
+        "desc": "ConFoo is a non for profit, multi-technology conference. We bring the learning experience to a whole new level.",
+        "publishedAt": "2010-04-02T01:21:49.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l7-H-P02uQJG_oHVQWxJwMzdxEYfiP8zHBNnZw=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "rocketpackgames",
+        "channelId": "UCsNRtcNUNV2rgdTcHdnchxg",
+        "channelUrl": "https://youtube.com/channel/UCsNRtcNUNV2rgdTcHdnchxg",
+        "desc": "",
+        "publishedAt": "2010-04-22T08:08:32.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l7_SQfOJe7wuagLeSuXNE2m3zo3C20HQVJf6VA=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "Código Fonte TV",
+        "channelId": "UCFuIUoyHB12qpYa8Jpxoxow",
+        "channelUrl": "https://youtube.com/channel/UCFuIUoyHB12qpYa8Jpxoxow",
+        "desc": "Este é o canal oficial do site Código Fonte, que nós chamamos carinhosamente de CDFTV ou o canal dos CDFs no Youtube.\n\nDesde de Janeiro de 2016 o canal possui um vlog semanal comigo (Gabriel Fróes) e minha esposa Vanessa Weber. \nSomos um casal de programadores com mais de 20 anos de experiência e viciados em tecnologia. \nFalamos sobre esse mundo maravilhoso da programação de uma forma diferente e divertida, além de contar nossas experiências na área.\n\nContato exclusivo para negócios: contato@codigofonte.com.br\n\nNós ❤️ receber presentes, cartas, brindes e mimos.\nCaixa Postal: 91735 - Cep: 25620-972\nPetrópolis / RJ",
+        "publishedAt": "2009-08-06T17:55:30.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l7_Rm233ccys1ss3x1V1emwrqY-c6QVKYMuTiw=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "computingboss",
+        "channelId": "UCMOvlXoguz3KEwyMP9ejfRw",
+        "channelUrl": "https://youtube.com/channel/UCMOvlXoguz3KEwyMP9ejfRw",
+        "desc": "Learn how to build a website, code, use some Microsoft Office features and much more!",
+        "publishedAt": "2012-10-26T15:22:24.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l788RFpQjL28fr6hnRLmDr3PQeiogHlmPzj7FA=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "InterviewNest",
+        "channelId": "UCl2ug6vvq-nGk0PMnNjkMSQ",
+        "channelUrl": "https://youtube.com/channel/UCl2ug6vvq-nGk0PMnNjkMSQ",
+        "desc": "",
+        "publishedAt": "2018-01-05T23:36:33.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l784j8Hsf9wMK_VPMOiunG7KfXyYpzPyIpOyWQ=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "Fest Group",
+        "channelId": "UClTnsvgTiW2YcfP1tcI2oKA",
+        "channelUrl": "https://youtube.com/channel/UClTnsvgTiW2YcfP1tcI2oKA",
+        "desc": "Our mission is to make access to new ideas, experience and trends comfortable for IT specialists by providing professional conferences combined with festivals.\nWe truly believe that our conferences drive development of IT community of Ukraine; set up creative atmosphere, filled with useful and high-quality information, where every moment can become a turning point in one's professional career and be the source of inspiration on the way to achieving goals. Our events are not just conferences. They are places of mutual education, inspiration, and growth.",
+        "publishedAt": "2014-10-30T14:27:26.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l78N-zdQn0xsx331XywbruCO6bBqw4Delg2pvA=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "Paul Dumitru",
+        "channelId": "UCw2G9FNdBgWP8JYluUnsZcw",
+        "channelUrl": "https://youtube.com/channel/UCw2G9FNdBgWP8JYluUnsZcw",
+        "desc": "",
+        "publishedAt": "2006-05-09T21:24:00.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l780ivk96Ree6qA15vMskkLK6TndOEHF9biqBw=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "Brackets",
+        "channelId": "UCCvv6VM72jjNrFx80YYg3og",
+        "channelUrl": "https://youtube.com/channel/UCCvv6VM72jjNrFx80YYg3og",
+        "desc": "An open source code editor for the web written in JavaScript, HTML and CSS. MIT licensed and developed on GitHub. --  http://brackets.io",
+        "publishedAt": "2012-04-26T23:24:35.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l787ZvUxVsI72fPRxuo4lpBFuxr2VlITcXINWw=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "Yazılım Bilimi",
+        "channelId": "UCZNZj3mkdCGJfCoKyl4bSYQ",
+        "channelUrl": "https://youtube.com/channel/UCZNZj3mkdCGJfCoKyl4bSYQ",
+        "desc": "Daha Aydınlık Bir Türkiye İçin...\n\n\nTürkiyenin yazılımla,teknolojiyle  ilgili en büyük kaynak olmak amacıyla  kurulmuş bir kanaldır.\nPython,C,HTML5,CSS3,Php,Android, Java, vs  gibi dersler kanalımızda bulunacaktır.\n\nPython Eğitim Videoları\nC Programlama Eğitim Serisi\nAndroid Eğitim Serisi\n\nProgramlamayla ilgili Sorun Çözümleri",
+        "publishedAt": "2015-04-10T21:56:47.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l7_mtFY0Sbw-Q-dAJP9AB7jUn1vekTD5lp4Niw=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "CoderMania",
+        "channelId": "UCOFLvJbZv8Q-yhFYd9SrHOw",
+        "channelUrl": "https://youtube.com/channel/UCOFLvJbZv8Q-yhFYd9SrHOw",
+        "desc": "Ultimate guide for web developer. Learn to code for free and become a web developer!\nMore info: www.codermania.com",
+        "publishedAt": "2015-02-12T19:25:59.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l7_-he0D5fbdmCsdKqyU6hBkNYgrb1TAuRnBXQ=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "Charles Wood",
+        "channelId": "UCjEH3bfJQ-wLtROSmndOZdQ",
+        "channelUrl": "https://youtube.com/channel/UCjEH3bfJQ-wLtROSmndOZdQ",
+        "desc": "",
+        "publishedAt": "2009-09-18T02:33:05.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l7_s9jT3fgQiWG7O9C4IEuqG_DIeEjv1co1gSA=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "Jonathan Melgoza",
+        "channelId": "UCddMcfcZAoMLfrtATAcDfuQ",
+        "channelUrl": "https://youtube.com/channel/UCddMcfcZAoMLfrtATAcDfuQ",
+        "desc": "Hola! Soy Jonathan Melgoza, ingeniero en sistemas computacionales y en este canal encontrarás Videos sobre programación, tecnología, desarrollo web, electrónica, seo, marketing, ganar dinero por Internet y mucho más sobre temas de Ingenieria, blogging y temas apasionantes.\n\nEste canal es un canal oficial de jonathanmelgoza.com, sientete libre de opinar, comentar, dejar sugerencias y peticiones asi como tus dudas las cuales trataré de responder a la brevedad.\n\nSitio oficial: https://jonathanmelgoza.com",
+        "publishedAt": "2012-05-21T06:02:23.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l7-qjE8-WiXCRMzz3AR3fTIWOt7KOcU1IZ7H6A=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "Extern Code",
+        "channelId": "UCfx2dro_w4_MyA19Nm5badg",
+        "channelUrl": "https://youtube.com/channel/UCfx2dro_w4_MyA19Nm5badg",
+        "desc": "learn to program from scratch to expert level in C/C++ Languages,Java programming and also prepare for mostly asked coding interview question from cracking the coding interview questions etc.\n\nSource to videos: https://goo.gl/D2637U\nand Microsoft academy\n\nI First uploaded C++ combined video and left it for 6-8 months than start receiving request to do same compilation to other videos.\nif you are owner please reach out to me I will be glad to remove/whatever your wish might be.\n\nemail me: kpasha1234@gmail.com",
+        "publishedAt": "2011-12-09T12:11:07.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l7-hpPMURyioLYRaVspfvkeKlWjI0uHtYEcOtQ=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "Stefan Mischook",
+        "channelId": "UCyUBW72KU30dfAYWLVNZO8Q",
+        "channelUrl": "https://youtube.com/channel/UCyUBW72KU30dfAYWLVNZO8Q",
+        "desc": "I started building websites in 1994 and have been teaching web design and programming for over 10yrs! Now I'm actively helping teachers teach web design and programming in the classroom (K12 and Colleges) with Studioweb.",
+        "publishedAt": "2008-11-30T01:50:40.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l7_tAhaq41FJd_-9P8vBv4TsLafajAQxUFaOSw=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "Online Marketing Management",
+        "channelId": "UC1Qb2nuz645u9LRaoH6coJg",
+        "channelUrl": "https://youtube.com/channel/UC1Qb2nuz645u9LRaoH6coJg",
+        "desc": "Online Marketing Management's Vlog. Articles about online advertising, WordPress solutions and productivity tips.",
+        "publishedAt": "2017-04-01T16:36:12.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l7_DRMN8OPrT3PWCdzZDQWROMlhmcwTyrUt8yg=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "ZEIT",
+        "channelId": "UCLq8gNoee7oXM7MvTdjyQvA",
+        "channelUrl": "https://youtube.com/channel/UCLq8gNoee7oXM7MvTdjyQvA",
+        "desc": "Our mission is to make cloud computing as easy and accessible as mobile computing.",
+        "publishedAt": "2017-04-28T18:49:45.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l78AxF3W0_HdWwZvhqoRcBGnEB4rHN_M0zbHBA=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "Senior Software Vlogger",
+        "channelId": "UCX3w3jB05SHLbGjZPR0PM6g",
+        "channelUrl": "https://youtube.com/channel/UCX3w3jB05SHLbGjZPR0PM6g",
+        "desc": "Меня зовут Дима, я программирую всю свою жизнь, в основном веб сайты. С 2014 года я живу в Германии, где после некоторого поиска я нашел свою идеальную компанию. В этой компании я очень быстро начал расти по карьерной лестнице, сперва до тех лида, теперь и до менеджера. На своем канале я рассказываю о превратностях профессии программиста и про другие жизненные темы.\n\nРеклама на канале https://seniorsoftwarevlogger.com/ads/",
+        "publishedAt": "2009-02-01T07:37:35.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l7_SKwGIziI1TPA7TkKaNq1F7VPeFc601VeQZA=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "BilgisayarKavramlari",
+        "channelId": "UCkkgrhDCJheXQNIFqUVw0_g",
+        "channelUrl": "https://youtube.com/channel/UCkkgrhDCJheXQNIFqUVw0_g",
+        "desc": "Bilgisayar Bilimleri, Yönetim Bilişim Sistemleri, Bilgisayar Mühendisliği, Veri Madenciliği konularında eğitim ve güncel gelişmeleri takip amaçlı videolar yayınlanmaktadır. Bu kanaldaki videolar Şadi Evren ŞEKER tarafından hazırlanmaktadır.  http://www.sadievrenseker.com\nKanaldaki eğitim serileri için detayları, kullanılan sunumları, yazılan kodları ve izleme sırası gibi detayları takip için şu adrese bakabilirsiniz :\nhttp://sadievrenseker.com/wp/?page_id=546",
+        "publishedAt": "2013-08-28T09:06:28.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l7--Z7Xy20pPl1mOljepJN3qG0TZpzQ3oGtg0g=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "DKA-DEVELOP",
+        "channelId": "UCWdmR3tpvXkzubAZugUQLdw",
+        "channelUrl": "https://youtube.com/channel/UCWdmR3tpvXkzubAZugUQLdw",
+        "desc": "🔥 Всё из мира разработчика и IT - индустрии, от написания программ до поднятия серверов.\n\n🎁 Уроки абсолютны бесплатные и без хитрого маркетинга с продуманной цепочкой шагов навязывания услуг.\n\n💾 Вас ждут уроки по:\n\n- Frontend Html, CSS, JS,  jQuery, Vue, React, Angular и т.д;\n- Backend PHP, NodeJS, Ruby, Webpack, Laravel, Ruby On Rails и т.д. на русском языке;\n- Уроки по виртуализации Docker, Homestead, VirtualBox..:\n- Поднятие собственных виртуальных серверов Почтовый, Веб-сервер, Socks5, Vpn и т.д;\n- Настройка рабочего окружения разработчика на системах Linux (Ubuntu) и Windows;\n- Новости из мира технологий и разработки.\n\n💕 Делитесь, комментируйте и развивайтесь, инвестируйте в себя вкладывайте выгодно!\n\n💲Реквизиты для поддержки проекта💲\n☕ Патреон, поддержи автора:\nhttps://www.patreon.com/dkadevelop\n\n🍗 Другие реквизиты на сайте автора:\nhttps://dka-develop.ru/blog/donation\n\n🌍 Официальный сайт:\nhttps://dka-develop.ru",
+        "publishedAt": "2015-07-15T07:23:41.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l7-TmG0eatFZx3KbIU40ao9_2j4tLPT5m5y-Hw=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "Gaston Arnedo",
+        "channelId": "UCQe65GlwJ5Ecvj99wduafhQ",
+        "channelUrl": "https://youtube.com/channel/UCQe65GlwJ5Ecvj99wduafhQ",
+        "desc": "Tutoriales de JavaScript en español",
+        "publishedAt": "2010-05-31T19:03:37.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l78QGVTMLRp4ypMrVtsrR_1cVec2g0JIXkn0gQ=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "IT-KAMASUTRA",
+        "channelId": "UCTW0FUhT0m-Bqg2trTbSs0g",
+        "channelUrl": "https://youtube.com/channel/UCTW0FUhT0m-Bqg2trTbSs0g",
+        "desc": "JavaScript с нуля выучить реально. На данном канале вы сможете ознакомиться с моим авторским курсом \"JS с нуля, ну ваще с нуля\". Идея следующая: я детально, подробно, простым языком буду обучать людей программированию на языке JavaScript. Даже не имея технического образования и опыта программирования, вы сможете выучить JavaScript с нуля",
+        "publishedAt": "2015-11-11T18:16:18.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l7_bxwzkHGLOTdWlmToCBYJ7llyd7vtG6_efEA=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "Kirupa Chinnathambi",
+        "channelId": "UCZCQ3LXtU3IUzMBQBqN69KQ",
+        "channelUrl": "https://youtube.com/channel/UCZCQ3LXtU3IUzMBQBqN69KQ",
+        "desc": "Do you want to be a better web developer? Do you want to learn how to implement amazing front-end user interfaces? The videos in this channel will take you there...and possibly even further.\n\nIf you like the content and find it useful, please share it with your friends and enemies!",
+        "publishedAt": "2006-05-05T06:19:51.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l79CfEhmbhx_O6xsy_EivNYYVF94NNZPDdQIfg=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "Chris Sean",
+        "channelId": "UCu1xbgCV5o48h_BYCQD7KJg",
+        "channelUrl": "https://youtube.com/channel/UCu1xbgCV5o48h_BYCQD7KJg",
+        "desc": "",
+        "publishedAt": "2013-02-17T17:31:43.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l79IcWxQbofzy-NY2ggUUlt2vnBZU0ptxxU10w=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "DevSpark Training",
+        "channelId": "UCq7j_1cDeRFGrISxGbR56OQ",
+        "channelUrl": "https://youtube.com/channel/UCq7j_1cDeRFGrISxGbR56OQ",
+        "desc": "DevSpark is your source for expert training on the latest web development topics. Quick, digestible videos to get you up to speed fast.",
+        "publishedAt": "2016-03-21T00:20:25.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l7_m-mkEjNB2H6egT9r9HG3asoh0B48irxZD9w=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "Google Webmasters",
+        "channelId": "UCWf2ZlNsCGDS89VBF_awNvA",
+        "channelUrl": "https://youtube.com/channel/UCWf2ZlNsCGDS89VBF_awNvA",
+        "desc": "Welcome to the official YouTube channel for Google Webmasters, where you can find information and tools to help you understand and improve your site in Google Search.\n\nFor support-related issues with your site in Google Search and Search Console, please visit our Help Center and Help Forum.",
+        "publishedAt": "2009-01-10T02:03:46.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l79xPFHh0W4xCqBPIWCkkA0xGTfnPtw9CWGIdA=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "Harlley Oliveira",
+        "channelId": "UCTJ1mLre8sT-d4KuvmQsSQA",
+        "channelUrl": "https://youtube.com/channel/UCTJ1mLre8sT-d4KuvmQsSQA",
+        "desc": "Receba mentoria de um programador experiente, crie seu portfólio, desenvolva dezenas de projetos de software e fique preparado para o mercado de trabalho ou para criar o próprio negócio.\n➡ https://playcode.com.br/makers",
+        "publishedAt": "2012-03-03T16:08:22.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l7-SaT9quIWFsbo39PNfumluR0wDwByHvnpC-w=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "Kerrick Long",
+        "channelId": "UCQ9jFovIAEW_8ho7xYct4rg",
+        "channelUrl": "https://youtube.com/channel/UCQ9jFovIAEW_8ho7xYct4rg",
+        "desc": "",
+        "publishedAt": "2009-05-10T06:50:06.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l7-gcEem_X0Ilu_0DB-1u-37zvNRq6-ODABRqQ=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "hello roman",
+        "channelId": "UCq8XmOMtrUCb8FcFHQEd8_g",
+        "channelUrl": "https://youtube.com/channel/UCq8XmOMtrUCb8FcFHQEd8_g",
+        "desc": "Cześć! Nazywam się Adam Romański i sam siebie nazywam kreatywnym front-endowcem, ponieważ zanim dołączyłem do branży IT, wiele lat spędziłem pracując jako copywriter. \n\nNa moim kanale znajdziesz filmy poświęcone branży IT, a przede wszystkim moim przemyśleniom na temat front-endu. \nNie zabraknie też mega ciekawych tutoriali, dzięki którym dowiesz się, jak najnowsze technologie dostępne na naszym podwórku\nwykorzystać w praktyce. \n\nChcesz być na bieżąco? Subskrybuj kanał! \n\nJeśli chcesz zapytać o cokolwiek, pisz na helloroman.vlog@gmail.com",
+        "publishedAt": "2018-04-29T19:51:54.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l7_TpIxojVftQXHaJ3nJ14MCC20cBQTAgZ9VGw=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "Open Source Bug",
+        "channelId": "UClSTRc3QqsilMa3R3GwN_LQ",
+        "channelUrl": "https://youtube.com/channel/UClSTRc3QqsilMa3R3GwN_LQ",
+        "desc": "New software hacks, tests and reviews. Open source bug analysis and data processing. It's a messy heap of partitioned usefulness!\nSubscribe to our edge: http://bit.ly/OSBsub",
+        "publishedAt": "2014-10-11T13:11:44.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l7-D6UsO5ovtjGwipDByOIyKAcahhaYzq-P6OQ=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "All Things JavaScript, LLC",
+        "channelId": "UCRQhZGXC0WK85YRXl7nGX0w",
+        "channelUrl": "https://youtube.com/channel/UCRQhZGXC0WK85YRXl7nGX0w",
+        "desc": "We assist you on your journey from a JavaScript novice to expert. From quick JavaScript tidbits to lengthy discussions on the nuances of the JavaScript language, we include it all.\n\nI spend an immense amount of time reading about and learning JavaScript. I use this information to create well thought out and effective tutorials. Find tutorials on everything from coersion to closures; from general JavaScript topics, to thorough examinations of important concepts. I design these tutorials to teach.\n\nI release a new tutorial each Wednesday. \n\nFor full courses on JavaScript, visit our website at http://www.allthingsjavascript.com.\n\nWe also maintain a full list of all our tutorials on our site.\n\nWould you like to help keep this channel going?  https://www.patreon.com/allthingsjavascript",
+        "publishedAt": "2016-08-08T23:10:48.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l792F24tR7FxQb0eYMFGzSSYGIQwIit_Re2KRA=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "dcode",
+        "channelId": "UCjX0FtIZBBVD3YoCcxnDC4g",
+        "channelUrl": "https://youtube.com/channel/UCjX0FtIZBBVD3YoCcxnDC4g",
+        "desc": "High quality software development tutorials.\n\nThis channel mainly covers web development with the following languages: HTML/CSS, JavaScript, PHP, Node.js & Rust.\n\nAlso - my name is Dom and I'm from Australia.\n\nFind me on Twitter - @dcode\nSupport me on Pateron - https://www.patreon.com/dcode\nCheck out my courses on Udemy - https://www.udemy.com/user/domenic-corso/\n\nEnjoy!",
+        "publishedAt": "2017-08-30T03:32:52.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l7_Yy0ffRFaRiT4_oqHYbTEb3bhLRqqjtrS9aA=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "Data Stream",
+        "channelId": "UCro0hRiT9K7UqIYTQHCf30g",
+        "channelUrl": "https://youtube.com/channel/UCro0hRiT9K7UqIYTQHCf30g",
+        "desc": "",
+        "publishedAt": "2015-05-18T03:43:09.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l7-DhENNJEurqT1h-jzeAGR0bW7t3PjK5Ke1Cg=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "Zac Gordon",
+        "channelId": "UC07WzVtVDVksJR30sU7-EWg",
+        "channelUrl": "https://youtube.com/channel/UC07WzVtVDVksJR30sU7-EWg",
+        "desc": "This channel hosts videos from educator Zac Gordon around the topic of Learn JavaScript for WordPress.  The channel hosts the JavaScript for WordPress Show where Zac talks with influencers in the field of JavaScript for WordPress about the topic of learning JavaScript deeply.  There are also videos from Zac's JavaScript for WordPress Master Course which can be found at javascriptforwp.com.",
+        "publishedAt": "2015-01-24T04:22:58.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l78dqDDtjSB8IOVk0lfreTPFttFKq_Mhfebj=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "IP2Location",
+        "channelId": "UCkHGCUXc3pcrbp0wOtpwbMw",
+        "channelUrl": "https://youtube.com/channel/UCkHGCUXc3pcrbp0wOtpwbMw",
+        "desc": "IP2Location.com helps to determine the user's geographical location information via IP address. It translates IP to an ISO3166 country code, region or state, city, latitude and longitude, ZIP/Postal code, time zone, Internet Service Provider (ISP) or company name, domain name, net speed, area code, weather station code, weather station name, mobile country code (MCC), mobile network code (MNC) and carrier brand, elevation, and usage type.\n\nIt works for all IP addresses including IPv4 and IPv6. \n\nLearn more at  https://www.ip2location.com",
+        "publishedAt": "2009-03-03T06:26:20.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l7-QbLwsAYGpeic31nMUih97inrvvwruK1ZPGQ=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "WebPro Education",
+        "channelId": "UCTCMk9I_YW-xjeHEHCXZ6AQ",
+        "channelUrl": "https://youtube.com/channel/UCTCMk9I_YW-xjeHEHCXZ6AQ",
+        "desc": "WebPro Education Channel offers the best tips and tricks in video tutorials.",
+        "publishedAt": "2013-10-18T07:46:28.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l7-Uq5mF6nDPqYZ2vt1fdAE15ZuikzY535ES7A=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "KENTA / 雑食系エンジニアTV",
+        "channelId": "UC_HLK-ksslL-Z_2wiIZDlMg",
+        "channelUrl": "https://youtube.com/channel/UC_HLK-ksslL-Z_2wiIZDlMg",
+        "desc": "Web系エンジニアになりたい方たち向けの情報や、Web系エンジニアのキャリア戦略等を発信しています。",
+        "publishedAt": "2018-01-19T08:27:54.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l78dM7w7tYcPIJUnExS2LJrPrcNMgnujuo_e=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "Program With Erik",
+        "channelId": "UCshZ3rdoCLjDYuTR_RBubzw",
+        "channelUrl": "https://youtube.com/channel/UCshZ3rdoCLjDYuTR_RBubzw",
+        "desc": "My name is Erik Hanchett and I'm a web and Java developer from Reno, Nevada. I've been a programmer for many years now and I've always been wanting to give back to the community. I started this channel, and my website (www.programwitherik.com) as a way to teach people what I know. \n\nSurprisingly, I only started learning web development seriously in early 2015, before that I strictly programmed in Java.  I worked many nights and weekends getting up to speed and I blogged about my journey. I decided to focus on Ember.js and after about a year I wrote my first book on it! (http://goo.gl/LEIdSc  )!  Now a days I work in Ember.js/Vue.js/Phoenix and more!\n\nStick around this channel, I do tutorials, advice and occasionaly I vlog! If you got this far please tweet me the words \"I read it\" at twitter.com/ERIKCH - That would make my day!",
+        "publishedAt": "2013-07-05T21:44:58.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l789Cghfqj-LLKYaH32IoKer6CPMfbvGMWMKFw=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "Learn Coding Tutorials",
+        "channelId": "UC8Szh5ZJeGFBWyqKyTCVPpA",
+        "channelUrl": "https://youtube.com/channel/UC8Szh5ZJeGFBWyqKyTCVPpA",
+        "desc": "",
+        "publishedAt": "2015-01-12T17:16:41.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l7-Asdd8NEvTnAbJO-Q3JL1SeMhMSIRGgj9c3Q=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "tablet reader",
+        "channelId": "UCbDOEc3iFYLj6r49AANd7zg",
+        "channelUrl": "https://youtube.com/channel/UCbDOEc3iFYLj6r49AANd7zg",
+        "desc": "",
+        "publishedAt": "2013-08-08T02:22:45.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l7_TVeYQVWL5loy6VMctRYe_30iYlx0UayoztQ=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": ".NET Interview Preparation videos",
+        "channelId": "UCHI5xgQujSyqz_UyKdLFaqw",
+        "channelUrl": "https://youtube.com/channel/UCHI5xgQujSyqz_UyKdLFaqw",
+        "desc": "Video tutorials of C#, Design Pattern, UML, C#, ASP.NET etc. from http://www.DotNetFunda.com",
+        "publishedAt": "2009-10-04T14:31:29.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l7_lFR1Lq5qICyRdz8GfBQ3HGMS0dKdVDdfJOg=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "Anthony Welc",
+        "channelId": "UChhPkjgG1-iLUOmURGdgQrw",
+        "channelUrl": "https://youtube.com/channel/UChhPkjgG1-iLUOmURGdgQrw",
+        "desc": "Créateur du programme Hardcoders. Vivre du code et pratiquer tous les jours. \n\n💻 LE PROGRAMME: https://hardcode.rs\n\nJe me concentre à fond sur l'évolution de mes élèves, ce qui me prend pas mal de temps. Si tu as besoin d'une réponse rapide mieux vaut t'adresser à un autre dév ;)",
+        "publishedAt": "2011-09-30T19:07:03.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l7-b0oVuvXrAd7Bj_bIjMy1kA-QEwoF-wljEbg=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "Jakub Jurkian",
+        "channelId": "UCYPvm22eRvfFpKpSlwxJysQ",
+        "channelUrl": "https://youtube.com/channel/UCYPvm22eRvfFpKpSlwxJysQ",
+        "desc": "Filmy poświęcone tworzeniu stron internetowych - tutoriale, dobre rady i wskazówki",
+        "publishedAt": "2013-12-17T16:52:07.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l7-1vWyXj8k92v6utTgA-caNi1SQWogbHLD2Xg=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "Code Cascade",
+        "channelId": "UCIsu34P7ZdSDjapFmIRIaJQ",
+        "channelUrl": "https://youtube.com/channel/UCIsu34P7ZdSDjapFmIRIaJQ",
+        "desc": "Code Cascade: tons of video tutorials on HTML5, CSS3 and JavaScript.",
+        "publishedAt": "2008-07-12T17:01:45.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l79trAs-Xg_HkvKWxnM0elUPeEEdopyQ6f6h4w=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "Addy Osmani",
+        "channelId": "UCfetJpmQH2XpFj8uFgWsezw",
+        "channelUrl": "https://youtube.com/channel/UCfetJpmQH2XpFj8uFgWsezw",
+        "desc": "From time to time I post videos on here. Some of the tutorials stay online, others go private when I feel they're outdated. I hope some of this stuff is entertaining or useful.",
+        "publishedAt": "2007-09-20T12:47:13.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l7_gKKU5QGbABT-reUlTnNI6O0y77PES67IzTA=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "GioCode",
+        "channelId": "UC3yDP9DLJI7rPqPovQaOJMg",
+        "channelUrl": "https://youtube.com/channel/UC3yDP9DLJI7rPqPovQaOJMg",
+        "desc": "Bienvenido a mi canal, aquí publico todo tipo de videos relacionados con la informática en general, intento que mis videos sean tanto educativos como entretenidos, hago desde tutoriales de programación, cursos hasta infografías, así como también videos sobre seguridad informática y hacking. Te invito a suscribirte y a conectarte conmigo en todas mis redes sociales.\n  Si eres youtuber y publicas contenido parecido al mío, no dudes en ponerte en contacto con migo, yo siempre estoy dispuesto a hacer colaboraciones que nos ayuden a crecer a ambos.\n ¡Gracias por pasarte por mi canal!",
+        "publishedAt": "2007-09-02T13:28:26.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l78N3jwaw3QWPQpiI3Zm7PwkXX0LgTUaHukYbw=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "DrapsTV",
+        "channelId": "UCea5cMUa9xNU0kUtbRcTkqA",
+        "channelUrl": "https://youtube.com/channel/UCea5cMUa9xNU0kUtbRcTkqA",
+        "desc": "This channel is directed towards Computer Science and fields that encompass it. This Channel will hold educational videos for learning things including but not limited to Hacking/Pen Testing, Forensics, Networking, Programming, Operating Systems, Social Engineering and Cryptography. If you're keen to become a proper hacker subscribe and join in on the learning journey of a lifetime!\n\nVideo Styles: Tutorials, Tips, Discussion and Explanations.",
+        "publishedAt": "2012-12-27T04:59:02.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l78Fa3rPCs4jccModzMsvzW43KqsygcORbu3yg=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "Remy Sharp",
+        "channelId": "UCyBAm31tEpZ17hka6ZvVqcg",
+        "channelUrl": "https://youtube.com/channel/UCyBAm31tEpZ17hka6ZvVqcg",
+        "desc": "Mostly screencast based videos around JavaScript development and workflow.\n\nMy channel also features all the ffconf videos (the yearly UK JavaScript event) and the full collection of jQuery for Designers posts.",
+        "publishedAt": "2006-03-20T16:19:37.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l7-VOYIEWKBMuEUKBPcHU3OFYhV0b_MIhnM3XA=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "GOTO Conferences",
+        "channelId": "UCs_tLP3AiwYKwdUHpltJPuA",
+        "channelUrl": "https://youtube.com/channel/UCs_tLP3AiwYKwdUHpltJPuA",
+        "desc": "Created for developers, by developers, GOTO Conferences is a series of software development conferences focused on gathering the best minds in the software community to bring the most interesting topics to light. This channel features video interviews and presentations from GOTO Conferences and GOTO Nights.\n\nGOTO is produced by Trifork, a leading full-service supplier of high-quality, custom-built applications and end-to-end solutions.\n\nGOTO YouTube Channel Code of Conduct: https://blog.gotocon.com/yt-coc",
+        "publishedAt": "2011-10-03T12:34:19.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l7_1jvc-IXv9zi0_mxFxNiwrGK7PCs4Jjxj4Tg=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "Chris Johnson",
+        "channelId": "UChydyI2q9k-dmYCrp9JzC6g",
+        "channelUrl": "https://youtube.com/channel/UChydyI2q9k-dmYCrp9JzC6g",
+        "desc": "When someone says, \"I want a programming language in which I need only say what I want done,\" give him a lollipop.",
+        "publishedAt": "2010-01-10T23:02:59.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l79M0ydEerCieOOo6DKQ-m2_WhwItzpb9DDGdQ=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "codingisforyou",
+        "channelId": "UC5AUcD4bYDAGNaK_K1-o1QA",
+        "channelUrl": "https://youtube.com/channel/UC5AUcD4bYDAGNaK_K1-o1QA",
+        "desc": "To breed 100 million new programmers.  Coding is for you and you can do it.  Let me show you how....it's not that hard.",
+        "publishedAt": "2016-12-12T01:42:11.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l797BNPD3buIQb6n7gr1YnJBE5c75L3K0uKvLw=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "O'Reilly - Video Training",
+        "channelId": "UCFvbB4_qLYRrOQNuFudz-Mg",
+        "channelUrl": "https://youtube.com/channel/UCFvbB4_qLYRrOQNuFudz-Mg",
+        "desc": "Gain technology and business knowledge and hone skills with learning resources created and curated by O'Reilly experts: live online training, video, books, conferences, and the Safari online platform, with content from 200+ of the world’s best publishers and information resources.",
+        "publishedAt": "2009-01-05T13:17:18.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l7_hr2O-DKAbeKKT1C2X1YHwSZs6cSXmvekFCg=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "Владилен Минин",
+        "channelId": "UCg8ss4xW9jASrqWGP30jXiw",
+        "channelUrl": "https://youtube.com/channel/UCg8ss4xW9jASrqWGP30jXiw",
+        "desc": "Меня зовут Владилен Минин и я являюсь автором данного канала.\nТут вы найдете большое количество уроков, посвященных веб-разработке на языке javascript и на технологиях, таких как: VueJS, ReactJS, Angular, NodeJS",
+        "publishedAt": "2019-02-18T15:59:02.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l7_QDUNn3JcTcXGEm6SSeGMSYiMJitcpj-M6BQ=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "Victor Robles WEB",
+        "channelId": "UCv85NiROLKddHa0fBATwTzw",
+        "channelUrl": "https://youtube.com/channel/UCv85NiROLKddHa0fBATwTzw",
+        "desc": "Hola! Me llamo Víctor Robles, soy desarrollador web y formador online. En este canal voy a hablar de desarrollo y a enseñarte a crear aplicaciones web con mis cursos. Puedes seguirme también en mi blog victorroblesweb.es ;)",
+        "publishedAt": "2011-10-01T20:56:35.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l7_e4fYorKjvh2mSddHTASuDWRxWGSHiJ1jjVw=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "edutechional",
+        "channelId": "UCgGf1eq52dPTVuf1Njb57Hw",
+        "channelUrl": "https://youtube.com/channel/UCgGf1eq52dPTVuf1Njb57Hw",
+        "desc": "Edutechional provides step by step tutorials on a number of different software applications.",
+        "publishedAt": "2012-12-11T13:52:36.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l7-IFTaNiN567pm_8dOzxhkYg6vWm_d3zbbAKg=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "PlatziLab",
+        "channelId": "UCiS9JxLNfFaxom-ktqkwWMw",
+        "channelUrl": "https://youtube.com/channel/UCiS9JxLNfFaxom-ktqkwWMw",
+        "desc": "PlatziLab es el laboratorio donde el team Platzi trabaja todas las semanas para destilar, concentrar y condensar los aprendizajes de cada uno de nuestros cursos. El resultado son clases muy dinámicas que en menos de 15 minutos te enseñarán algo que probablemente no conocías y te mostrarán lo que puedes esperar si decides tomar el curso.\n\nQueremos compartir con nuestra comunidad una pequeña prueba de absolutamente todos cursos que estamos preparando para que se animen a tomar ese que les llame la atención. Por eso en PlatziLab publicamos una clase cada lunes, miércoles y viernes.",
+        "publishedAt": "2013-01-23T17:03:41.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l79TfciZwhZ6_514flYdr-3dixVQiWQXQdjY=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "OpenWebinars",
+        "channelId": "UCJcA7xm3ktxCO9PdKTmqeUg",
+        "channelUrl": "https://youtube.com/channel/UCJcA7xm3ktxCO9PdKTmqeUg",
+        "desc": "Videos sobre Software Libre de Programadores y Administradores de Sistemas que ofrece información y formación.",
+        "publishedAt": "2013-09-10T10:19:26.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l79Qjhh-cOGUXmS4FO0K1dHvQyqYbQhkG067Rw=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "JavascriptSource",
+        "channelId": "UCCXW7Ok37pTnJtzVAyEkAgg",
+        "channelUrl": "https://youtube.com/channel/UCCXW7Ok37pTnJtzVAyEkAgg",
+        "desc": "",
+        "publishedAt": "2009-11-20T11:16:02.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l7-3lRwB3l7nDbHfZpm2Iw9PrZ4ILkQRL7bK7Q=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "Badoo Tech",
+        "channelId": "UCBD1R7u1V_Ema-bKPbUhTsQ",
+        "channelUrl": "https://youtube.com/channel/UCBD1R7u1V_Ema-bKPbUhTsQ",
+        "desc": "Badoo — крупнейший сервис знакомств в мире. Badoo объединяет более 400 миллионов пользователей в 180 странах мира.\nСайт Badoo входит в первую сотню наиболее популярных веб-сайтов согласно рейтингу Alexa.com. В рейтинге самых посещаемых сайтов в мире Google TOP 1000 — на 59-м месте c посещаемостью в 52 миллионов уникальных пользователей в месяц. Ежедневно в Badoo регистрируются более 400 тысяч новых пользователей, загружается свыше 3 миллионов фотографий, отправляется более 50 миллионов сообщений. \nСейчас у Badoo два основных офиса: в Лондоне и Москве, в которых работает более 500 сотрудников.",
+        "publishedAt": "2014-01-28T11:14:32.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l79NqgUIxlBYP-5ihcmi4Jgbzs1NwBLCqpxX8w=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "Divinector",
+        "channelId": "UCki4IDK86E6_pDtptmsslow",
+        "channelUrl": "https://youtube.com/channel/UCki4IDK86E6_pDtptmsslow",
+        "desc": "This Channel Provides tutorial based on html, html5, css, css3 animation, basic jquery, jquery plugins and their implementation,web design related tips and tricks and so on. If you have just started your web design journey then this channel could be a good source for you to get some knowledge about Front-end Development. Hope you will stay with us and support this channel.",
+        "publishedAt": "2016-04-19T03:39:53.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l782wR75BoUe-8iTGRB6FrHe4ZJTdRtJMdlXww=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "CodeFurnace",
+        "channelId": "UCSUxnweThHkfrKkGj_DeJqQ",
+        "channelUrl": "https://youtube.com/channel/UCSUxnweThHkfrKkGj_DeJqQ",
+        "desc": "Web Design Tutorials",
+        "publishedAt": "2011-10-10T16:00:56.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l78MCTe47dMOS8YGbyyIFp4KgHMQaxgc7xDz7Q=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "New J",
+        "channelId": "UCY-rapj1EUm0M5IYh0Zy6Kw",
+        "channelUrl": "https://youtube.com/channel/UCY-rapj1EUm0M5IYh0Zy6Kw",
+        "desc": "My name is shrimpboyho\n\nOdd name right?\n\nWell it depends how you pronounce it....\n\n\nI recently hit 1000 subscribers. I want to soon get 10,000. I'd appreciate if you could help by subscribing to me.\n\nI enjoy programming, gaming, and other stuff.\n\nAlso check me out also on:\n\nTwitter:\nhttp://www.twitter.com/shrimpboyho\n\nBlog:\nhttp://www.easytechonline.blogspot.com\n\nSteam:\nhttp://steamcommunity.com/id/shrimpboyho",
+        "publishedAt": "2010-10-04T19:27:32.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l7-iNM-dTVKdPGQnc4f1vZPagBJbTQ1WD69Xcw=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "楽しいプログラミング入門 たのぷろ!",
+        "channelId": "UCYaUOOFsHFg4KvEHEox003w",
+        "channelUrl": "https://youtube.com/channel/UCYaUOOFsHFg4KvEHEox003w",
+        "desc": "楽しいプログラミング入門　たのぷろ!  は、楽しくプログラミングを学べるJavascript解説動画を公開しています。\n副業の為のスキルアップや、趣味の幅を広げたり アイデアさえあれば スマホアプリやサーバーまで作れるJavascriptを楽しんで学びましょう。\n\n一人でも多くの方がプログラミングに興味を持ってもらえると嬉しいです。",
+        "publishedAt": "2016-09-17T21:02:16.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l7-UPyu_oe49b0DXEeCe9cIxgEq7sAqKa9PocQ=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "アスキー",
+        "channelId": "UCeJYDunL9xZtmczAP9AGmFA",
+        "channelUrl": "https://youtube.com/channel/UCeJYDunL9xZtmczAP9AGmFA",
+        "desc": "こんにちは！ デジタル情報メディア ASCII（アスキー）のYouTube公式チャンネルです。\n\n日夜全力でIT情報を追いかけているアスキー編集部では、記事では伝えきれない最新情報をYouTubeLive生放送や、動画コンテンツで配信中。スマートフォンやパソコン情報はもちろんのこと、注目のガジェットレビュー、人気ゲームの実況やエンタメ情報など毎週、バラエティ色たっぷりでお届けしています！\n\n----------------------------------------------------\n\n★番組予告は”アスキーTV”でcheck!!　http://ascii.jp/asciitv/\n\n★NEWSサイト『ASCII.jp』　http://ascii.jp/\n\n★デジタル雑誌『週刊アスキー』（毎週火曜日発売/電子書籍）\n\n★動画見放題、「週刊アスキー」読み放題のファンクラブ『ASCII倶楽部』 http://ascii.jp/asciiclub/\n（月額1080円）\n\n----------------------------------------------------\n【主な動画編集ソフト】\nAdobe Premiere Pro CC/Adobe After Effects CC\n\n【主な撮影機材】\niPhone X/XS/LUMIX DC-GH5M\n\n【主な制作部隊】\nこーのス/ラッキー橋本/つばさ/他スタッフ\n------------------------------------------------------\n\nアスキーへのお問い合わせ\nhttps://ascii.jp/support/\n\nプレスリリースは、下記メールアドレス宛にお送り下さい\nrelease@ascii.jp",
+        "publishedAt": "2008-07-11T00:25:51.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l790_1pgdEW1WVg7CgNBEI5_9pWDBi6o2vQyoA=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "Andy Sterkowitz",
+        "channelId": "UCZ9qFEC82qM6Pk-54Q4TVWA",
+        "channelUrl": "https://youtube.com/channel/UCZ9qFEC82qM6Pk-54Q4TVWA",
+        "desc": "",
+        "publishedAt": "2016-03-13T20:48:39.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l79gRUFXE2-wZeiyzeSiua6bD3OsrS1UV_wkdQ=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "estellevw",
+        "channelId": "UCLwtZGHyZimqi8QF-Kr12EA",
+        "channelUrl": "https://youtube.com/channel/UCLwtZGHyZimqi8QF-Kr12EA",
+        "desc": "",
+        "publishedAt": "2007-07-28T20:11:34.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l7_s8eXmtCI2txqYlYSxBcQYAeT08-0Jb7Abcg=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "html-form-guide.com",
+        "channelId": "UCwCwBzDezTfeA7xrFKBDeNg",
+        "channelUrl": "https://youtube.com/channel/UCwCwBzDezTfeA7xrFKBDeNg",
+        "desc": "HTML Form Guide.com publishes tutorials and articles on building web forms. . You can find articles on basic, intermediate an advanced form programming here. Beyond the general \"how to\" articles and tutorials, we will discuss the form usability topics as well.",
+        "publishedAt": "2013-11-11T13:09:38.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l7-kBD3vCoGqBWKK2Giubv6h7A-gaSEqwGq3AQ=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "Coder's Block",
+        "channelId": "UCJWX2cGhemrvksuNSanZ9aA",
+        "channelUrl": "https://youtube.com/channel/UCJWX2cGhemrvksuNSanZ9aA",
+        "desc": "Professional programming and software tutorials!\r\n\r\nComment on our channel with suggestions & questions!",
+        "publishedAt": "2012-07-31T01:36:12.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l79mVmGLT9jFRxGhnPPxKID4O9xEtPiy0j4P3A=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "Publishers Clearing House",
+        "channelId": "UC3Wp9KHbQAJBNtH9cpXuYBw",
+        "channelUrl": "https://youtube.com/channel/UC3Wp9KHbQAJBNtH9cpXuYBw",
+        "desc": "Publishers Clearing House Prize Patrol Winning Moments",
+        "publishedAt": "2009-10-07T15:35:09.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l7_wK-Eg405usGIL65XMh7ky9RA6Og2255Kjgw=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "JuniorDev",
+        "channelId": "UCvaOvKG4sm5XzV78OqEDUjA",
+        "channelUrl": "https://youtube.com/channel/UCvaOvKG4sm5XzV78OqEDUjA",
+        "desc": "Junior Dev adalah sebuah channel tutorial komputer, IT dan programming mulai dari HTML, CSS, PHP, SQL, jQuery, Desain Web, Game Development, Adobe Flash, Wordpress, Android dan sebagainya. Di channel ini kamu bisa dapatkan tutorial gratis yang selalu update. Subscribe dan Like channel ini agar kamu bisa mengikuti terus tutorial-tutorialnya.\n\nJangan lupa follow untuk kontak, bertanya dan berdiskusi\nChannel Youtube : Youtube : https://www.youtube.com/c/juniordevindonesia\nLike Fanpage : https://www.facebook.com/juniordevindonesiaofficial/\nFollow : http://twitter.com/hello_juniordev\nInstagram : https://www.instagram.com/juniordevindonesia/\nGoogle Plus : https://plus.google.com/+JuniorDevIndonesia/posts\nEmail : hellojuniordev@gmail.com\n\n\nJangan lupa subscribe ya..!\n\nTAGS: html, css, php, jquery, sql, mysql, wordpress, adobe flash, actionscript, unity 3d, game development, blogger, codeigniter, laravel",
+        "publishedAt": "2016-01-30T09:33:37.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l79dJq_CvDEu2CUzergaPwJlS7Em0eVXPwwFbw=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "IProgrammerTV",
+        "channelId": "UCVXEpEyPHqrW7yQrK19Xitw",
+        "channelUrl": "https://youtube.com/channel/UCVXEpEyPHqrW7yQrK19Xitw",
+        "desc": "",
+        "publishedAt": "2011-03-26T18:21:52.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l78_GKn6NyUBnF5OYh_wGofbUSENT5MXK9JYyg=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "Real Project Mastery",
+        "channelId": "UCm8qqU47OfA_3jforf37cwg",
+        "channelUrl": "https://youtube.com/channel/UCm8qqU47OfA_3jforf37cwg",
+        "desc": "",
+        "publishedAt": "2016-10-17T10:32:52.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l7-D-gQJxLnZ2isyLC5x9hvgZQiM8KCEMz-3cw=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "A Tech Apart",
+        "channelId": "UCfnuCT9-kKSOOZ2vC85u5qA",
+        "channelUrl": "https://youtube.com/channel/UCfnuCT9-kKSOOZ2vC85u5qA",
+        "desc": "A Tech Apart - Be Apart",
+        "publishedAt": "2011-08-17T03:46:48.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l7-3RZdhvQ9bQ5C70YEcfJ9m-xZq5dtrgqf7uA=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "Mozilla Hacks",
+        "channelId": "UCijjo5gfAscWgNCKFHWm1EA",
+        "channelUrl": "https://youtube.com/channel/UCijjo5gfAscWgNCKFHWm1EA",
+        "desc": "Learn the best of web development today, and discover what's ahead for the web of tomorrow with Mozilla. \n\nOfficial home of Mozilla Developer Outreach on YouTube. Companion to Mozilla Hacks, our blog for web designers, developers, and people who make websites. Mozilla Hacks, keeping the Web open and accessible since 2009. \n\nCreated by Mozilla Developer Outreach team and many Mozillian friends, staff members, and volunteer contributors. Thank you!",
+        "publishedAt": "2009-10-06T00:31:17.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l78KfuB-vo82CS2dmx9mEU6k8yOsB1tCq2j6JA=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "Tyler McGinnis",
+        "channelId": "UCbAn7pVK2VIyo-UysfWGdZQ",
+        "channelUrl": "https://youtube.com/channel/UCbAn7pVK2VIyo-UysfWGdZQ",
+        "desc": "The linear, course based approach to learning web technologies.",
+        "publishedAt": "2009-03-31T01:29:31.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l78N2X7Oxi11E4djJ6TAknFBAch0EdFGaeOVGw=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "Codegram Technologies",
+        "channelId": "UCwoOpKfkyCQHW562hXXQAGg",
+        "channelUrl": "https://youtube.com/channel/UCwoOpKfkyCQHW562hXXQAGg",
+        "desc": "Codegram is a software studio specializing in Ruby, Elixir and Clojure applications, crafted with love in Barcelona and Berlin.",
+        "publishedAt": "2013-12-13T16:24:40.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l78zm0mjYDsYiIbPGDQ6CjEH-daGosyFnskMqg=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "KinomaTV",
+        "channelId": "UChfzJf_b3vPWPOd84jgjBhQ",
+        "channelUrl": "https://youtube.com/channel/UChfzJf_b3vPWPOd84jgjBhQ",
+        "desc": "Kinoma is a tightly integrated design and engineering team residing at global semiconductor leader Marvell. Kinoma Create is the JavaScript-powered Internet of Things construction kit with the mission to power the next wave of connected device prototyping. http://www.kinoma.com/",
+        "publishedAt": "2008-08-22T23:21:42.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l7_ex49P8ZZazmS5gFKIremClrPWtsKFp7Hz0A=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "One Month",
+        "channelId": "UCDmmGdnj0Ud9YUMhsSaa1Qg",
+        "channelUrl": "https://youtube.com/channel/UCDmmGdnj0Ud9YUMhsSaa1Qg",
+        "desc": "At One Month, we are all about helping you build the skills you need as quickly as possible. All of our videos are designed to help you grow your business or build your next website or app. With the help of experienced teachers, you can learn to code online via engaging video lessons and on-demand Q&A’s with instructors. So whether you want to learn how to code apps or a website, or how to get your startup off the ground, we’re dedicated to helping you build the core skillsets you need. Subscribe and get started today!",
+        "publishedAt": "2013-10-16T16:24:43.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l78miLIxoeAPxEQ5Ij7yhW_siUd-1oS7OzMQuw=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "VUSec",
+        "channelId": "UC9WimJoKklmni4feJD9bdhw",
+        "channelUrl": "https://youtube.com/channel/UC9WimJoKklmni4feJD9bdhw",
+        "desc": "Systems and Network Security Group at VU Amsterdam",
+        "publishedAt": "2016-02-09T18:07:13.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l78khf4D7NtAHrtu1mnKXTdK09bNQGD_S2mUfQ=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "node.js",
+        "channelId": "UCQPYJluYC_sn_Qz_XE-YbTQ",
+        "channelUrl": "https://youtube.com/channel/UCQPYJluYC_sn_Qz_XE-YbTQ",
+        "desc": "Node.js Foundation is a collaborative open source project dedicated to building and supporting the Node.js platform and other related modules. Node.js is used by tens of thousands of organizations in more than 200 countries and amasses more than 2 million downloads per month. https://nodejs.org/en/",
+        "publishedAt": "2015-12-05T16:21:00.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l7_KGJFwD96H3d4loTkCexFFNxziatphVftWbA=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "KAMLESHUTUBE",
+        "channelId": "UCiFKla81gcE8mLv7ztYJzLA",
+        "channelUrl": "https://youtube.com/channel/UCiFKla81gcE8mLv7ztYJzLA",
+        "desc": "Free Education for All,Single Platform for Self Learning and Effortless Study.",
+        "publishedAt": "2008-05-16T20:29:37.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l7-fuwpSuFznZCvBN5ISrjJ3s6vRF-Wm62je-Q=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "MakeUseOf",
+        "channelId": "UCfXdejDvNviqilmJ9DvGuow",
+        "channelUrl": "https://youtube.com/channel/UCfXdejDvNviqilmJ9DvGuow",
+        "desc": "MakeUseOf's official YouTube channel where you'll find video reviews, giveaways and technology tips.",
+        "publishedAt": "2013-12-30T06:30:02.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l7-PbKnb0Pxly68hcl493lhIZnDL0ssMmbwnaQ=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "hdvidsonly",
+        "channelId": "UCAZQpV8idyPIgSTbtZZP8OA",
+        "channelUrl": "https://youtube.com/channel/UCAZQpV8idyPIgSTbtZZP8OA",
+        "desc": "You'll be able to find all type of computer tutorials free in this channel.",
+        "publishedAt": "2009-06-18T14:21:18.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l7_39sj6Hkb6EPgZCaMhqdaL94snfre2slZZyw=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "wm2system",
+        "channelId": "UCWPdhR1u6n9qK4D8fKi8klQ",
+        "channelUrl": "https://youtube.com/channel/UCWPdhR1u6n9qK4D8fKi8klQ",
+        "desc": "",
+        "publishedAt": "2010-11-13T10:47:33.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l7_h-NAIIw22nP7hhaI8TIkHVvVZYiLE1ijH3Q=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "T Umezawa",
+        "channelId": "UCzXL5v5_-L-s4cDhK3I35Dg",
+        "channelUrl": "https://youtube.com/channel/UCzXL5v5_-L-s4cDhK3I35Dg",
+        "desc": "",
+        "publishedAt": "2011-10-31T07:25:32.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l78D9Hf3fkwQNlgAXlk-9Xi-LwDp00NQAjCgNw=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "DevDungeon",
+        "channelId": "UCgkG68BiCngkoV7I2BLtAVg",
+        "channelUrl": "https://youtube.com/channel/UCgkG68BiCngkoV7I2BLtAVg",
+        "desc": "Tutorials and resources for software developers and hackers.\n\nVisit www.devdungeon.com for more tutorials and to join the community. Come chat on Discord https://discord.gg/JWsSHJC",
+        "publishedAt": "2015-07-09T03:35:26.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l7_xO66tsJQUwzFy41tZ9r3Yt78Q6VunMO57Ww=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "코딩의 신 아샬",
+        "channelId": "UCLLncfeIYljE0o_yUw7MkcA",
+        "channelUrl": "https://youtube.com/channel/UCLLncfeIYljE0o_yUw7MkcA",
+        "desc": "코딩의 신[神] 아샬\n\n매일 성장합시다!",
+        "publishedAt": "2008-07-17T14:28:22.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l79PI6bBravn9y1kEdbyxp1DR0ROUjdaqV30oA=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "22kazak",
+        "channelId": "UCNAg3hG_zjLiKE3LmIZf8hQ",
+        "channelUrl": "https://youtube.com/channel/UCNAg3hG_zjLiKE3LmIZf8hQ",
+        "desc": "Интернет бизнес, партнёрские программы",
+        "publishedAt": "2010-01-22T08:45:03.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l7-NLIo2j4XFy-1uwoIU4rS8JoChMbu8jju3Aw=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "Robert Attorri",
+        "channelId": "UCzWAjczkhr9TfzQvLEAmweA",
+        "channelUrl": "https://youtube.com/channel/UCzWAjczkhr9TfzQvLEAmweA",
+        "desc": "",
+        "publishedAt": "2009-03-03T18:09:24.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l79TY0OtdwN6mKf2_CgqhGaS0qMGltFutEeeOA=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "jquery",
+        "channelId": "UCDT2QjewZ8DHsiaDXQFkxPg",
+        "channelUrl": "https://youtube.com/channel/UCDT2QjewZ8DHsiaDXQFkxPg",
+        "desc": "",
+        "publishedAt": "2006-09-21T10:20:20.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l79vXukfwX-nKdjgbvzu86T8vkrkjNfU61he2g=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "Asim Ali",
+        "channelId": "UCGnKyJ7EZJ7vL_PXkOGLUxw",
+        "channelUrl": "https://youtube.com/channel/UCGnKyJ7EZJ7vL_PXkOGLUxw",
+        "desc": "Mostly lectures of the awesome guy David J. Malan, senior lecturer at Harvard CS Department. and funny videos on random days. ;-)\n\nIf you subscribe on my channel you end up adding yourself to the great Bro Army...",
+        "publishedAt": "2012-08-10T00:48:44.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l79-PuFJsg02ZhDt_UFtxUQuGklgzVfRGxVumQ=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "JavaScript Israel",
+        "channelId": "UCyUEQd6gp05bO9FfMP4pz2g",
+        "channelUrl": "https://youtube.com/channel/UCyUEQd6gp05bO9FfMP4pz2g",
+        "desc": "A place for the Israeli JavaScript community to share best practices, new frameworks and efficient tools in order to write cleaner and better code in less time.",
+        "publishedAt": "2013-03-14T21:58:37.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l7_5dGPoyOzGHFUo65r_eWN8DsI8XhTo5-HnAg=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "DM TV Mady",
+        "channelId": "UCE4xwhi_JMpTj0FQz7b2gaw",
+        "channelUrl": "https://youtube.com/channel/UCE4xwhi_JMpTj0FQz7b2gaw",
+        "desc": "Salut! Am creat acest canal pentru a va ajuta cu cateva serii de Web Development. Voi incerca sa postez in jur de 2 episoade pe saptamana :)\n\nMomentan am luat o pauza de la tutoriale.\n\nPentru probleme legate de videoclipurile postate, ma poti contacta la:\nEmail: kinetictypographyvideos@gmail.com",
+        "publishedAt": "2014-08-12T21:11:09.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l7-_asGuNBme94h8--KQkrgoqddTOQoQP3S-zA=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "Anirudh Joshi",
+        "channelId": "UCc84evX_Bhi4OzC5lgJdxag",
+        "channelUrl": "https://youtube.com/channel/UCc84evX_Bhi4OzC5lgJdxag",
+        "desc": "",
+        "publishedAt": "2011-11-02T00:49:30.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l78AjabB9dV6HoEev_iav2RViCqTfzV2BtzGkw=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "Nodecasts",
+        "channelId": "UCwXMtRJvXLKGHZhPUHNV72Q",
+        "channelUrl": "https://youtube.com/channel/UCwXMtRJvXLKGHZhPUHNV72Q",
+        "desc": "Nodecasts.io is a premium screencast site with videos around learning Node.js, JavaScript and general web development!",
+        "publishedAt": "2013-07-31T02:42:33.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l78fw5ZEg8Q8LiP7VyPVr2PcGQ0kWIqW11eLJA=s800-c-k-c0xffffffff-no-rj-mo"
+    }, {
+        "title": "hcode",
+        "channelId": "UCjWENuSH2gX55-y7QSZiWxA",
+        "channelUrl": "https://youtube.com/channel/UCjWENuSH2gX55-y7QSZiWxA",
+        "desc": "Seja Bem Vindo ao Canal Oficial da Hcode, aqui encontrará palestras, tutoriais, web séries educacionais, dicas e truques, boas práticas e as últimas novidades da Hcode no Universo da Tecnologia.\n\nAproveite para assinar o Canal e ficar por dentro das nossas novidades em primeira mão.\n\nConheça mais sobre a Hcode em www.hcode.com.br",
+        "publishedAt": "2016-02-05T00:29:30.000Z",
+        "thumbnails": "https://yt3.ggpht.com/a/AGF-l7-xfVAA7KuAbt2v3USbFo0Hgwviu_00b_VDIA=s800-c-k-c0xffffffff-no-rj-mo"
+    }]
+}
