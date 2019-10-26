@@ -1,23 +1,29 @@
-const axios = require('axios');
-const fs = require('fs');
-const path = require('path');
+const axios = require("axios");
+const fs = require("fs");
+const path = require("path");
 
-const GOOGLE_API_KEY = fs.readFileSync('./credential-keys.txt', 'utf-8'); // Google API key is saved in credential file
+const GOOGLE_API_KEY = fs.readFileSync("./credential-keys.txt", "utf-8"); // Google API key is saved in credential file
 
-const readJSONFile = (name) => new Promise((resolve, reject) => {
-  fs.readFile(name, "utf8", (err, data) => {
-    if (err) reject(err);
-    resolve(data);
+const readJSONFile = name =>
+  new Promise((resolve, reject) => {
+    fs.readFile(name, "utf8", (err, data) => {
+      if (err) reject(err);
+      resolve(data);
+    });
   });
-});
 
 const writeJSONFile = (name, data) =>
   new Promise((resolve, reject) => {
-    fs.writeFile(name, JSON.stringify(data), "utf8", (err) => {
+    fs.writeFile(name, JSON.stringify(data), "utf8", err => {
       if (err) reject(err);
       resolve("Done");
     });
   });
+
+module.exports = {
+  readJSONFile,
+  writeJSONFile
+};
 
 class YoutubeChannel {
   constructor(title, channelId, desc, publishedAt, thumbnails) {
@@ -31,7 +37,14 @@ class YoutubeChannel {
 }
 
 class YoutubeChannelStatistics {
-  constructor(title, channelId, channelUrl, viewCount, subscriberCount, videoCount) {
+  constructor(
+    title,
+    channelId,
+    channelUrl,
+    viewCount,
+    subscriberCount,
+    videoCount
+  ) {
     this.title = title;
     this.channelId = channelId;
     this.channelUrl = channelUrl;
@@ -54,7 +67,11 @@ class YoutubeDataAPISearchWrapper {
       let nextPageToken = "";
       for (let i = 0; i < limit; i++) {
         if (i > 0) query = query.replace(/pageToken.+/, "");
-        let uri = "https://www.googleapis.com/youtube/v3/" + query + "&key=" + GOOGLE_API_KEY;
+        let uri =
+          "https://www.googleapis.com/youtube/v3/" +
+          query +
+          "&key=" +
+          GOOGLE_API_KEY;
         if (i > 0) uri += "&pageToken=" + nextPageToken;
         if (nextPageToken === undefined) break;
 
@@ -74,7 +91,9 @@ class YoutubeDataAPISearchWrapper {
 
           if (channelId in uriDict) continue;
           uriDict[channelId] = true;
-          this.channels.push(new YoutubeChannel(title, channelId, desc, publishedAt, thumbnails));
+          this.channels.push(
+            new YoutubeChannel(title, channelId, desc, publishedAt, thumbnails)
+          );
         }
       }
       return;
@@ -90,7 +109,13 @@ class YoutubeDataAPISearchWrapper {
       jsonData = JSON.parse(jsonData).channels;
 
       for (const channel of jsonData) {
-        let uri = "https://www.googleapis.com/youtube/v3/" + query + "&id=" + channel.channelId + "&key=" + GOOGLE_API_KEY;
+        let uri =
+          "https://www.googleapis.com/youtube/v3/" +
+          query +
+          "&id=" +
+          channel.channelId +
+          "&key=" +
+          GOOGLE_API_KEY;
         const response = await axios.get(uri);
         const data = response.data.items[0];
         const viewCount = data.statistics.viewCount;
@@ -100,22 +125,39 @@ class YoutubeDataAPISearchWrapper {
         if (channel.channelId in uriDict) return;
         uriDict[channel.channelId] = true;
 
-        this.channelStats.push(new YoutubeChannelStatistics(channel.title, channel.channelId, channel.channelUrl,
-          viewCount, subscriberCount, videoCount));
-      };
+        this.channelStats.push(
+          new YoutubeChannelStatistics(
+            channel.title,
+            channel.channelId,
+            channel.channelUrl,
+            viewCount,
+            subscriberCount,
+            videoCount
+          )
+        );
+      }
       return;
     } catch (err) {
       console.log(err);
     }
   }
 
-  async getVtuberChannelBasicData(file, query = "channels?part=snippet&fields=items(id,snippet(title,description,publishedAt,thumbnails(high)))") {
+  async getVtuberChannelBasicData(
+    file,
+    query = "channels?part=snippet&fields=items(id,snippet(title,description,publishedAt,thumbnails(high)))"
+  ) {
     const uriDict = {};
     let jsonData = await readJSONFile(file);
     jsonData = JSON.parse(jsonData).channels;
 
     for (const channel of jsonData) {
-      let uri = "https://www.googleapis.com/youtube/v3/" + query + "&id=" + channel.channelId + "&key=" + GOOGLE_API_KEY;
+      let uri =
+        "https://www.googleapis.com/youtube/v3/" +
+        query +
+        "&id=" +
+        channel.channelId +
+        "&key=" +
+        GOOGLE_API_KEY;
       const response = await axios.get(uri);
 
       const data = response.data.items[0];
@@ -128,14 +170,16 @@ class YoutubeDataAPISearchWrapper {
       if (channelId in uriDict) continue;
       uriDict[channelId] = true;
 
-      this.channelBasic.push(new YoutubeChannel(title, channelId, desc, publishedAt, thumbnails));
+      this.channelBasic.push(
+        new YoutubeChannel(title, channelId, desc, publishedAt, thumbnails)
+      );
     }
     return;
-  } catch (err) {
+  }
+  catch(err) {
     console.log(err);
   }
 }
-
 
 // TODO: VTuber
 // q=vtuber
