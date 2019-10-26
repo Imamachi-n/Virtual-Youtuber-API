@@ -28,7 +28,7 @@ module.exports = (knex) => {
   return {
     list: require("./list")(knex, Channel),
     get: () => {},
-    create: () => {},
+    create: require("./create")(knex, Channel),
     mod: () => {},
     delete: () => {},
   };

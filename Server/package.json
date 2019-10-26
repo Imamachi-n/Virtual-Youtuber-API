@@ -4,7 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "test": "mocha tests/models.test.js && yarn lint",
+    "test": "node tests/initialize.js && mocha tests/models.test.js && yarn lint",
     "lint": "eslint --fix .",
     "start": "node index.js",
     "dev": "nodemon index.js",
