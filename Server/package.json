@@ -4,29 +4,34 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "test": "node tests/initialize.js && mocha tests/test.js && yarn lint",
+    "test": "mocha tests/models.test.js && yarn lint",
     "lint": "eslint --fix .",
     "start": "node index.js",
+    "dev": "nodemon index.js",
     "migrate": "knex migrate:latest --knexfile models/knexfile.js",
     "rollback": "knex migrate:rollback --knexfile models/knexfile.js",
     "seed": "knex seed:run --knexfile models/knexfile.js",
     "precommit": "pretty-quick --staged"
   },
   "dependencies": {
+    "body-parser": "^1.19.0",
     "express": "^4.17.1",
     "knex": "^0.20.0",
     "pg": "^7.12.1"
   },
   "devDependencies": {
     "chai": "^4.2.0",
+    "chai-http": "^4.3.0",
     "eslint": "^6.6.0",
     "eslint-config-prettier": "^6.4.0",
     "eslint-config-problems": "^3.0.1",
     "eslint-plugin-prettier": "^3.1.1",
     "husky": "^3.0.9",
     "mocha": "^6.2.2",
+    "nodemon": "^1.19.4",
     "prettier": "^1.18.2",
     "pretty-quick": "^2.0.0",
+    "sinon": "^7.5.0",
     "sqlite3": "^4.1.0"
   }
 }
