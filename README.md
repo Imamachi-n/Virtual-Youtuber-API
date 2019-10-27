@@ -1,8 +1,10 @@
 # Virtual-Youtuber-API
 
-Virtual Youtuber (VTuber) API using Express.js and Knex.js
+**This was created during my time as a student at Code Chrysalis**
 
-## Environment
+Virtual YouTuber (VTuber) API is the data collection of 700+ Virtual TouTuber channels. The raw data was gotten from [YouTube Data API v3](https://developers.google.com/youtube/v3) and then extracted the basic data for only Virtual TouTubers.
+
+## Setup environment
 
 ### Postgres
 
@@ -25,3 +27,11 @@ knex migrate:make add_channels_table --knexfile models/knexfile.js
 ```bash
 knex seed:make seed_channels_data --knexfile models/knexfile.js
 ```
+
+## How to use API
+
+Get the list of all Virtual YouTuber channels.
+
+| Method | URI           |
+| ------ | ------------- |
+| GET    | /api/channels |
