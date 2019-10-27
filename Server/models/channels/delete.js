@@ -1,10 +1,10 @@
 module.exports = (knex, Channel) => {
   return (params) => {
-    const { channel_id } = params;
+    const { id } = params;
 
     return knex("channels")
       .where({
-        channel_id,
+        channel_id: id,
       })
       .delete()
       .then(() => {

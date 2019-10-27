@@ -199,7 +199,7 @@ describe("channels model", () => {
 
     it("should delete an given channel", (done) => {
       const params = {
-        channel_id: "YYYYYY",
+        id: "YYYYYY",
       };
       models.channels
         .delete(params)

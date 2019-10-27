@@ -116,4 +116,24 @@ describe("channel controller", () => {
       expect(res.body.thumbnail).to.be.eq(reqBody.thumbnail);
     });
   });
+
+  describe("DELETE - /api/channels/:id", () => {
+    const newChannel = {
+      channel_title_jp: "VTuber Naoto JP",
+      channel_title_en: "VTuber Naoto EN",
+      channel_id: "YYYYYY",
+      thumbnail: undefined,
+    };
+
+    before(() => models.channels.create(newChannel));
+    after(() => knex(TABLE_CHANNELS).delete());
+
+    it("should delete an given channel", async () => {
+      const res = await request.delete(
+        `/api/channels/${newChannel.channel_id}`
+      );
+
+      expect(res.body.length).to.be.eq(0);
+    });
+  });
 });
