@@ -10,9 +10,7 @@ const config = require("../config");
 const knex = require("knex")(config.db);
 const models = require("../models")(knex);
 
-const forcePromiseReject = () => {
-  throw new Error("This promise should have failed, but did not.");
-};
+const TABLE_CHANNELS = "channels";
 
 describe("channel controller", () => {
   beforeEach(() => {
@@ -21,13 +19,29 @@ describe("channel controller", () => {
     // stubModels.list.returns(new Promise((resolve) => {
     //   resolve(5);
     // }));
-    // request = chai.request(setupServer(stubModels));
+    request = chai.request(setupServer(models));
   });
 
   describe("#list", () => {
-    it("test", async () => {
-      // const res = await request.get("/api/channels");
-      // console.log(res);
+    const newChannel = {
+      channel_title_jp: "VTuber Naoto JP",
+      channel_title_en: "VTuber Naoto EN",
+      channel_id: "XXXXX",
+      thumbnail: undefined,
+    };
+
+    before(() => models.channels.create(newChannel));
+    after(() => knex(TABLE_CHANNELS).delete());
+
+    it("should return list of all channels", async () => {
+      const res = await request.get("/api/channels");
+      expect(res.body[0].channel_title_jp).to.be.eq(
+        newChannel.channel_title_jp
+      );
+      expect(res.body[0].channel_title_en).to.be.eq(
+        newChannel.channel_title_en
+      );
+      expect(res.body[0].channel_id).to.be.eq(newChannel.channel_id);
     });
   });
 });
