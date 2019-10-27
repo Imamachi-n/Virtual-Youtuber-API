@@ -109,17 +109,25 @@ describe("channels table", () => {
         });
     });
 
-    // context("should return err message when a duplicate channel name is provided", () => {
-    //   beforeEach((done) => {
-    //     models.channels.create(newChannel);
-    //     done();
-    //   });
+    context(
+      "should return err message when a duplicate channel name is provided",
+      () => {
+        beforeEach((done) => {
+          models.channels.create(newChannel);
+          done();
+        });
 
-    //   it("should return err message when a duplicate channel name is provided", (done) => {
-    //     models.channels.create(newChannel).then(forcePromiseReject).catch((err) => expect(err.message).to.be.equal("That channel already exists"))
-    //     done();
-    //   });
-    // });
+        it("should return err message when a duplicate channel name is provided", (done) => {
+          models.channels
+            .create(newChannel)
+            .then(forcePromiseReject)
+            .catch((err) => {
+              expect(err.message).to.be.equal("That channel already exists");
+              done();
+            });
+        });
+      }
+    );
   });
 
   describe("#mod", () => {
