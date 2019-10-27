@@ -1,6 +1,6 @@
 # Virtual YouTuber REST API
 
-**This was created during my time as a student at Code Chrysalis**
+**This was created during my time as a student at [Code Chrysalis](https://www.codechrysalis.io/).**
 
 Virtual YouTuber (VTuber) API is the data collection of 700+ Virtual YouTuber channels. The raw data was gotten from [YouTube Data API v3](https://developers.google.com/youtube/v3) and then extracted the basic data for only Virtual TouTubers.
 
