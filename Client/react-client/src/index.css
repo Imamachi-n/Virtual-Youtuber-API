@@ -9,10 +9,10 @@ body {
 
 h1 {
   color: white;
-  margin-top: 20px;
-  background-color: rgba(0, 0, 0, 0.5);
-  padding: 5px;
-  border-radius: 5px;
+  padding-top: 40px;
+  padding-bottom: 10px;
+  text-align: center;
+  background-color: rgb(27, 96, 160);
 }
 
 img {

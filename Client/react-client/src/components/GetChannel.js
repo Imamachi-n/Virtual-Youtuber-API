@@ -13,6 +13,9 @@ class GetChannel extends React.Component {
   click = async (arg) => {
     const res = await axios.get("http://localhost:3000/api/channels");
     this.setState({
+      channels: [],
+    });
+    this.setState({
       channels: this.state.channels.concat(res.data),
     });
     console.log(res.data);
