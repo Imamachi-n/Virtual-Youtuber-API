@@ -1,12 +1,12 @@
-# Virtual-Youtuber-API
+# Virtual YouTuber REST API
 
 **This was created during my time as a student at Code Chrysalis**
 
-Virtual YouTuber (VTuber) API is the data collection of 700+ Virtual TouTuber channels. The raw data was gotten from [YouTube Data API v3](https://developers.google.com/youtube/v3) and then extracted the basic data for only Virtual TouTubers.
+Virtual YouTuber (VTuber) API is the data collection of 700+ Virtual YouTuber channels. The raw data was gotten from [YouTube Data API v3](https://developers.google.com/youtube/v3) and then extracted the basic data for only Virtual TouTubers.
 
 ## Setup environment
 
-### Postgres
+### 1. PostgreSQL Database
 
 You will need postgres installed. If you haven't installed it already, download and install the [PostgresApp](https://postgresapp.com/) and verify its working by running the command `psql` in your terminal.
 
@@ -19,13 +19,29 @@ echo "CREATE DATABASE vtuber_api TEMPLATE template0 ENCODING 'UTF-8' LC_COLLATE 
 #### Migrations
 
 ```bash
+cd Server
 knex migrate:make add_channels_table --knexfile models/knexfile.js
 ```
 
 #### Seeds
 
 ```bash
+cd Server
 knex seed:make seed_channels_data --knexfile models/knexfile.js
+```
+
+### 2. Starting REST API server
+
+```bash
+cd Server
+yarn dev
+```
+
+### 3. Starting Front-end server
+
+```bash
+cd Client/react-client
+yarn start
 ```
 
 ## How to use API
