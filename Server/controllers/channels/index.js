@@ -41,8 +41,7 @@ module.exports = (models) => {
   const modChannel = (req, res) => {
     return models.channels
       .mod(req.params, req.body)
-      .then((channels) => channels.map((channel) => channel.serialize()))
-      .then((channels) => res.status(200).json(channels))
+      .then((channels) => res.status(200).json(channels.serialize()))
       .catch((err) => res.status(400).send(err.message));
   };
 

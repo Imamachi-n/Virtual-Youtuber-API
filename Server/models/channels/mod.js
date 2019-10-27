@@ -1,6 +1,6 @@
 module.exports = (knex, Channel) => {
   return (params, body) => {
-    const { channel_id } = params;
+    const { id } = params;
     const rawObj = {
       channel_title_jp: body.channel_title_jp,
       channel_title_en: body.channel_title_en,
@@ -14,13 +14,13 @@ module.exports = (knex, Channel) => {
 
     return knex("channels")
       .where({
-        channel_id,
+        channel_id: id,
       })
       .update(updateObj)
       .then(() => {
         return knex("channels")
           .where({
-            channel_id,
+            channel_id: id,
           })
           .select();
       })

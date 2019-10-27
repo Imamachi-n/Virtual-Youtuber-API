@@ -61,3 +61,4 @@ typings/
 .next
 
 credential-keys.txt
+.vscode

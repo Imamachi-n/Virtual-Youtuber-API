@@ -72,4 +72,48 @@ describe("channel controller", () => {
       expect(res.text).to.be.eq("That channel already exists");
     });
   });
+
+  describe("PATCH - /api/channels/:id", () => {
+    const newChannel = {
+      channel_title_jp: "VTuber Naoto JP",
+      channel_title_en: "VTuber Naoto EN",
+      channel_id: "YYYYYY",
+      thumbnail: "http://xxxx",
+    };
+
+    const reqBody = {
+      channel_title_jp: "TEST USER JP",
+      channel_title_en: "TEST USER EN",
+      thumbnail: "ZZZZZZ",
+    };
+
+    before(() => models.channels.create(newChannel));
+    after(() => knex(TABLE_CHANNELS).delete());
+
+    it("should return updated channel data - #1", async () => {
+      const res = await request
+        .patch(`/api/channels/${newChannel.channel_id}`)
+        .send(reqBody);
+
+      expect(res.body.channel_id).to.be.eq(newChannel.channel_id);
+      expect(res.body.channel_title_jp).to.be.eq(reqBody.channel_title_jp);
+      expect(res.body.channel_title_en).to.be.eq(reqBody.channel_title_en);
+      expect(res.body.thumbnail).to.be.eq(reqBody.thumbnail);
+    });
+
+    it("should return updated channel data - #2", async () => {
+      const reqModBody = {
+        channel_title_en: "MOD USER EN",
+      };
+
+      const res = await request
+        .patch(`/api/channels/${newChannel.channel_id}`)
+        .send(reqModBody);
+
+      expect(res.body.channel_id).to.be.eq(newChannel.channel_id);
+      expect(res.body.channel_title_jp).to.be.eq(reqBody.channel_title_jp);
+      expect(res.body.channel_title_en).to.be.eq(reqModBody.channel_title_en);
+      expect(res.body.thumbnail).to.be.eq(reqBody.thumbnail);
+    });
+  });
 });

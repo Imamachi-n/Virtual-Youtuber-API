@@ -9,7 +9,7 @@ const forcePromiseReject = () => {
   throw new Error("This promise should have failed, but did not.");
 };
 
-describe("channels table", () => {
+describe("channels model", () => {
   describe("database setup", () => {
     it("able to connect to database", () =>
       knex
@@ -143,7 +143,7 @@ describe("channels table", () => {
 
     it("should return updated channel data - #1", (done) => {
       params = {
-        channel_id: "YYYYYY",
+        id: "YYYYYY",
       };
       body = {
         channel_title_jp: "TEST USER JP",
@@ -166,7 +166,7 @@ describe("channels table", () => {
 
     it("should return updated channel data - #2", (done) => {
       params = {
-        channel_id: "YYYYYY",
+        id: "YYYYYY",
       };
       body = {
         channel_title_en: "MOD USER EN",
