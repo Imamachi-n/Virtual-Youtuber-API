@@ -1,6 +1,7 @@
 import React from "react";
 import "./App.css";
 import GetChannel from "./components/GetChannel";
+import PostChannel from "./components/PostChannel";
 
 function App() {
   return (
@@ -19,6 +20,8 @@ function App() {
         <li className="list-group-item active">POST</li>
         <li className="list-group-item">/api/channels/:channelId</li>
       </ul>
+
+      <PostChannel></PostChannel>
     </div>
   );
 }
