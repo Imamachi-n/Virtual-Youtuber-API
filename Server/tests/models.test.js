@@ -24,11 +24,21 @@ describe("channels table", () => {
   });
 
   describe("#list", () => {
+    const newChannel = {
+      channel_title_jp: "VTuber Naoto JP",
+      channel_title_en: "VTuber Naoto EN",
+      channel_id: "XXXXX",
+      thumbnail: undefined,
+    };
+
+    before(() => models.channels.create(newChannel));
+    after(() => knex(TABLE_CHANNELS).delete());
+
     it("should return the list of all channels", (done) => {
       models.channels
         .list()
         .then((channels) => {
-          expect(channels.length).to.equal(697);
+          expect(channels.length).to.equal(1);
           done();
         })
         .catch((err) => {
@@ -67,7 +77,7 @@ describe("channels table", () => {
     beforeEach(() =>
       knex(TABLE_CHANNELS)
         .where({
-          channel_title_jp: newChannel.channel_title_jp,
+          channel_id: newChannel.channel_id,
         })
         .delete()
     );
@@ -75,7 +85,7 @@ describe("channels table", () => {
     afterEach(() =>
       knex(TABLE_CHANNELS)
         .where({
-          channel_title_jp: newChannel.channel_title_jp,
+          channel_id: newChannel.channel_id,
         })
         .delete()
     );
@@ -110,5 +120,61 @@ describe("channels table", () => {
     //     done();
     //   });
     // });
+  });
+
+  describe("#mod", () => {
+    const newChannel = {
+      channel_title_jp: "VTuber Naoto JP",
+      channel_title_en: "VTuber Naoto EN",
+      channel_id: "YYYYYY",
+      thumbnail: undefined,
+    };
+
+    before(() => models.channels.create(newChannel));
+    after(() => knex(TABLE_CHANNELS).delete());
+
+    it("should return updated channel data - #1", (done) => {
+      params = {
+        channel_id: "YYYYYY",
+      };
+      body = {
+        channel_title_jp: "TEST USER JP",
+        channel_title_en: "TEST USER EN",
+        thumbnail: "ZZZZZZ",
+      };
+      models.channels
+        .mod(params, body)
+        .then((channel) => {
+          expect(channel.channelId).to.be.eq(newChannel.channel_id);
+          expect(channel.channelTitleJp).to.be.eq(body.channel_title_jp);
+          expect(channel.channelTitleEn).to.be.eq(body.channel_title_en);
+          expect(channel.thumbnail).to.be.eq(body.thumbnail);
+          done();
+        })
+        .catch((err) => {
+          done(err);
+        });
+    });
+
+    it("should return updated channel data - #2", (done) => {
+      params = {
+        channel_id: "YYYYYY",
+      };
+      body = {
+        channel_title_en: "MOD USER EN",
+      };
+      models.channels
+        .mod(params, body)
+        .then((channel) => {
+          expect(channel.channelId).to.be.eq(newChannel.channel_id);
+          expect(channel.channelTitleJp).to.be.eq("TEST USER JP");
+          expect(channel.channelTitleEn).to.be.eq(body.channel_title_en);
+          expect(channel.thumbnail).to.be.eq("ZZZZZZ");
+          done();
+        })
+        .catch((err) => {
+          done(err);
+        });
+    });
   });
 });

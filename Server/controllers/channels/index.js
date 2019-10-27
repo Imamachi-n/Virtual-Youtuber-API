@@ -28,8 +28,8 @@ module.exports = (models) => {
   const createChannel = (req, res) => {
     return models.channels
       .create({
-        channel_title_jp: req.body.channelTitleJp,
-        channel_title_en: req.body.channelTitleEn,
+        channel_title_jp: req.body.channel_title_jp,
+        channel_title_en: req.body.channel_title_en,
         channel_id: req.body.channel_id,
         thumbnail: req.body.thumbnail,
       })
@@ -40,7 +40,7 @@ module.exports = (models) => {
   // PATCH - a given VTuber channel data
   const modChannel = (req, res) => {
     return models.channels
-      .mod(req.body)
+      .mod(req.params, req.body)
       .then((channels) => channels.map((channel) => channel.serialize()))
       .then((channels) => res.status(200).json(channels))
       .catch((err) => res.status(400).send(err.message));

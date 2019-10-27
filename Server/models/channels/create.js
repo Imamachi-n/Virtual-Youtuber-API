@@ -26,10 +26,7 @@ module.exports = (knex, Channel) => {
           })
           .select();
       })
-      .then((channels) => {
-        console.log(channels);
-        new Channel(channels.pop());
-      })
+      .then((channels) => new Channel(channels.pop()))
       .catch((err) => {
         // throw unique constraint error
         if (
