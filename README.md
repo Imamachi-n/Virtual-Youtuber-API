@@ -4,6 +4,10 @@
 
 Virtual YouTuber (VTuber) API is the data collection of 700+ Virtual YouTuber channels. The raw data was gotten from [YouTube Data API v3](https://developers.google.com/youtube/v3) and then extracted the basic data for only Virtual TouTubers.
 
+## Architecture
+
+![architecture](./img/architecture.png)
+
 ## Setup environment
 
 ### 1. PostgreSQL Database
