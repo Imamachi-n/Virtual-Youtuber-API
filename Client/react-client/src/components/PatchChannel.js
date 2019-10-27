@@ -13,14 +13,17 @@ class PostChannel extends React.Component {
 
   click = async (arg) => {
     const newChannel = {
-      channel_title_jp: "VTuber Naoto JP",
-      channel_title_en: "VTuber Naoto EN",
+      channel_title_jp: "Modified Naoto JP",
+      channel_title_en: "Modified Naoto EN",
       channel_id: "UCPe7UZ81sD3zkj6jxDyCC2w",
       thumbnail: "https://source.unsplash.com/collection/21/400x400",
     };
     console.log(newChannel);
     axios
-      .post("http://localhost:3000/api/channels", newChannel)
+      .patch(
+        "http://localhost:3000/api/channels/UCPe7UZ81sD3zkj6jxDyCC2w",
+        newChannel
+      )
       .then((res) => {
         this.setState({
           channels: [],
