@@ -63,7 +63,7 @@ class GetChannel extends React.Component {
                 <td>Channel URL</td>
                 <td>
                   <a
-                    href="https://youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg"
+                    href={`${channel.channel_url}`}
                     target="_blank"
                     rel="noopener noreferrer"
                   >
