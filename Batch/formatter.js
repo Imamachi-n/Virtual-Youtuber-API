@@ -28,7 +28,7 @@ function sanitizeData(basicData, statData) {
     thumbnails: basicData.thumbnails,
     viewCount: statData.viewCount,
     subscriberCount: statData.subscriberCount,
-    videoCount: statData.videoCount
+    videoCount: statData.videoCount,
   };
 }
 
@@ -55,19 +55,34 @@ async function generateAlldata(...files) {
 // const fileBase = "channel_VTuber_1.json";
 // const fileBase = "channel_VTuber_2.json";
 // const fileBase = "channel_VTuber_VC_1.json";
+// const fileBase = "video_JavaScript_1.json";
+// const fileBase = "video_JavaScript_2.json";
+// const fileBase = "video_nodejs_1.json";
+// const fileBase = "video_nodejs_2.json";
 // generateMergedJSONFile(fileBase).then(data => writeJSONFile(path.join(__dirname, "/data/all_" + fileBase), {
 //   channels: data
 // }));
 
-const file = "VTuber_alldata.json";
+// const file = "VTuber_alldata.json";
+// generateAlldata(
+//   "all_channel_HoloLive_1.json",
+//   "all_channel_Nijisanji-Syozoku_1.json",
+//   "all_channel_VTuber_1.json",
+//   "all_channel_VTuber_2.json",
+//   "all_channel_VTuber_VC_1.json"
+// ).then(data => {
+//   writeJSONFile(path.join(__dirname, "/data/" + file), {
+//     channels: data
+//   });
+// });
+const file = "JS_NodeJS_alldata.json";
 generateAlldata(
-  "all_channel_HoloLive_1.json",
-  "all_channel_Nijisanji-Syozoku_1.json",
-  "all_channel_VTuber_1.json",
-  "all_channel_VTuber_2.json",
-  "all_channel_VTuber_VC_1.json"
-).then(data => {
+  "all_video_JavaScript_1.json",
+  "all_video_JavaScript_2.json",
+  "all_video_nodejs_1.json",
+  "all_video_nodejs_2.json"
+).then((data) => {
   writeJSONFile(path.join(__dirname, "/data/" + file), {
-    channels: data
+    channels: data,
   });
 });

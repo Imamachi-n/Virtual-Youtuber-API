@@ -24,14 +24,14 @@ echo "CREATE DATABASE vtuber_api TEMPLATE template0 ENCODING 'UTF-8' LC_COLLATE 
 
 ```bash
 cd Server
-knex migrate:make add_channels_table --knexfile models/knexfile.js
+yarn run migrate
 ```
 
 #### Seeds
 
 ```bash
 cd Server
-knex seed:make seed_channels_data --knexfile models/knexfile.js
+yarn run seed
 ```
 
 ### 2. Starting REST API server

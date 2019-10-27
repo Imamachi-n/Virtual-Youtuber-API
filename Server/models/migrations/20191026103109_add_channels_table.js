@@ -23,11 +23,11 @@ exports.up = function(knex) {
 
     table.string("thumbnail", 200);
 
-    table.integer("view_count", 20).notNullable();
+    table.bigInteger("view_count").notNullable();
 
-    table.integer("subscriber_count", 20).notNullable();
+    table.integer("subscriber_count").notNullable();
 
-    table.integer("video_count", 20).notNullable();
+    table.integer("video_count").notNullable();
   });
 };
 

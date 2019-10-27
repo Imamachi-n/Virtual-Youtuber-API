@@ -10,7 +10,9 @@
     "dev": "nodemon index.js",
     "migrate": "knex migrate:latest --knexfile models/knexfile.js",
     "rollback": "knex migrate:rollback --knexfile models/knexfile.js",
-    "seed": "knex seed:run --knexfile models/knexfile.js",
+    "seed": "knex seed:run --knexfile models/knexfile.js --specific=seed_channels_data.js",
+    "seed2": "knex seed:run --knexfile models/knexfile.js --specific=seed_channels_data_JS_Nodejs.js",
+    "delete": "node ./tests/initialize.js",
     "precommit": "pretty-quick --staged"
   },
   "dependencies": {
