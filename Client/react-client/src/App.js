@@ -8,7 +8,7 @@ import DeleteChannel from "./components/DeleteChannel";
 function App() {
   return (
     <>
-      <h1>Virtual YouTuber API</h1>
+      <h1>Virtual YouTuber REST API</h1>
       <div className="container">
         <hr></hr>
         <ul className="list-group list-group-horizontal">
