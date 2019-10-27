@@ -177,4 +177,29 @@ describe("channels table", () => {
         });
     });
   });
+
+  describe("#delete", () => {
+    const newChannel = {
+      channel_title_jp: "VTuber Naoto JP",
+      channel_title_en: "VTuber Naoto EN",
+      channel_id: "YYYYYY",
+      thumbnail: undefined,
+    };
+
+    before(() => models.channels.create(newChannel));
+    after(() => knex(TABLE_CHANNELS).delete());
+
+    it("should delete an given channel", (done) => {
+      const params = {
+        channel_id: "YYYYYY",
+      };
+      models.channels
+        .delete(params)
+        .then((channel) => {
+          expect(channel.length).to.be.eq(0);
+          done();
+        })
+        .catch((err) => done(err));
+    });
+  });
 });

@@ -30,6 +30,6 @@ module.exports = (knex) => {
     get: () => {},
     create: require("./create")(knex, Channel),
     mod: require("./mod")(knex, Channel),
-    delete: () => {},
+    delete: require("./delete")(knex, Channel),
   };
 };
