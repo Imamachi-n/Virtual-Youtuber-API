@@ -118,7 +118,11 @@ yarn start
 
 ## DEMO: Front-end App
 
+### 1. Get the list of all Virtual YouTuber channels
+
 ![reactAppDemo1](./img/reactAppDemo1.png)
+
+### 2. Post a new Virtual YouTuber channel to API
 
 ![reactAppDemo2](./img/reactAppDemo2.png)
 
