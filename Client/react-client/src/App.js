@@ -2,6 +2,7 @@ import React from "react";
 import "./App.css";
 import GetChannel from "./components/GetChannel";
 import PostChannel from "./components/PostChannel";
+import DeleteChannel from "./components/DeleteChannel";
 
 function App() {
   return (
@@ -22,6 +23,13 @@ function App() {
       </ul>
 
       <PostChannel></PostChannel>
+
+      <ul className="list-group list-group-horizontal">
+        <li className="list-group-item active">DELETE</li>
+        <li className="list-group-item">/api/channels/:channelId</li>
+      </ul>
+
+      <DeleteChannel></DeleteChannel>
     </div>
   );
 }
