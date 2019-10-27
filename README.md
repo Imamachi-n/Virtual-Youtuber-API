@@ -30,8 +30,72 @@ knex seed:make seed_channels_data --knexfile models/knexfile.js
 
 ## How to use API
 
-Get the list of all Virtual YouTuber channels.
+### 1. Get the list of all Virtual YouTuber channels
 
 | Method | URI           |
 | ------ | ------------- |
 | GET    | /api/channels |
+
+#### Example
+
+```json
+[
+    {
+    "id": 1099,
+    "channel_title_jp": "フブキCh。白上フブキ",
+    "channel_title_en": "Shirakami Fubuki",
+    "channel_id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
+    "channel_url": "https://youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
+    "thumbnail":
+    "https://yt3.ggpht.com/a/AGF-l7-oeSvjxgdwMoDyT1LMH8nyqkWJCZH8MAOjzg=s800-c-k-c0xffffffff-no-rj-mo",
+    "view_count": 18967436,
+    "subscriber_count": 227000,
+    "video_count": 429
+    },
+    ...
+]
+```
+
+### 2. Post a new Virtual YouTuber channel to API
+
+| Method | URI                      |
+| ------ | ------------------------ |
+| POST   | /api/channels/:channelId |
+
+#### Example
+
+```json
+{
+  "channel_title_jp": "TEST YouTuber",
+  "channel_title_en": "TEST YouTuber (English)",
+  "channel_id": "XXXXXXXXXXXXXXXXXXXXXXXX",
+  "thumbnail": "https://XYZ.com/xxxyyyzzz.png"
+}
+```
+
+### 3. Modify a given Virtual YouTuber channel
+
+| Method | URI                      |
+| ------ | ------------------------ |
+| PATCH  | /api/channels/:channelId |
+
+#### Example
+
+```json
+{
+  "channel_title_jp": "MOD YouTuber",
+  "channel_title_en": "MOD YouTuber (English)",
+  "channel_id": "MOD_XYZ",
+  "thumbnail": "https://MOD.com/xxxyyyzzz.png"
+}
+```
+
+### 4. Delete a given Virtual YouTuber channel from API
+
+| Method | URI                      |
+| ------ | ------------------------ |
+| DELETE | /api/channels/:channelId |
+
+## license
+
+Copyright (c) 2019- Naoto Imamachi licensed under the MIT license.
