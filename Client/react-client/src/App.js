@@ -6,6 +6,8 @@ import PatchChannel from "./components/PatchChannel";
 import DeleteChannel from "./components/DeleteChannel";
 
 function App() {
+  const baseUrl = "http://localhost:3000/api/channels";
+
   return (
     <>
       <h1>Virtual YouTuber REST API</h1>
@@ -16,28 +18,28 @@ function App() {
           <li className="list-group-item">/api/channels</li>
         </ul>
 
-        <GetChannel></GetChannel>
+        <GetChannel url={baseUrl}></GetChannel>
 
         <ul className="list-group list-group-horizontal">
           <li className="list-group-item active">POST</li>
-          <li className="list-group-item">/api/channels/:channelId</li>
+          <li className="list-group-item">/api/channels/</li>
         </ul>
 
-        <PostChannel></PostChannel>
+        <PostChannel url={baseUrl}></PostChannel>
 
         <ul className="list-group list-group-horizontal">
           <li className="list-group-item active">PATCH</li>
           <li className="list-group-item">/api/channels/:channelId</li>
         </ul>
 
-        <PatchChannel></PatchChannel>
+        <PatchChannel url={baseUrl}>></PatchChannel>
 
         <ul className="list-group list-group-horizontal">
           <li className="list-group-item active">DELETE</li>
           <li className="list-group-item">/api/channels/:channelId</li>
         </ul>
 
-        <DeleteChannel></DeleteChannel>
+        <DeleteChannel url={baseUrl}>></DeleteChannel>
       </div>
     </>
   );

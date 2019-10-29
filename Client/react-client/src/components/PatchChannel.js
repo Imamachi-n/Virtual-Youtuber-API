@@ -13,8 +13,8 @@ class PostChannel extends React.Component {
 
   click = async (arg) => {
     const newChannel = {
-      channel_title_jp: "Modified Naoto JP",
-      channel_title_en: "Modified Naoto EN",
+      channel_title_jp: "BioHacker VTuber Naoto JP",
+      channel_title_en: "BioHacker VTuber Naoto EN",
       channel_id: "UCPe7UZ81sD3zkj6jxDyCC2w",
       thumbnail: "https://source.unsplash.com/collection/21/400x400",
     };

@@ -5,13 +5,15 @@ import axios from "axios";
 class GetChannel extends React.Component {
   constructor(props) {
     super(props);
+    console.log(props.url);
     this.state = {
       channels: [],
+      url: props.url,
     };
   }
 
   click = async (arg) => {
-    const res = await axios.get("http://localhost:3000/api/channels");
+    const res = await axios.get(this.state.url);
     this.setState({
       channels: [],
     });
@@ -27,6 +29,8 @@ class GetChannel extends React.Component {
         <div className="input-group mb-3 mt-3">
           <input
             type="text"
+            readOnly
+            value={this.state.url}
             className="form-control"
             placeholder="GET query"
             aria-label="getChannels"
@@ -39,7 +43,7 @@ class GetChannel extends React.Component {
               id="getChannels"
               onClick={this.click}
             >
-              Button
+              Get Channels
             </button>
           </div>
         </div>
