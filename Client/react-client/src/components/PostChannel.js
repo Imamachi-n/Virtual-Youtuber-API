@@ -33,12 +33,6 @@ class PostChannel extends React.Component {
   };
 
   click = async (arg) => {
-    console.log({
-      channel_title_jp: this.state.channelTitleJp,
-      channel_title_en: this.state.channelTitleEn,
-      channel_id: this.state.channelId,
-      thumbnail: this.state.thumbnail,
-    });
     axios
       .post(this.state.url, {
         channel_title_jp: this.state.channelTitleJp,

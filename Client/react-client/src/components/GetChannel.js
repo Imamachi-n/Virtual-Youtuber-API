@@ -12,15 +12,21 @@ class GetChannel extends React.Component {
     };
   }
 
-  click = async (arg) => {
-    const res = await axios.get(this.state.url);
-    this.setState({
-      channels: [],
-    });
-    this.setState({
-      channels: this.state.channels.concat(res.data),
-    });
-    console.log(res.data);
+  click = async () => {
+    axios
+      .get(this.state.url)
+      .then((res) => {
+        this.setState({
+          channels: res.data,
+        });
+      })
+      .catch((err) => {
+        this.setState({
+          channels: [],
+          err: true,
+        });
+        console.log(err);
+      });
   };
 
   render() {
