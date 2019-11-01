@@ -8,12 +8,14 @@ class DeleteChannel extends React.Component {
     this.state = {
       err: false,
       status: false,
+      url: this.props.url,
+      channelId: "UCPe7UZ81sD3zkj6jxDyCC2w",
     };
   }
 
   click = async (arg) => {
     axios
-      .delete("http://localhost:3000/api/channels/UCPe7UZ81sD3zkj6jxDyCC2w")
+      .delete(this.state.url + "/" + this.state.channelId)
       .then((res) => {
         this.setState({
           status: true,
@@ -28,12 +30,18 @@ class DeleteChannel extends React.Component {
       });
   };
 
+  onChangeChannelId = (e) => {
+    this.setState({ channelId: e.target.value });
+  };
+
   render() {
     return (
       <div>
         <div className="input-group mb-3 mt-3">
           <input
             type="text"
+            readOnly
+            value={this.state.url}
             className="form-control"
             placeholder="DELETE query"
             aria-label="deleteChannels"
@@ -48,6 +56,22 @@ class DeleteChannel extends React.Component {
             >
               Button
             </button>
+          </div>
+        </div>
+
+        <div className="form-group mb-3 mt-3">
+          {/* Channel ID */}
+          <div className="form-group row">
+            <label className="col-sm-2 col-form-label">Channel ID</label>
+            <div className="col-sm-10">
+              <input
+                type="text"
+                onChange={this.onChangeChannelId}
+                value={this.state.channelId}
+                className="form-control"
+                placeholder="Channel ID"
+              ></input>
+            </div>
           </div>
         </div>
 

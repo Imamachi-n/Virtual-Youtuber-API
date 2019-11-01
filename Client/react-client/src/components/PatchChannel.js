@@ -63,7 +63,7 @@ class PostChannel extends React.Component {
           <input
             type="text"
             readOnly
-            value={this.state.url}
+            value={this.state.url + `/` + this.state.channelId}
             className="form-control"
             placeholder="PATCH query"
             aria-label="patchChannels"
