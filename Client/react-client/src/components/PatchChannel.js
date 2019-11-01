@@ -8,28 +8,41 @@ class PostChannel extends React.Component {
     this.state = {
       channels: [],
       err: false,
+      url: props.url,
+      channelTitleJp: "BioHacker VTuber Naoto JP",
+      channelTitleEn: "BioHacker VTuber Naoto EN",
+      channelId: "UCPe7UZ81sD3zkj6jxDyCC2w",
+      thumbnail: "https://source.unsplash.com/collection/21/400x400",
     };
   }
 
+  onChangeChannelTittleJp = (e) => {
+    this.setState({ channelTitleJp: e.target.value });
+  };
+
+  onChangeChannelTittleEn = (e) => {
+    this.setState({ channelTitleEn: e.target.value });
+  };
+
+  onChangeChannelId = (e) => {
+    this.setState({ channelId: e.target.value });
+  };
+
+  onChangeThumbnail = (e) => {
+    this.setState({ thumbnail: e.target.value });
+  };
+
   click = async (arg) => {
-    const newChannel = {
-      channel_title_jp: "BioHacker VTuber Naoto JP",
-      channel_title_en: "BioHacker VTuber Naoto EN",
-      channel_id: "UCPe7UZ81sD3zkj6jxDyCC2w",
-      thumbnail: "https://source.unsplash.com/collection/21/400x400",
-    };
-    console.log(newChannel);
     axios
-      .patch(
-        "http://localhost:3000/api/channels/UCPe7UZ81sD3zkj6jxDyCC2w",
-        newChannel
-      )
+      .patch(this.state.url + "/" + this.state.channelId, {
+        channel_title_jp: this.state.channelTitleJp,
+        channel_title_en: this.state.channelTitleEn,
+        channel_id: this.state.channelId,
+        thumbnail: this.state.thumbnail,
+      })
       .then((res) => {
         this.setState({
-          channels: [],
-        });
-        this.setState({
-          channels: this.state.channels.concat(res.data),
+          channels: [res.data],
           err: false,
         });
         console.log(res.data);
@@ -49,20 +62,80 @@ class PostChannel extends React.Component {
         <div className="input-group mb-3 mt-3">
           <input
             type="text"
+            readOnly
+            value={this.state.url}
             className="form-control"
-            placeholder="POST query"
-            aria-label="postChannels"
-            aria-describedby="postChannels"
+            placeholder="PATCH query"
+            aria-label="patchChannels"
+            aria-describedby="patchChannels"
           ></input>
           <div className="input-group-append">
             <button
               className="btn btn-outline-primary"
               type="button"
-              id="postChannels"
+              id="patchChannels"
               onClick={this.click}
             >
-              Button
+              Patch Your Channel
             </button>
+          </div>
+        </div>
+
+        <div className="form-group mb-3 mt-3">
+          {/* Channel Title JP */}
+          <div className="form-group row">
+            <label className="col-sm-2 col-form-label">Channel Title JP</label>
+            <div className="col-sm-10">
+              <input
+                type="text"
+                onChange={this.onChangeChannelTittleJp}
+                value={this.state.channelTitleJp}
+                className="form-control"
+                placeholder="Channel Title JP"
+              ></input>
+            </div>
+          </div>
+
+          {/* Channel Title EN */}
+          <div className="form-group row">
+            <label className="col-sm-2 col-form-label">Channel Title EN</label>
+            <div className="col-sm-10">
+              <input
+                type="text"
+                onChange={this.onChangeChannelTittleEn}
+                value={this.state.channelTitleEn}
+                className="form-control"
+                placeholder="Channel Title EN"
+              ></input>
+            </div>
+          </div>
+
+          {/* Channel ID */}
+          <div className="form-group row">
+            <label className="col-sm-2 col-form-label">Channel ID</label>
+            <div className="col-sm-10">
+              <input
+                type="text"
+                onChange={this.onChangeChannelId}
+                value={this.state.channelId}
+                className="form-control"
+                placeholder="Channel ID"
+              ></input>
+            </div>
+          </div>
+
+          {/* Thumbnail */}
+          <div className="form-group row">
+            <label className="col-sm-2 col-form-label">Thumbnail</label>
+            <div className="col-sm-10">
+              <input
+                type="text"
+                onChange={this.onChangeThumbnail}
+                value={this.state.thumbnail}
+                className="form-control"
+                placeholder="Thumbnail"
+              ></input>
+            </div>
           </div>
         </div>
 
