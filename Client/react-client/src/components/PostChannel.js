@@ -41,18 +41,10 @@ class PostChannel extends React.Component {
         thumbnail: this.state.thumbnail,
       })
       .then((res) => {
-        console.log(res.data);
         this.setState({
-          channels: [],
-        });
-        this.setState({
-          channels: this.state.channels.concat(res.data),
+          channels: [res.data],
           err: false,
         });
-        // this.setState({
-        //   channels: res.data,
-        //   err: false,
-        // });
       })
       .catch((err) => {
         this.setState({
